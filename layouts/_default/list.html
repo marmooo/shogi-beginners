@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <title>{{ .Title}}: 将棋びぎなーず</title>
+    {{ partial "head.html" }}
+    <style>
+      html[data-theme="dark"] { filter: invert(1) hue-rotate(180deg); }
+      html[data-theme="dark"] img { filter: invert(1) hue-rotate(180deg); }
+    </style>
+    <script data-ad-client="ca-pub-6459713332128733" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+  <body>
+    {{ partial "navbar.html" }}
+    <main class="container">
+      {{ .Content }}
+    </main>
+    <footer class="pt-4 alert text-center">
+      <div class="pt-3">
+        <a class="px-1" href="/">Home</a>
+        <a class="px-1" href="/terms/">Terms</a>
+        <a class="px-1" href="https://github.com/marmooo/shogi-beginners">Contact</a>
+      </div>
+      <div class="text-muted">&copy; <a href="https://github.com/marmooo">marmooo</a></div>
+    </footer>
+    <script src="/shogi-beginners/index.min.js"></script>
+  </body>
+</html>
