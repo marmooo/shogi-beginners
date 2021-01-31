@@ -1,6 +1,7 @@
 baseURL = "http://marmooo.github.io/shogi-beginners/"
 languageCode = "ja-jp"
 title = "将棋びぎなーず"
+publishDir = "docs"
 
 disableHugoGeneratorInject = true
 disableKinds= ["taxonomy", "taxonomyTerm"]
