@@ -172,7 +172,7 @@ Title: 四枚落ち
         </div>
         <div class="col pb-3">
           <a href="/shogi-beginners/4mai/example4/">
-            <h5><ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby>き<ruby><rt>き</rt></ruby>り</h5>
+            <h5><ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby>き<ruby>切<rt>き</rt></ruby>り</h5>
             <script id="example4-kif" type="kif">
 上手：下手
 上手の持駒：なし
