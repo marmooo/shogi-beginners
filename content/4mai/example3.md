@@ -16,6 +16,8 @@ Title: 四枚落ち実戦例3
 下手：下手
 上手：上手
 手数----指手---------消費時間--
+*<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat24.png"></div>
    1 ６二銀(71)
 *これから並べる左端攻め定跡は勝ち切るのが大変なので、あまりおすすめしません。
    2 ７六歩(77)

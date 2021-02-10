@@ -16,6 +16,8 @@ Title: 四枚落ち実戦例4
 下手：上手
 上手：下手
 手数----指手---------消費時間--
+*<ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby><ruby>切<rt>き</rt></ruby>りの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat25.png"></div>
    1 ３二金(41)
 *二歩突き切りは二枚落ちの定跡ですが、四枚落ちにも使えます。
 *力将棋の得意な子はためしてみると良いかも知れません。左端攻めよりは指しやすいです。

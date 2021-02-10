@@ -16,6 +16,8 @@ Title: 四枚落ち実戦例7
 下手：下手
 上手：上手
 手数----指手---------消費時間--
+*<ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat28.png"></div>
    1 ３二金(41)
    2 ７六歩(77)
    3 ７二銀(71)
