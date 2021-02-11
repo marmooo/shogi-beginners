@@ -40,10 +40,10 @@
 
       function speak() {
         const text = getText(document.getElementById('comment'));
-        const voice = document.getElementById('voice');
         let msg = new SpeechSynthesisUtterance(text);
         msg.lang = 'ja-JP';
         msg.voice = japaneseVoices[Math.floor(Math.random() * japaneseVoices.length)];
+        speechSynthesis.cancel();
         speechSynthesis.speak(msg);
       }
     </script>
