@@ -1,10 +1,10 @@
 ---
-Title: 6枚落ち実戦例8
+Title: 六枚落ち実戦例8
 ---
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb mb-3">
     <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
-    <li class="breadcrumb-item"><a href="/shogi-beginners/6mai/">6枚落ち</a></li>
+    <li class="breadcrumb-item"><a href="/shogi-beginners/6mai/">六枚落ち</a></li>
     <li class="breadcrumb-item active" aria-current="page">実戦例8 (右端攻め)</li>
   </ol>
 </nav>
