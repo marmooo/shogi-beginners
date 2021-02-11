@@ -117,7 +117,7 @@ Title: 十枚落ち
 	</div>
         <div class="col pb-3">
           <a href="/shogi-beginners/10mai/example2/">
-            <h5>☗<ruby>2五歩型<rt>にーごーふがた</rt></ruby></h5>
+            <h5>☗<ruby>２五歩型<rt>にーごーふがた</rt></ruby></h5>
             <script id="example2-kif" type="kif">
 上手：上手
 上手の持駒：歩　
@@ -171,7 +171,7 @@ Title: 十枚落ち
         </div>
         <div class="col pb-3">
           <a href="/shogi-beginners/10mai/example4/">
-            <h5>☗<ruby>2五歩型<rt>にーごーふがた</rt></ruby></h5>
+            <h5>☗<ruby>２五歩型<rt>にーごーふがた</rt></ruby></h5>
             <script id="example4-kif" type="kif">
 上手：上手
 上手の持駒：なし
