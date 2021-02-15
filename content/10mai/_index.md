@@ -30,7 +30,7 @@ Title: 十枚落ち
       >の<ruby>攻<rt>せ</rt></ruby>めを<ruby>受<rt>う</rt></ruby
       >ける<ruby>力<rt>ちから</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。
       たとえば<ruby>右図<rt>みぎず</rt></ruby>ではどのように<ruby>攻<rt>せ</rt></ruby
-      >めるのが<ruby>良<rt>よ</rt></ruby>いでしょうか。</p>
+      >めるのがいいでしょうか。</p>
   </div>
   <div class="col">
     <div class="col p-1" tabindex="-1">
