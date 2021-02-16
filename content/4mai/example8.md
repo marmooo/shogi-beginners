@@ -194,7 +194,7 @@ Title: 四枚落ち実戦例8
  140 ５二龍(55)
  141 投了
 まで138手で下手の勝ち
-*<a href="/shogi-beginners/6mai/">
+*<a href="/shogi-beginners/4mai/">
 *<ruby>復習<rt>ふくしゅう</rt></ruby>しよう！
 *<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat0.png"></div></a>
 まで126手で下手の勝ち
