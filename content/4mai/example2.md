@@ -56,6 +56,7 @@ Title: 四枚落ち実戦例2
   34 ５六歩(57)
 *<ruby>囲<rt>かこ</rt></ruby>いが<ruby>完成<rt>かんせい</rt></ruby>したらゆっくり<ruby>駒<rt>こま</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>してきましょう。
   35 ３三金(42)
+*ほかにも☖<ruby>３三桂<rt>さんさんけい</rt></ruby>や、☖<ruby>３五<rt>さんごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>などがあり、<ruby>難解<rt>なんかい</rt></ruby>です。これらの<ruby>変化<rt>へんか</rt></ruby>をさけ、ギリギリまで☗<ruby>３六銀型<rt>さんろくぎんがた</rt></ruby>で<ruby>待機<rt>たいき</rt></ruby>するのも<ruby>有力<rt>ゆうりょく</rt></ruby>です (<a href="/shogi-beginners/4mai/example8/"><ruby>実践例<rt>じっせんれい</rt></ruby>8</a>)。
   36 ９六歩(97)
   37 ７五歩(74)
 *<ruby>厳密<rt>げんみつ</rt></ruby>にはやり<ruby>過<rt>す</rt></ruby>ぎです。このような<ruby>手<rt>て</rt></ruby>をとがめられるようになっていればクリアは<ruby>近<rt>ちか</rt></ruby>いです。

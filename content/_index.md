@@ -133,7 +133,7 @@
     <div class="row">
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/4mai/">
-          <h4 class="pt-4"><ruby>四枚<rt>よんまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち 🚧</h4>
+          <h4 class="pt-4"><ruby>四枚<rt>よんまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち</h4>
           <script id="4mai-kif" type="kif">
 上手：上手
 下手：下手
@@ -157,7 +157,7 @@
       </div>
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/2mai/">
-          <h4 class="pt-4"><ruby>二枚<rt>にまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち 🚧🚧</h4>
+          <h4 class="pt-4"><ruby>二枚<rt>にまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち 🚧</h4>
           <script id="2mai-kif" type="kif">
 上手：上手
 下手：下手
@@ -184,7 +184,7 @@
   <div class="col-md">
     <div class="row">
       <div class="col" tabindex="-1">
-        <h4 class="pt-4"><ruby>平手<rt>ひらて</rt></ruby> 🚧🚧</h4>
+        <h4 class="pt-4"><ruby>平手<rt>ひらて</rt></ruby> 🚧</h4>
         <script id="hirate-kif" type="kif">
 手合割：平手
 後手の持駒：歩二
