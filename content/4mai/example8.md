@@ -43,7 +43,7 @@ Title: 四枚落ち実戦例8
   22 １五歩(16)
   23 ５二金(61)
   24 ７八金(69)
-*☗<ruby>２五銀<rt>にーごーぎん</rt></ruby>は (<a href="/shogi-beginners/4mai/example2/"><ruby>実戦例<rt>じっせんれい</rt></ruby>2</a>) に<ruby>合流<rt>ごうりゅう</rt></ruby>します。ただし<ruby>本譜<rt>ほんぷ</rt></ruby>はその<ruby>後<rt>あと</rt></ruby>の<ruby>上手<rt>うわて</rt></ruby>の<ruby>指<rt>さ</rt></ruby>し<ruby>方<rt>かた</rt></ruby>がすこし<ruby>違<rt>ちが</rt></ruby>います。
+*☗<ruby>２五銀<rt>にーごーぎん</rt></ruby>は <a href="/shogi-beginners/4mai/example2/"><ruby>実戦例<rt>じっせんれい</rt></ruby>2</a> に<ruby>合流<rt>ごうりゅう</rt></ruby>します。ただし<ruby>本譜<rt>ほんぷ</rt></ruby>はその<ruby>後<rt>あと</rt></ruby>の<ruby>上手<rt>うわて</rt></ruby>の<ruby>指<rt>さ</rt></ruby>し<ruby>方<rt>かた</rt></ruby>がすこし<ruby>違<rt>ちが</rt></ruby>います。
   25 ６四銀(53)
   26 ６八銀(79)
   27 ７四歩(73)
