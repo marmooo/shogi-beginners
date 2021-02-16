@@ -58,7 +58,7 @@ Title: 四枚落ち実戦例8
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>攻<rt>せ</rt></ruby>めの<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
   34 ７七銀(68)
-*☗<ruby>９五<rt>きゅうごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>☖<ruby>同歩<rt>どうふ</rt></ruby>☗<ruby>同香<rt>どうきょう</rt></ruby>は☖<ruby>７三桂<rt>ななさんけい</rt></ruby>でつまらないです。☗７七銀〜☗６六銀として☗５五歩をねらっていくのがいいです。
+*☗<ruby>９五<rt>きゅうごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>☖<ruby>同歩<rt>どうふ</rt></ruby>☗<ruby>同香<rt>どうきょう</rt></ruby>は☖<ruby>７三桂<rt>ななさんけい</rt></ruby>でつまらないです。☗<ruby>７七銀<rt>ななななぎん</rt></ruby>〜☗<ruby>６六銀<rt>ろくろくぎん</rt></ruby>として☗<ruby>５五<rt>ごーごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>をねらっていくのがいいです。
   35 ５三金(52)
   36 ６六銀(77)
   37 ５四金(53)
@@ -173,7 +173,7 @@ Title: 四枚落ち実戦例8
  120 ６六角(44)
  121 ３二銀(23)
  122 ４五桂(37)
-*<ruby>飛車<rt>ひしゃ</rt></ruby><ruby>成<rt>な</rt></ruby>りに<ruby>強<rt>つよ</rt></ruby>くなったので、<ruby>今度<rt>こんど</rt></ruby>は<ruby>正面<rt>しょうめん</rt></ruby>から<ruby>攻<rt>せ</rt></ruby>めます。
+*<ruby>上手<rt>うわて</rt></ruby>は<ruby>飛車<rt>ひしゃ</rt></ruby><ruby>成<rt>な</rt></ruby>りに<ruby>強<rt>つよ</rt></ruby>くなったので、<ruby>今度<rt>こんど</rt></ruby>は<ruby>正面<rt>しょうめん</rt></ruby>から<ruby>攻<rt>せ</rt></ruby>めます。
  123 ２三金(33)
  124 ３六桂打
  125 ３三銀(32)
