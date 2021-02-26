@@ -19,27 +19,27 @@ Title: 四枚落ち実戦例4
 *<ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby><ruby>切<rt>き</rt></ruby>りの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
 *<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat25.png"></div>
    1 ３二金(41)
-*二歩突き切りは二枚落ちの定跡ですが、四枚落ちにも使えます。
-*力将棋の得意な子はためしてみると良いかも知れません。左端攻めよりは指しやすいです。
+*<ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby>き<ruby>切<rt>き</rt></ruby>りは<ruby>二枚<rt>にまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちの<ruby>定跡<rt>じょうせき</rt></ruby>ですが、<ruby>四枚<rt>よんまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちにも<ruby>使<rt>つか</rt></ruby>えます。
+*<ruby>力将棋<rt>ちからしょうぎ</rt></ruby>の<ruby>得意<rt>とくい</rt></ruby>な<ruby>子<rt>こ</rt></ruby>はためしてみるといいかも<ruby>知<rt>し</rt></ruby>れません。<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めよりは<ruby>指<rt>さ</rt></ruby>しやすいです。
    2 ７六歩(77)
    3 ６二銀(71)
    4 ４六歩(47)
    5 ５四歩(53)
    6 ４五歩(46)
-*すぐに☗４五歩まで突いて、☖４四歩と角道を止められないようにします。
+*すぐに☗<ruby>４五<rt>よんごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>まで<ruby>突<rt>つ</rt></ruby>いて、☖<ruby>４四<rt>よんよん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>と<ruby>角道<rt>かくみち</rt></ruby>を<ruby>止<rt>と</rt></ruby>められないようにします。
    7 ５三銀(62)
    8 ４八銀(39)
    9 ７二金(61)
   10 ４七銀(48)
-*有名な駒組みとは少し異なる手順です。☗４五歩の後に☗４七銀を急いだほうが☖５五歩から力戦になった時に対処しやすいです。
+*<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>駒組<rt>こまぐ</rt></ruby>みとは<ruby>少<rt>すこ</rt></ruby>し<ruby>異<rt>こと</rt></ruby>なる<ruby>手順<rt>てじゅん</rt></ruby>です。☗<ruby>４五<rt>よんごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>に☗<ruby>４七銀<rt>よんななぎん</rt></ruby>を<ruby>急<rt>いそ</rt></ruby>いだほうが☖<ruby>５五<rt>ごーごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>から<ruby>力戦<rt>りきせん</rt></ruby>になった<ruby>時<rt>とき</rt></ruby>に<ruby>対処<rt>たいしょ</rt></ruby>しやすいです。
   11 ５二玉(51)
   12 ３六歩(37)
   13 ７四歩(73)
   14 ３五歩(36)
-*どこかのタイミングで☗３四歩をねらいます。
+*どこかのタイミングで☗<ruby>３四<rt>さんよん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>をねらいます。
   15 ２二銀(31)
   16 ３八飛(28)
-*いつでも☗３四歩から攻められるようにしておきましょう。
+*いつでも☗<ruby>３四<rt>さんよん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>から<ruby>攻<rt>せ</rt></ruby>められるようにしておきましょう。
   17 ６四歩(63)
   18 ７八金(69)
   19 ６三玉(52)
@@ -48,10 +48,10 @@ Title: 四枚落ち実戦例4
   22 ５八金(49)
   23 ６五歩(64)
   24 ６八銀(79)
-*ここまでの手順と形をよくおぼえてください。上手の金銀桂はまったく動けない形になっており、勝ちやすいです。
+*ここまでの<ruby>手順<rt>てじゅん</rt></ruby>と<ruby>形<rt>かたち</rt></ruby>をよくおぼえてください。<ruby>上手<rt>うわて</rt></ruby>の<ruby>金銀桂<rt>きんぎんけい</rt></ruby>はまったく<ruby>動<rt>うご</rt></ruby>けない<ruby>形<rt>かたち</rt></ruby>になっており、<ruby>下手<rt>したて</rt></ruby>が<ruby>勝<rt>か</rt></ruby>ちやすいです。
   25 ６四金(73)
   26 ３四歩(35)
-*玉を囲って強い戦いができるようになったら攻めていきましょう。
+*<ruby>玉<rt>ぎょく</rt></ruby>を<ruby>囲<rt>かこ</rt></ruby>って<ruby>強<rt>つよ</rt></ruby>い<ruby>戦<rt>たたか</rt></ruby>いができるようになったら<ruby>攻<rt>せ</rt></ruby>めていきましょう。
   27 同　歩(33)
   28 同　飛(38)
   29 ３三歩打
@@ -64,22 +64,22 @@ Title: 四枚落ち実戦例4
   36 ９六歩(97)
   37 ８五歩(84)
   38 ９五歩(96)
-*四枚落ちならではの争点です。
+*<ruby>四枚<rt>よんまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちならではの<ruby>攻<rt>せ</rt></ruby>めです。
   39 同　歩(94)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
   40 ９四歩打
-*香は守り駒でもあるため、垂れ歩のほうが厳しいです。
+*<ruby>香<rt>きょう</rt></ruby>は<ruby>守<rt>まも</rt></ruby>り<ruby>駒<rt>ごま</rt></ruby>でもあるため、<ruby>垂<rt>た</rt></ruby>れ<ruby>歩<rt>ふ</rt></ruby>のほうが<ruby>厳<rt>きび</rt></ruby>しいです。
   41 ７五歩(74)
   42 ９三歩成(94)
-*☗同歩でもいいですが、上手の攻めが少し早くなるので、と金作りを急いだほうがわかりやすいです。
+*☗<ruby>同歩<rt>どうふ</rt></ruby>でもいいですが、<ruby>上手<rt>うわて</rt></ruby>の<ruby>攻<rt>せ</rt></ruby>めが<ruby>少<rt>すこ</rt></ruby>し<ruby>早<rt>はや</rt></ruby>くなるので、と<ruby>金<rt>きん</rt></ruby><ruby>作<rt>つく</rt></ruby>りを<ruby>急<rt>いそ</rt></ruby>いだほうがわかりやすいです。
   43 ７六歩(75)
   44 ８三と(93)
   45 ７五金(64)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
   46 ３五銀(46)
-*左右から挟み撃ちにする☗３五銀がわかりやすいです。
+*<ruby>左右<rt>さゆう</rt></ruby>から<ruby>挟<rt>はさ</rt></ruby>み<ruby>撃<rt>う</rt></ruby>ちにする☗<ruby>３五銀<rt>さんごーぎん</rt></ruby>がわかりやすいです。
   47 ８六歩(85)
   48 同　歩(87)
   49 ３四歩(33)
@@ -90,13 +90,13 @@ Title: 四枚落ち実戦例4
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
   54 ７七歩打
-*右から攻めるより、左から攻めの形を作るのがわかりやすいです。
+*<ruby>右<rt>みぎ</rt></ruby>から<ruby>攻<rt>せ</rt></ruby>めるより、<ruby>左<rt>ひだり</rt></ruby>から<ruby>攻<rt>せ</rt></ruby>めるほうがわかりやすいです。
   55 同　歩成(76)
   56 同　銀(68)
   57 ６四銀(53)
   58 ８四と(83)
   59 ６六歩(65)
-*様々な勝ち方がありますが、なるべく駒を渡さない変化がわかりやすいです。
+*さまざまな<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>がありますが、なるべく<ruby>駒<rt>こま</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>さない<ruby>変化<rt>へんか</rt></ruby>がわかりやすいです。
   60 同　歩(67)
   61 ７六歩打
   62 ６八銀(77)
@@ -108,14 +108,14 @@ Title: 四枚落ち実戦例4
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
   68 ７二歩打
-*攻めが切れなければいいので、と金を増やすのがわかりやすいです。
+*<ruby>攻<rt>せ</rt></ruby>めが<ruby>切<rt>き</rt></ruby>れなければいいので、と<ruby>金<rt>きん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすのがわかりやすいです。
   69 ８六銀(75)
   70 ８七歩打
   71 ７五銀(86)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
   72 ７一歩成(72)
-*桂を取るよりと金で切れない攻めの形を作るほうが大切です。
+*<ruby>桂<rt>けい</rt></ruby>を<ruby>取<rt>と</rt></ruby>るよりと<ruby>金<rt>きん</rt></ruby>で<ruby>切<rt>き</rt></ruby>れない<ruby>攻<rt>せ</rt></ruby>めの<ruby>形<rt>かたち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るほうが<ruby>大切<rt>たいせつ</rt></ruby>です。
   73 ８五桂(73)
   74 ７二と(71)
   75 ５二玉(63)
@@ -140,7 +140,7 @@ Title: 四枚落ち実戦例4
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
   94 ３四歩打
-*☖同歩には☗３三歩打が厳しく、上手は受けなしです。
+*☖<ruby>同歩<rt>どうふ</rt></ruby>には☗<ruby>３三<rt>さんさん</rt></ruby><ruby>歩打<rt>ふうち</rt></ruby>が<ruby>厳<rt>きび</rt></ruby>しく、<ruby>上手<rt>うわて</rt></ruby>は<ruby>受<rt>う</rt></ruby>けなしです。
   95 ６八歩打
   96 同　玉(69)
   97 ２二玉(32)
