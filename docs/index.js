@@ -2,16 +2,22 @@ function loadConfig() {
   if (localStorage.getItem('darkMode') == 1) {
     document.documentElement.dataset.theme = 'dark';
   }
+  if (localStorage.getItem('voice') != 1) {
+    document.getElementById('voiceOn').classList.add('d-none');
+    document.getElementById('voiceOff').classList.remove('d-none');
+  }
 }
 loadConfig();
 
 function toggleVoice(obj) {
   if (localStorage.getItem('voice') == 1) {
     localStorage.setItem('voice', 0);
-    obj.style.opacity = 0.5;
+    document.getElementById('voiceOn').classList.add('d-none');
+    document.getElementById('voiceOff').classList.remove('d-none');
   } else {
     localStorage.setItem('voice', 1);
-    obj.style.opacity = 1.0;
+    document.getElementById('voiceOn').classList.remove('d-none');
+    document.getElementById('voiceOff').classList.add('d-none');
     speechSynthesis.cancel();
     let msg = new SpeechSynthesisUtterance('音声読み上げを開始します。');
     msg.lang = 'ja-JP';
