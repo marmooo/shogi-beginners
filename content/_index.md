@@ -205,7 +205,7 @@
         <svg id="hirate" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
       </div>
       <div class="col m-auto">
-        <img class="img-fluid" src="/shogi-beginners/img/cat1.png">
+        <img class="img-fluid" src="/shogi-beginners/img/cat1.png" alt="">
       </div>
     </div>
   </div>
