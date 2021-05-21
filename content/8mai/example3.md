@@ -1,14 +1,12 @@
 ---
 Title: 八枚落ち実戦例3
 ---
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb mb-3">
-    <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
-    <li class="breadcrumb-item"><a href="/shogi-beginners/8mai/">八枚落ち</a></li>
-    <li class="breadcrumb-item active" aria-current="page">実戦例3 (左端攻め)</li>
-  </ol>
-</nav>
-<div class="row">
+{{< breadcrumb >}}
+  <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
+  <li class="breadcrumb-item"><a href="/shogi-beginners/8mai/">八枚落ち</a></li>
+  <li class="breadcrumb-item active" aria-current="page">実戦例3 (左端攻め)</li>
+{{</ breadcrumb >}}
+<div class="row pt-3">
   <div class="col-lg-1"></div>
   <div class="col-sm" tabindex="-1">
     <script id="example-kif" type="kif">

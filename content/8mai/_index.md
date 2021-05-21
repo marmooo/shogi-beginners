@@ -1,13 +1,11 @@
 ---
 Title: 八枚落ち
 ---
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb mb-3">
-    <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">八枚落ち</li>
-  </ol>
-</nav>
-<div class="row">
+{{< breadcrumb >}}
+  <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
+  <li class="breadcrumb-item active" aria-current="page">八枚落ち</li>
+{{</ breadcrumb >}}
+<div class="row pt-3">
   <div class="col-lg-6">
     <h3><ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちのポイント</h3>
     <p><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt></ruby

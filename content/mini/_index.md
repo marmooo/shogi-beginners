@@ -2,12 +2,12 @@
 Title: ミニ将棋
 ---
 <nav aria-label="breadcrumb">
-  <ol class="breadcrumb mb-3">
+  <ol class="breadcrumb bg-light rounded shadow p-3">
     <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page">ミニ将棋</li>
   </ol>
 </nav>
-<div class="row">
+<div class="row pt-3">
   <div class="col-lg-6">
     <h3>ミニ<ruby>将棋<rt>しょうぎ</rt></ruby>のポイント</h3>
     <p><ruby>将棋<rt>しょうぎ</rt></ruby>のルールをおぼえた<ruby>後<rt>あと</rt></ruby
@@ -219,21 +219,21 @@ Title: ミニ将棋
     <div class="col-sm">
       <h4><ruby>最初<rt>さいしょ</rt></ruby>のつかみ</h4>
       <div class="pt-3">
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B07921JHPB&linkId=5dbdf830fb53dc0c58b9f538b779b008&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4262101533&linkId=a1f8e33617a70bc22e81002a9bf075b0&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B07921JHPB&linkId=5dbdf830fb53dc0c58b9f538b779b008&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4262101533&linkId=a1f8e33617a70bc22e81002a9bf075b0&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
       </div>
     </div>
     <div class="col-sm">
       <h4><ruby>量<rt>りょう</rt></ruby>をこなすとき</h4>
       <div class="pt-3">
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839933324&linkId=5acca90b66aa19055dd9b858cf346180&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0197NZUG4&linkId=f8daa1b023cf22bec0781939ecaf2c28&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839933324&linkId=5acca90b66aa19055dd9b858cf346180&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0197NZUG4&linkId=f8daa1b023cf22bec0781939ecaf2c28&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
       </div>
     </div>
     <div class="col-sm">
       <h4><ruby>慣<rt>な</rt></ruby>れてきたとき</h4>
       <div class="pt-3">
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839971382&linkId=8cb544aaa21b185260e5fe8432359977&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839971382&linkId=8cb544aaa21b185260e5fe8432359977&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
       </div>
     </div>
   </div>

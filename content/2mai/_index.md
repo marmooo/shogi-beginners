@@ -1,7 +1,11 @@
 ---
 Title: 2枚落ち
 ---
-<div class="row">
+{{< breadcrumb >}}
+  <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
+  <li class="breadcrumb-item active" aria-current="page">二枚落ち</li>
+{{</ breadcrumb >}}
+<div class="row pt-3">
   <div class="col-lg-6">
     <h3 class="pt-4">2枚落ちのポイント</h3>
     <p>上手陣には大きな弱点がなく、上手の変化球も多いです。
