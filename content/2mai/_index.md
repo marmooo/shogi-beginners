@@ -68,9 +68,9 @@ Title: 2枚落ち
   <h3><ruby>詰将棋<rt>つめしょうぎ</rt></ruby>のおすすめ<ruby>書籍<rt>しょせき</rt></ruby></h3>
   <p>7手詰の練習をおすすめします。</p>
   <div class="text-center pt-3">
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370310&linkId=0fde8e29e67e7e8f1010cbaec83ec5e0&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370442&linkId=cec40ab3f3cfaf024e85e16174548a45&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4422751255&linkId=4b4e352fbf6799678c69138585127152&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+    <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370310&linkId=0fde8e29e67e7e8f1010cbaec83ec5e0&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+    <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370442&linkId=cec40ab3f3cfaf024e85e16174548a45&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+    <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4422751255&linkId=4b4e352fbf6799678c69138585127152&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
   </div>
 </div>
 <script src="/shogi-beginners/kifu-viewer.js"></script>

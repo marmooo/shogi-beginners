@@ -223,8 +223,8 @@
         >では<ruby>以下<rt>いか</rt></ruby>がおすすめできます。
       </p>
       <div class="text-center pt-3">
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839937087&linkId=b185ae36dd28fa01a963f5062989511d&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B00CY9259E&linkId=7444f599354dd354d62204501b7b4fe2&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839937087&linkId=b185ae36dd28fa01a963f5062989511d&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B00CY9259E&linkId=7444f599354dd354d62204501b7b4fe2&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
       </div>
     </div>
   </div>
@@ -241,9 +241,9 @@
         >には、<ruby>以下<rt>いか</rt></ruby>の<ruby>書籍<rt>しょせき</rt></ruby>をおすすめします。
       </p>
       <div class="text-center pt-3">
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839966265&linkId=28eea6c8363c85469a9b010739339625&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B079JRW6QG&linkId=f390cae9731e4c7314a36896a174b4be&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B071JTDK35&linkId=d5ea23856d93430b3f50c79e31cf403a&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839966265&linkId=28eea6c8363c85469a9b010739339625&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B079JRW6QG&linkId=f390cae9731e4c7314a36896a174b4be&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B071JTDK35&linkId=d5ea23856d93430b3f50c79e31cf403a&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
       </div>
     </div>
   </div>
@@ -276,9 +276,9 @@
         <ruby>様々<rt>さまざま</rt></ruby>なパターンを<ruby>一気<rt>いっき</rt></ruby
         >に<ruby>学<rt>まな</rt></ruby>ぶことができる<ruby>以下<rt>いか</rt></ruby>の<ruby>書籍<rt>しょせき</rt></ruby>は、<ruby>特<rt>とく</rt></ruby>におすすめです。</p>
       <div class="text-center pt-3">
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0197NZSI4&linkId=03123ff5493c9b1b3bbf64e6479ba560&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839970335&linkId=ad7a10aadd589951d484f765e7242fd6&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370272&linkId=64ce95ca4433e8bc3803da837f1a2b7d&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0197NZSI4&linkId=03123ff5493c9b1b3bbf64e6479ba560&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839970335&linkId=ad7a10aadd589951d484f765e7242fd6&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+        <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370272&linkId=64ce95ca4433e8bc3803da837f1a2b7d&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
       </div>
     </div>
   </div>
