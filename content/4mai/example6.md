@@ -15,7 +15,7 @@ Title: 四枚落ち実戦例6
 上手：上手
 手数----指手---------消費時間--
 *<ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat27.png"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat27.webp"></div>
    1 ３二金(41)
 *<ruby>定跡<rt>じょうせき</rt></ruby>から<ruby>外<rt>はず</rt></ruby>れた<ruby>戦<rt>たたか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみます。
    2 ７六歩(77)
@@ -134,7 +134,7 @@ Title: 四枚落ち実戦例6
  105 投了
 *<a href="/shogi-beginners/4mai/example7/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.png"></div></a>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで104手で下手の勝ち
     </script>
     <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>

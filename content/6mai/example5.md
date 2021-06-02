@@ -15,7 +15,7 @@ Title: 六枚落ち実戦例5
 上手：上手
 手数----指手---------消費時間--
 *<ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat18.png"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat18.webp"></div>
    1 ４二玉(51)
    2 ７六歩(77)
    3 ７二金(61)
@@ -29,7 +29,7 @@ Title: 六枚落ち実戦例5
 *☗<ruby>１七<rt>いちなな</rt></ruby><ruby>香<rt>きょう</rt></ruby>〜☗<ruby>１八<rt>いちはち</rt></ruby><ruby>飛<rt>ひ</rt></ruby>が<ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>基本<rt>きほん</rt></ruby>です。
   11 ２一玉(31)
 *<ruby>問題<rt>もんだい</rt></ruby>: すぐに☗<ruby>１四<rt>いちよん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>から<ruby>攻<rt>せ</rt></ruby>められるでしょうか？
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   12 ６六角(88)
 *すぐに☗<ruby>１四<rt>いちよん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>とは攻められません。☖<ruby>同歩<rt>どうふ</rt></ruby>☗<ruby>同香<rt>どうきょう</rt></ruby>☖<ruby>１三<rt>いちさん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>☗<ruby>同香<rt>どうきょう</rt></ruby><ruby>成<rt>なり</rt></ruby>☖<ruby>同銀<rt>どうぎん</rt></ruby>☗<ruby>同飛車成<rt>どうひしゃなり</rt></ruby>☖<ruby>１二<rt>いちにー</rt></ruby><ruby>香<rt>きょう</rt></ruby>で<ruby>飛車<rt>ひしゃ</rt></ruby>が<ruby>死<rt>し</rt></ruby>んでしまいます。
 *そこで☗<ruby>６六角<rt>ろくろくかく</rt></ruby>と<ruby>力<rt>ちから</rt></ruby>をためます。
@@ -49,7 +49,7 @@ Title: 六枚落ち実戦例5
   24 １三角成(57)
   25 ４二玉(31)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   26 ４六馬(13)
 *<ruby>飛車<rt>ひしゃ</rt></ruby>を<ruby>成<rt>な</rt></ruby>るために<ruby>馬<rt>うま</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くのがいい<ruby>手<rt>て</rt></ruby>です。
   27 ４四歩(43)
@@ -58,7 +58,7 @@ Title: 六枚落ち実戦例5
   30 １二飛成(18)
   31 ６四銀(73)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   32 １四歩打
 *<ruby>攻<rt>せ</rt></ruby>める<ruby>時<rt>とき</rt></ruby>はいつも、と<ruby>金<rt>きん</rt></ruby><ruby>攻<rt>せ</rt></ruby>めから<ruby>考<rt>かんが</rt></ruby>えましょう。
   33 ４三玉(42)
@@ -73,7 +73,7 @@ Title: 六枚落ち実戦例5
   42 １三龍(23)
   43 ３二玉(43)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   44 ２四金打
 *<ruby>馬<rt>うま</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>する☗<ruby>２四金打<rt>にーよんきんうち</rt></ruby>がいい<ruby>手<rt>て</rt></ruby>です。
   45 ４二銀(33)
@@ -94,7 +94,7 @@ Title: 六枚落ち実戦例5
   59 投了
 *<a href="/shogi-beginners/6mai/example6/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.png"></div></a>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで58手で下手の勝ち
     </script>
     <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>

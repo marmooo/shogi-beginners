@@ -326,7 +326,7 @@
           </a>
         </div>
         <div class="col m-auto pb-3">
-          <img class="img-fluid" src="/shogi-beginners/img/cat73.png">
+          <img class="img-fluid" src="/shogi-beginners/img/cat73.webp">
         </div>
       </div>
     </div>
@@ -369,5 +369,15 @@
       <div class="text-muted">&copy; <a href="https://github.com/marmooo">marmooo</a></div>
     </footer>
     <script src="/shogi-beginners/index.min.js"></script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/polyfills.js"></script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/webp-hero.bundle.js"></script>
+    <script>
+      var webpMachine = new webpHero.WebpMachine();
+      webpMachine.webpSupport.then(function(support) {
+        if (!support) {
+          webpMachine.polyfillDocument();
+        }
+      });
+    </script>
   </body>
 </html>

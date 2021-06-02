@@ -70,7 +70,7 @@
 上手：上手
 手数----指手---------消費時間--
 *<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat9.png"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat9.webp"></div>
    1 ７二金(61)
    2 ７六歩(77)
    3 ４二玉(51)
@@ -82,7 +82,7 @@
 *まずはここまでの<ruby>駒組<rt>こまぐ</rt></ruby>みをおぼえましょう。
    9 ６四歩(63)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   10 ５六歩(57)
 *おぼえてほしい<ruby>手<rt>て</rt></ruby>です。☖<ruby>６五<rt>ろくごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>と<ruby>歩<rt>ふ</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばされても<ruby>端<rt>はし</rt></ruby>をねらい<ruby>続<rt>つづ</rt></ruby>けます。
   11 ６五歩(64)
@@ -101,7 +101,7 @@
   22 ９一香成(94)
   23 ８二金(72)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。<ruby>難問<rt>なんもん</rt></ruby>。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   24 ９四飛(98)
 *<ruby>他<rt>ほか</rt></ruby>には☗<ruby>９二<rt>きゅーにー</rt></ruby><ruby>成香<rt>なりきょう</rt></ruby>や☗<ruby>７五<rt>ななごー</rt></ruby><ruby>歩<rt>ふ</rt></ruby>がよさそうです。ゆっくり<ruby>攻<rt>せ</rt></ruby>めるのが<ruby>大切<rt>たいせつ</rt></ruby>です。
   25 ３二金(22)
@@ -112,7 +112,7 @@
   30 ８二龍(81)
   31 ５二金(62)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   32 ７七桂(89)
 *<ruby>攻<rt>せ</rt></ruby>め<ruby>駒<rt>こま</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすのが<ruby>大切<rt>たいせつ</rt></ruby>です。ほかには☗<ruby>８四角<rt>はちよんかく</rt></ruby>や☗<ruby>８一<rt>はちいち</rt></ruby>とがよさそうです。
   33 ４四歩(43)
@@ -148,7 +148,7 @@
   60 ６二龍(61)
   61 ３三金(32)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   62 ５三成桂(63)
 *<ruby>時<rt>とき</rt></ruby>にはこのようなするどい<ruby>攻<rt>せ</rt></ruby>めも<ruby>必要<rt>ひつよう</rt></ruby>です。
   63 同　金(42)
@@ -170,7 +170,7 @@
   79 投了
 *<a href="/shogi-beginners/8mai/example4/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.png"></div></a>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで78手で下手の勝ち
     </script>
     <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
@@ -214,6 +214,16 @@
         speechSynthesis.cancel();
         speechSynthesis.speak(msg);
       }
+    </script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/polyfills.js"></script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/webp-hero.bundle.js"></script>
+    <script>
+      var webpMachine = new webpHero.WebpMachine();
+      webpMachine.webpSupport.then(function(support) {
+        if (!support) {
+          webpMachine.polyfillDocument();
+        }
+      });
     </script>
   </body>
 </html>

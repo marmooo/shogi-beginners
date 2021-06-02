@@ -272,7 +272,7 @@ Title: 八枚落ち
           </a>
         </div>
         <div class="col m-auto pb-3">
-          <img class="img-fluid" src="/shogi-beginners/img/cat73.png">
+          <img class="img-fluid" src="/shogi-beginners/img/cat73.webp">
         </div>
       </div>
     </div>

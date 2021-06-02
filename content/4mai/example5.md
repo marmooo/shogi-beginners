@@ -15,7 +15,7 @@ Title: 四枚落ち実戦例5
 上手：上手
 手数----指手---------消費時間--
 *<ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat26.png"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat26.webp"></div>
    1 ２二銀(31)
    2 ７六歩(77)
    3 ３二金(41)
@@ -53,7 +53,7 @@ Title: 四枚落ち実戦例5
   32 １二香成(14)
   33 ４二銀(31)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   34 １三飛成(18)
 *<ruby>次<rt>つぎ</rt></ruby>に☗<ruby>２二<rt>にーにー</rt></ruby><ruby>成香<rt>なりきょう</rt></ruby>をねらって<ruby>優勢<rt>ゆうせい</rt></ruby>です。
   35 ７三桂(81)
@@ -71,21 +71,21 @@ Title: 四枚落ち実戦例5
   46 同　銀(68)
   47 ５六香打
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   48 ５八歩打
 *これで<ruby>上手<rt>うわて</rt></ruby>の<ruby>攻<rt>せ</rt></ruby>めは<ruby>切<rt>き</rt></ruby>れています。
   49 ５七香成(56)
   50 同　歩(58)
   51 ４五桂(33)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   52 ４八玉(59)
 *<ruby>玉<rt>ぎょく</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>いほうに<ruby>逃<rt>に</rt></ruby>がす☗<ruby>４八<rt>よんはち</rt></ruby><ruby>玉<rt>ぎょく</rt></ruby>がわかりやすいです。
   53 ５六歩(55)
   54 同　歩(57)
   55 ６四歩(63)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   56 ３三金打
 *いろいろな<ruby>攻<rt>せ</rt></ruby>めがありますが、これがわかりやすいです。
   57 同　銀(42)
@@ -104,7 +104,7 @@ Title: 四枚落ち実戦例5
   69 投了
 *<a href="/shogi-beginners/4mai/example6/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.png"></div></a>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで68手で下手の勝ち
     </script>
     <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>

@@ -15,7 +15,7 @@ Title: 八枚落ち実践譜
 上手：上手
 手数----指手---------消費時間--
 *<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat8.png"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat8.webp"></div>
    1 ７二金(61)
    2 ７六歩(77)
    3 ４二玉(51)
@@ -33,7 +33,7 @@ Title: 八枚落ち実践譜
 *<ruby>次<rt>次</rt></ruby>に☗<ruby>８八<rt>はちはち</rt></ruby><ruby>飛<rt>ひ</rt></ruby>～☗<ruby>８四<rt>はちよん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>とできれば<ruby>大成功<rt>だいせいこう</rt></ruby>です。
   13 ７四金(83)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   14 ７七桂(89)
 *☗<ruby>９三<rt>きゅうさん</rt></ruby><ruby>角成<rt>かくなり</rt></ruby>は☖<ruby>８五金<rt>はちごーきん</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>気<rt>き</rt></ruby>になります。☗<ruby>８八<rt>はちはち</rt></ruby><ruby>飛<rt>ひ</rt></ruby>は☖<ruby>６五金<rt>ろくごーきん</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>気<rt>き</rt></ruby>になります。
 *どちらも<ruby>防<rt>ふせ</rt></ruby>ぐ☗<ruby>７七桂<rt>ななななけい</rt></ruby>がわかりやすいです。
@@ -48,12 +48,12 @@ Title: 八枚落ち実践譜
   22 ８八飛(28)
   23 １四歩(13)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   24 ８四と(83)
 *強い人は☗７三とでも良いですが、ほとんどの人は安全に☗８四歩をおすすめします。
   25 ６六歩(65)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   26 同　歩(67)
 *☗<ruby>７四<rt>ななよん</rt></ruby>とのような<ruby>攻<rt>せ</rt></ruby>め<ruby>合<rt>あ</rt></ruby>いはやめましょう。
   27 ６四金(74)
@@ -74,7 +74,7 @@ Title: 八枚落ち実践譜
 *<ruby>強<rt>つよ</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>は☗<ruby>４四馬<rt>よんよんうま</rt></ruby>！で<ruby>勝<rt>か</rt></ruby>ちですが、ほとんどの<ruby>人<rt>ひと</rt></ruby>は<ruby>安全<rt>あんぜん</rt></ruby>に☗<ruby>７九<rt>ななきゅう</rt><ruby>金<rt>きん</rt></ruby></ruby>をおすすめします。
   41 ４三銀打
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   42 ４五桂打
 *よく<ruby>出<rt>で</rt></ruby>てくる<ruby>手筋<rt>てすじ</rt></ruby>なのでおぼえておきましょう。
   43 ２二玉(33)
@@ -97,7 +97,7 @@ Title: 八枚落ち実践譜
   59 投了
 *<a href="/shogi-beginners/8mai/example5/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.png"></div></a>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで58手で下手の勝ち
     </script>
     <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>

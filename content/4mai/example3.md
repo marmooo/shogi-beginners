@@ -15,7 +15,7 @@ Title: 四枚落ち実戦例3
 上手：上手
 手数----指手---------消費時間--
 *<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>めの<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat24.png"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat24.webp"></div>
    1 ６二銀(71)
 *これから<ruby>並<rt>なら</rt></ruby>べる<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め<ruby>定跡<rt>じょうせき</rt></ruby>は<ruby>勝<rt>か</rt></ruby>ち<ruby>切<rt>き</rt></ruby>るのが<ruby>大変<rt>たいへん</rt></ruby>なので、あまりおすすめしません。
    2 ７六歩(77)
@@ -57,7 +57,7 @@ Title: 四枚落ち実戦例3
 *<ruby>飛車<rt>ひしゃ</rt></ruby>は<ruby>成<rt>な</rt></ruby>れそうですが、<ruby>銀桂<rt>ぎんけい</rt></ruby>をさばかれ<ruby>角<rt>かく</rt></ruby>も<ruby>取<rt>と</rt></ruby>られているので、ギリギリの<ruby>変化<rt>へんか</rt></ruby>です。
   33 ６五桂(73)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   34 ６八銀(79)
 *<ruby>次<rt>つぎ</rt></ruby>に☖<ruby>５七<rt>ごーなな</rt></ruby><ruby>桂<rt>けい</rt></ruby><ruby>不成<rt>ふなり</rt></ruby>とされると<ruby>大変<rt>たいへん</rt></ruby>です。それを<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>絶対手<rt>ぜったいしゅ</rt></ruby>です。
   35 ５七桂成(65)
@@ -67,17 +67,17 @@ Title: 四枚落ち実戦例3
 *ていねいに<ruby>駒<rt>こま</rt></ruby>を<ruby>追<rt>お</rt></ruby>い<ruby>返<rt>かえ</rt></ruby>しておきます。
   39 ５七成桂(67)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   40 ７四飛(94)
 *☗<ruby>５四<rt>ごーよん</rt></ruby><ruby>飛<rt>ひ</rt></ruby>もねらっており、☗<ruby>９二<rt>きゅうにい</rt></ruby><ruby>飛成<rt>ひなり</rt></ruby>よりいいです。
   41 ５三玉(52)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   42 ４五銀打
 *<ruby>逃<rt>に</rt></ruby>げ<ruby>道<rt>みち</rt></ruby>をふさぎながら☗<ruby>５四<rt>ごーよん</rt></ruby><ruby>飛<rt>ひ</rt></ruby>をねらった<ruby>好手<rt>こうしゅ</rt></ruby>です。
   43 ３四歩(33)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。<ruby>難問<rt>なんもん</rt></ruby>。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   44 ７二飛成(74)
 *ノータイムで☗<ruby>５四<rt>ごーよん</rt></ruby><ruby>飛<rt>ひ</rt></ruby>は、☖<ruby>４二<rt>よんにい</rt></ruby><ruby>玉<rt>ぎょく</rt></ruby>☗<ruby>５七<rt>ごーなな</rt></ruby><ruby>飛<rt>ひ</rt></ruby>☖<ruby>６六角<rt>ろくろくかく</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>です。またどこかで☖<ruby>３三<rt>さんさん</rt></ruby><ruby>玉<rt>ぎょく</rt></ruby>とされると、<ruby>上手<rt>うわて</rt></ruby><ruby>玉<rt>ぎょく</rt></ruby>がつかまりません。<ruby>逃<rt>に</rt></ruby>げ<ruby>道<rt>みち</rt></ruby>をふさぐ☗<ruby>７二<rt>ななにい</rt></ruby><ruby>飛成<rt>ひなり</rt></ruby>が<ruby>絶妙手<rt>ぜつみょうしゅ</rt></ruby>です。
   45 ５二銀打
@@ -93,7 +93,7 @@ Title: 四枚落ち実戦例3
   54 ５七銀(46)
   55 ４四玉(54)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。<ruby>難問<rt>なんもん</rt></ruby>。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   56 ２二歩打
 *<ruby>王<rt>おう</rt></ruby>の<ruby>逃<rt>に</rt></ruby>げ<ruby>道<rt>みち</rt></ruby>をふさぐ<ruby>好手<rt>こうしゅ</rt></ruby>です。
   57 同　角(11)
@@ -147,7 +147,7 @@ Title: 四枚落ち実戦例3
  103 投了
 *<a href="/shogi-beginners/4mai/example4/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.png"></div></a>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで102手で下手の勝ち
     </script>
     <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>

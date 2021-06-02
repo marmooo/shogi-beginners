@@ -15,7 +15,7 @@ Title: 十枚落ち実践例4
 上手：上手
 手数----指手---------消費時間--
 *☗<ruby>２五歩型<rt>にーごーふがた</rt></ruby>の<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat6.png"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat6.webp"></div>
    1 ５四歩(53)
    2 ７六歩(77)
    3 ４二玉(51)
@@ -30,7 +30,7 @@ Title: 十枚落ち実践例4
   10 同　飛(28)
   11 ７五歩(74)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   12 ５四飛(24)
 *<ruby>飛車<rt>ひしゃ</rt></ruby>を<ruby>成<rt>な</rt></ruby>れれば<ruby>優勢<rt>ゆうせい</rt></ruby>なので、<ruby>飛車<rt>ひしゃ</rt></ruby>を<ruby>移動<rt>いどう</rt></ruby>します。☗<ruby>同歩<rt>どうふ</rt></ruby>でもいいです。
   13 ４二玉(32)
@@ -49,7 +49,7 @@ Title: 十枚落ち実践例4
   24 ６三馬(73)
   25 １四歩(13)
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
-*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.png"></div>
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   26 ２四歩打
 *<ruby>龍<rt>りゅう</rt></ruby>や<ruby>馬<rt>うま</rt></ruby>で<ruby>王手<rt>おうて</rt></ruby>すると<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げられてしまいます。じっと<ruby>攻<rt>せ</rt></ruby>め<ruby>駒<rt>こま</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすのが<ruby>正解<rt>せいかい</rt></ruby>です。
   27 ３四玉(43)
@@ -63,7 +63,7 @@ Title: 十枚落ち実践例4
   35 投了
 *<a href="/shogi-beginners/10mai/">
 *<ruby>復習<rt>ふくしゅう</rt></ruby>しよう！
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat0.png"></div></a>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat0.webp"></div></a>
 まで34手で下手の勝ち
     </script>
     <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>

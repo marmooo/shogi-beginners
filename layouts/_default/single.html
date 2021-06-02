@@ -47,5 +47,15 @@
         speechSynthesis.speak(msg);
       }
     </script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/polyfills.js"></script>
+    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/webp-hero.bundle.js"></script>
+    <script>
+      var webpMachine = new webpHero.WebpMachine();
+      webpMachine.webpSupport.then(function(support) {
+        if (!support) {
+          webpMachine.polyfillDocument();
+        }
+      });
+    </script>
   </body>
 </html>
