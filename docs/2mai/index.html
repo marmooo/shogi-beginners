@@ -1,82 +1,11 @@
-<!doctype html>
-<html lang="ja">
-  <head>
-    <title>2枚落ち: 将棋びぎなーず</title>
-    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142997649-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-142997649-1');
-</script>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" sizes="180x180" href="/shogi-beginners/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="48x48" href="/shogi-beginners/favicon/favicon-48x48.png">
-<link rel="manifest" href="/shogi-beginners/favicon/site.webmanifest">
-<link rel="mask-icon" href="/shogi-beginners/favicon/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="shortcut icon" href="/shogi-beginners/favicon/favicon.ico">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-config" content="/shogi-beginners/favicon/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
-
-    <style>
-      html[data-theme="dark"] { filter: invert(1) hue-rotate(180deg) }
-      @-moz-document url-prefix() { html[data-theme="dark"] { background-color:black; } }
-    </style>
-    <script data-ad-client="ca-pub-6459713332128733" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  </head>
-  <body>
-    <header>
-  <nav class="navbar navbar-expand navbar-light">
-    <div class="container">
-      <a class="navbar-brand" href="/shogi-beginners/">
-        <ruby>将棋<rp>(</rp><rt>しょうぎ</rt><rp>)</rp></ruby>びぎなーず
-      </a>
-      <div class="navbar-nav">
-        <button title="音声読み上げ" onclick="toggleVoice(this)" class="btn p-0">
-          <svg id="voiceOn" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-volume-up-fill" viewBox="0 0 16 16"><path d="M11.536 14.01A8.473 8.473 0 0 0 14.026 8a8.473 8.473 0 0 0-2.49-6.01l-.708.707A7.476 7.476 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z"/><path d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.483 5.483 0 0 1 11.025 8a5.483 5.483 0 0 1-1.61 3.89l.706.706z"/><path d="M8.707 11.182A4.486 4.486 0 0 0 10.025 8a4.486 4.486 0 0 0-1.318-3.182L8 5.525A3.489 3.489 0 0 1 9.025 8 3.49 3.49 0 0 1 8 10.475l.707.707zM6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06z"/></svg>
-          <svg id="voiceOff" class="d-none" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-volume-mute-fill" viewBox="0 0 16 16"><path d="M6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06zm7.137 2.096a.5.5 0 0 1 0 .708L12.207 8l1.647 1.646a.5.5 0 0 1-.708.708L11.5 8.707l-1.646 1.647a.5.5 0 0 1-.708-.708L10.793 8 9.146 6.354a.5.5 0 1 1 .708-.708L11.5 7.293l1.646-1.647a.5.5 0 0 1 .708 0z"/></svg>
-        </button>
-        <button title="ダークモード切替" onclick="toggleDarkMode()" class="fs-4 btn p-0 ms-1">🌓</button>
-      </div>
-    </div>
-  </nav>
-</header>
-
-    <main class="container">
-      <nav aria-label="breadcrumb">
-  <ol class="breadcrumb bg-light rounded shadow p-3">
-    
-  <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
-  <li class="breadcrumb-item active" aria-current="page">二枚落ち</li>
-
-  </ol>
-</nav>
-
-<div class="row pt-3">
-  <div class="col-lg-6">
-    <h3 class="pt-4">2枚落ちのポイント</h3>
-    <p>上手陣には大きな弱点がなく、上手の変化球も多いです。
-    攻めと受けの総合的な力が必要となります。
-    </p>
-    <p>どのような変化になっても重要なことは、飛車角の効きを活かして上手の金銀桂を釘付けにすることです。
-    金銀桂を釘付けにして、残りの駒だけを相手にするように心掛けてください。
-    金銀桂を釘付けにされた上手の攻めは弱いので、ていねいに受ければ有利を拡大できます。
-    </p>
-    <p>金銀桂を釘付けにするわかりやすい指し方として、銀多伝定跡 (左図) 、二歩突き定跡 (右図) があります。
-    これら2つの形をイメージしながら指すといいです。
-    また7手詰ができるようになっていると勝ちやすいです。
-    </p>
-  </div>
-  <div class="col">
-    <div class="col p-1" tabindex="-1">
-      <script id="summary1-kif" type="kif">
+<!doctype html><html lang=ja><head><title>2枚落ち: 将棋びぎなーず</title><link rel=preconnect href=https://www.google-analytics.com crossorigin><script async src="https://www.googletagmanager.com/gtag/js?id=UA-142997649-1"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','UA-142997649-1');</script><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=apple-touch-icon sizes=180x180 href=/shogi-beginners/favicon/apple-touch-icon.png><link rel=icon type=image/png sizes=48x48 href=/shogi-beginners/favicon/favicon-48x48.png><link rel=manifest href=/shogi-beginners/favicon/site.webmanifest><link rel=mask-icon href=/shogi-beginners/favicon/safari-pinned-tab.svg color=#5bbad5><link rel="shortcut icon" href=/shogi-beginners/favicon/favicon.ico><meta name=msapplication-TileColor content="#da532c"><meta name=msapplication-config content="/shogi-beginners/favicon/browserconfig.xml"><meta name=theme-color content="#ffffff"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel=stylesheet><link href=https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css rel=stylesheet integrity=sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0 crossorigin=anonymous><style>html[data-theme=dark]{filter:invert(1)hue-rotate(180deg)}@-moz-document url-prefix(){html[data-theme=dark]{background-color:#000}}</style><script data-ad-client=ca-pub-6459713332128733 async src=https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js></script></head><body><header><nav class="navbar navbar-expand navbar-light"><div class=container><a class=navbar-brand href=/shogi-beginners/><ruby>将棋<rp>(</rp><rt>しょうぎ</rt><rp>)</rp></ruby>びぎなーず</a><div class=navbar-nav><button title=音声読み上げ onclick=toggleVoice(this) class="btn p-0"><svg id="voiceOn" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentcolor" class="bi bi-volume-up-fill" viewBox="0 0 16 16"><path d="M11.536 14.01A8.473 8.473.0 0014.026 8a8.473 8.473.0 00-2.49-6.01l-.708.707A7.476 7.476.0 0113.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z"/><path d="M10.121 12.596A6.48 6.48.0 0012.025 8a6.48 6.48.0 00-1.904-4.596l-.707.707A5.483 5.483.0 0111.025 8a5.483 5.483.0 01-1.61 3.89l.706.706z"/><path d="M8.707 11.182A4.486 4.486.0 0010.025 8 4.486 4.486.0 008.707 4.818L8 5.525A3.489 3.489.0 019.025 8 3.49 3.49.0 018 10.475l.707.707zM6.717 3.55A.5.5.0 017 4v8a.5.5.0 01-.812.39L3.825 10.5H1.5A.5.5.0 011 10V6a.5.5.0 01.5-.5h2.325l2.363-1.89a.5.5.0 01.529-.06z"/></svg><svg id="voiceOff" class="d-none" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentcolor" class="bi bi-volume-mute-fill" viewBox="0 0 16 16"><path d="M6.717 3.55A.5.5.0 017 4v8a.5.5.0 01-.812.39L3.825 10.5H1.5A.5.5.0 011 10V6a.5.5.0 01.5-.5h2.325l2.363-1.89a.5.5.0 01.529-.06zm7.137 2.096a.5.5.0 010 .708L12.207 8l1.647 1.646a.5.5.0 01-.708.708L11.5 8.707l-1.646 1.647a.5.5.0 01-.708-.708L10.793 8 9.146 6.354a.5.5.0 11.708-.708L11.5 7.293l1.646-1.647a.5.5.0 01.708.0z"/></svg></button>
+<button title=ダークモード切替 onclick=toggleDarkMode() class="fs-4 btn p-0 ms-1">🌓</button></div></div></nav></header><main class=container><nav aria-label=breadcrumb><ol class="breadcrumb bg-light rounded shadow p-3"><li class=breadcrumb-item><a href=/shogi-beginners/>Home</a></li><li class="breadcrumb-item active" aria-current=page>二枚落ち</li></ol></nav><div class="row pt-3"><div class=col-lg-6><h3 class=pt-4>2枚落ちのポイント</h3><p>上手陣には大きな弱点がなく、上手の変化球も多いです。
+攻めと受けの総合的な力が必要となります。</p><p>どのような変化になっても重要なことは、飛車角の効きを活かして上手の金銀桂を釘付けにすることです。
+金銀桂を釘付けにして、残りの駒だけを相手にするように心掛けてください。
+金銀桂を釘付けにされた上手の攻めは弱いので、ていねいに受ければ有利を拡大できます。</p><p>金銀桂を釘付けにするわかりやすい指し方として、銀多伝定跡 (左図) 、二歩突き定跡 (右図) があります。
+これら2つの形をイメージしながら指すといいです。
+また7手詰ができるようになっていると勝ちやすいです。</p></div><div class=col><div class="col p-1" tabindex=-1><script id=summary1-kif type=kif>
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
 +---------------------------+
@@ -92,13 +21,7 @@
 +---------------------------+
 下手の持駒：なし
 手数＝24  ▲６八銀  まで
-      </script>
-      <svg id="summary1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
-    </div>
-  </div>
-  <div class="col">
-    <div class="col p-1" tabindex="-1">
-      <script id="summary2-kif" type="kif">
+      </script><svg id="summary1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540"/></div></div><div class=col><div class="col p-1" tabindex=-1><script id=summary2-kif type=kif>
 上手の持駒：歩　
   ９ ８ ７ ６ ５ ４ ３ ２ １
 +---------------------------+
@@ -114,53 +37,8 @@
 +---------------------------+
 下手の持駒：なし
 手数＝36  ▲４八金  まで
-      </script>
-      <svg id="summary2" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
-    </div>
-  </div>
-</div>
-<div>
-  <h3 class="pt-4">2枚落ちの実践例</h3>
-</div>
-<div class="pt-4">
-  <h3><ruby>詰将棋<rt>つめしょうぎ</rt></ruby>のおすすめ<ruby>書籍<rt>しょせき</rt></ruby></h3>
-  <p>7手詰の練習をおすすめします。</p>
-  <div class="text-center pt-3">
-    <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370310&linkId=0fde8e29e67e7e8f1010cbaec83ec5e0&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-    <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370442&linkId=cec40ab3f3cfaf024e85e16174548a45&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-    <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4422751255&linkId=4b4e352fbf6799678c69138585127152&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
-  </div>
-</div>
-<script src="/shogi-beginners/kifu-viewer.js"></script>
-<script>
-
-  ['summary1', 'summary2'].forEach(komawari => {
-    new KifuViewer(document.getElementById(komawari), { buttons: 'none' })
-      .loadString(document.getElementById(komawari + '-kif').textContent);
-  });
-
-</script>
-
-
-    </main>
-    <footer class="pt-4 alert text-center">
-      <div class="pt-3">
-        <a class="px-1" href="/">Home</a>
-        <a class="px-1" href="/terms/">Terms</a>
-        <a class="px-1" href="https://github.com/marmooo/shogi-beginners">Contact</a>
-      </div>
-      <div class="text-muted">&copy; <a href="https://github.com/marmooo">marmooo</a></div>
-    </footer>
-    <script src="/shogi-beginners/index.min.js"></script>
-    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/polyfills.js"></script>
-    <script src="https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/webp-hero.bundle.js"></script>
-    <script>
-      var webpMachine = new webpHero.WebpMachine();
-      webpMachine.webpSupport.then(function(support) {
-        if (!support) {
-          webpMachine.polyfillDocument();
-        }
-      });
-    </script>
-  </body>
-</html>
+      </script><svg id="summary2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540"/></div></div></div><div><h3 class=pt-4>2枚落ちの実践例</h3></div><div class=pt-4><h3><ruby>詰将棋<rt>つめしょうぎ</rt></ruby>のおすすめ<ruby>書籍<rt>しょせき</rt></ruby></h3><p>7手詰の練習をおすすめします。</p><div class="text-center pt-3"><iframe loading=lazy style=width:120px;height:240px marginwidth=0 marginheight=0 scrolling=no frameborder=0 src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370310&linkId=0fde8e29e67e7e8f1010cbaec83ec5e0&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+<iframe loading=lazy style=width:120px;height:240px marginwidth=0 marginheight=0 scrolling=no frameborder=0 src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370442&linkId=cec40ab3f3cfaf024e85e16174548a45&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
+<iframe loading=lazy style=width:120px;height:240px marginwidth=0 marginheight=0 scrolling=no frameborder=0 src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4422751255&linkId=4b4e352fbf6799678c69138585127152&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe></div></div><script src=/shogi-beginners/kifu-viewer.js></script><script>['summary1','summary2'].forEach(komawari=>{new KifuViewer(document.getElementById(komawari),{buttons:'none'}).loadString(document.getElementById(komawari+'-kif').textContent);});</script></main><footer class="pt-4 alert text-center"><div class=pt-3><a class=px-1 href=/>Home</a>
+<a class=px-1 href=/terms/>Terms</a>
+<a class=px-1 href=https://github.com/marmooo/shogi-beginners>Contact</a></div><div class=text-muted>&copy; <a href=https://github.com/marmooo>marmooo</a></div></footer><script src=/shogi-beginners/index.min.js></script><script src=https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/polyfills.js></script><script src=https://unpkg.com/webp-hero@0.0.0-dev.27/dist-cjs/webp-hero.bundle.js></script><script>var webpMachine=new webpHero.WebpMachine();webpMachine.webpSupport.then(function(support){if(!support){webpMachine.polyfillDocument();}});</script></body></html>
