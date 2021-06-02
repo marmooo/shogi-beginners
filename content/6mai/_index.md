@@ -4,7 +4,7 @@ Title: 六枚落ち
 {{< breadcrumb >}}
   <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
   <li class="breadcrumb-item active" aria-current="page">六枚落ち</li>
-{{< breadcrumb >}}
+{{</ breadcrumb >}}
 <div class="row pt-3">
   <div class="col-lg-6">
     <h3><ruby>六枚<rt>ろくまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちのポイント</h3>
