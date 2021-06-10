@@ -23,7 +23,7 @@ Title: 六枚落ち
       >を<ruby>作<rt>つく</rt></ruby>っても<ruby>勝<rt>か</rt></ruby
       >つまでは<ruby>長<rt>なが</rt></ruby>いので、ていねいに<ruby>攻<rt>せ</rt></ruby
       >める<ruby>力<rt>ちから</rt></ruby>、そして<ruby>自陣<rt>じじん</rt></ruby
-      >を<ruby>守<rt>まも</rt></ruby>りきる<ruby>力<rt>力</rt></ruby
+      >を<ruby>守<rt>まも</rt></ruby>りきる<ruby>力<rt>ちから</rt></ruby
       >が<ruby>必要<rt>ひつよう</rt></ruby>になります。
     </p>
     <p><ruby>上手<rt>うわて</rt></ruby>にはいくつかの<ruby>指<rt>さ</rt></ruby
