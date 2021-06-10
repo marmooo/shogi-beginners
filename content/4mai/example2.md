@@ -121,7 +121,7 @@ Title: 四枚落ち実戦例2
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   82 ３四銀(25)
-*<ruby>上手<rt>うわて</rt></ruby>は☖<ruby>問題<rt>どうぎん</rt></ruby>とするよりありません。<ruby>少<rt>すこ</rt></ruby>し<ruby>長<rt>なが</rt></ruby>いですが<ruby>以下<rt>いか</rt></ruby><ruby>詰<rt>つ</rt></ruby>みです。
+*<ruby>上手<rt>うわて</rt></ruby>は☖<ruby>同銀<rt>どうぎん</rt></ruby>とするよりありません。<ruby>少<rt>すこ</rt></ruby>し<ruby>長<rt>なが</rt></ruby>いですが<ruby>以下<rt>いか</rt></ruby><ruby>詰<rt>つ</rt></ruby>みです。
   83 同　金(33)
   84 ４三銀打
   85 ３三玉(32)
