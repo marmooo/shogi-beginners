@@ -20,7 +20,7 @@ Title: 四枚落ち
     >のほうが<ruby>勝<rt>か</rt></ruby>ちやすいですが、
     <ruby>自分<rt>じぶん</rt></ruby>の<ruby>攻<rt>せ</rt></ruby
     >めと<ruby>相手<rt>あいて</rt></ruby>の<ruby>攻<rt>せ</rt></ruby
-    >めの<ruby>飛車<rt>そくど</rt></ruby>をよく<ruby>考<rt>かんが</rt></ruby
+    >めの<ruby>速度<rt>そくど</rt></ruby>をよく<ruby>考<rt>かんが</rt></ruby
     >えながら<ruby>指<rt>さ</rt></ruby>す<ruby>必要<rt>ひつよう</rt></ruby>があります。</p>
     <p><ruby>実戦<rt>じっせん</rt></ruby>では<ruby>王<rt>おう</rt></ruby
     >がなかなかつかまらないことが<ruby>多<rt>おお</rt></ruby>いです。
