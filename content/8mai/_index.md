@@ -27,6 +27,17 @@ Title: 八枚落ち
       >めを<ruby>受<rt>う</rt></ruby>ける<ruby>力<rt>ちから</rt></ruby
       >が<ruby>必要<rt>ひつよう</rt></ruby>になります。
       3<ruby>手詰<rt>てづめ</rt></ruby>ができるようになっていると<ruby>勝<rt>か</rt></ruby>ちやすいです。</p>
+    <p>💡 <ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt></ruby
+      >ちはなんとなくで<ruby>上手<rt>うわて</rt></ruby>に<ruby>勝<rt>か</rt></ruby
+      >てることも<ruby>多<rt>おお</rt></ruby>いですが、<ruby>定跡<rt>じょうせき</rt></ruby
+      >をおぼえていなかったり、<ruby>数<rt>かず</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby
+      >ができていないと、<ruby>六枚<rt>ろくまい</rt></ruby><ruby>落<rt>お</rt></ruby
+      >ちで<ruby>苦労<rt>くろう</rt></ruby>することが<ruby>多<rt>おお</rt></ruby
+      >いです。そのためミニ<ruby>将棋<rt>しょうぎ</rt></ruby>などで<ruby>先<rt>さき</rt></ruby
+      >に<ruby>基礎<rt>きそ</rt></ruby>を<ruby>固<rt>かた</rt></ruby
+      >め、<ruby>棋譜<rt>きふ</rt></ruby><ruby>並<rt>なら</rt></ruby
+      >べの<ruby>習慣<rt>しゅうかん</rt></ruby>をつけておくことをおすすめします。
+      </p>
   </div>
   <div class="col">
     <div class="col p-1" tabindex="-1">
