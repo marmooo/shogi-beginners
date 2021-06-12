@@ -5,7 +5,7 @@ Title: 四枚落ち実戦例1
   <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
   <li class="breadcrumb-item"><a href="/shogi-beginners/4mai/">四枚落ち</a></li>
   <li class="breadcrumb-item active" aria-current="page">実戦例1 (右端攻め)</li>
-{{< breadcrumb >}}
+{{</ breadcrumb >}}
 <div class="row pt-3">
   <div class="col-lg-1"></div>
   <div class="col-sm" tabindex="-1">
