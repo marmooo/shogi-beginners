@@ -5,6 +5,7 @@ Title: 八枚落ち実践譜
   <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
   <li class="breadcrumb-item"><a href="/shogi-beginners/8mai/">八枚落ち</a></li>
   <li class="breadcrumb-item active" aria-current="page">実践例6 (空中戦)</li>
+{{</ breadcrumb >}}
 <div class="row pt-3">
   <div class="col-lg-1"></div>
   <div class="col-sm" tabindex="-1">
