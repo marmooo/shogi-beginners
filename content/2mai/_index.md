@@ -103,7 +103,7 @@ Title: 二枚落ち
       <div class="row">
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example1/">
-            <h5><ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby>き<ruby>定跡<rt>じょうせき</rt></ruby></h5>
+            <h5><ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby>き<ruby>定跡<rt>じょうせき</rt></ruby>🚧</h5>
             <script id="example1-kif" type="kif">
 上手：上手
 上手の持駒：なし
@@ -215,7 +215,7 @@ Title: 二枚落ち
       <div class="row">
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example5/">
-            <h5><ruby>角<rt>かく</rt></ruby><ruby>捨<rt>す</rt></ruby>て</h5>
+            <h5><ruby>角<rt>かく</rt></ruby><ruby>捨<rt>す</rt></ruby>て🚧</h5>
             <script id="example5-kif" type="kif">
 上手：上手
 上手の持駒：なし
@@ -240,7 +240,7 @@ Title: 二枚落ち
         </div>
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example6/">
-            <h5><ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がり</h5>
+            <h5><ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がり🚧</h5>
             <script id="example6-kif" type="kif">
 上手：上手
 上手の持駒：なし
@@ -269,7 +269,7 @@ Title: 二枚落ち
       <div class="row">
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example7/">
-            <h5><ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
+            <h5><ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め🚧</h5>
             <script id="example7-kif" type="kif">
 上手：上手
 上手の持駒：歩　
@@ -294,7 +294,7 @@ Title: 二枚落ち
         </div>
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example8/">
-            <h5>☗<ruby>７八<rt>ななはち</rt></ruby><ruby>飛型<rt>ひがた</rt></ruby></h5>
+            <h5>☗<ruby>７八<rt>ななはち</rt></ruby><ruby>飛型<rt>ひがた</rt></ruby>🚧</h5>
             <script id="example8-kif" type="kif">
 上手：上手
 上手の持駒：なし
@@ -352,7 +352,7 @@ Title: 二枚落ち
         </div>
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example10/">
-            <h5><ruby>銀多伝<rt>ぎんたでん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby></h5>
+            <h5><ruby>銀多伝<rt>ぎんたでん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>🚧</h5>
             <script id="example10-kif" type="kif">
 上手：上手
 上手の持駒：歩
@@ -381,7 +381,7 @@ Title: 二枚落ち
       <div class="row">
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example11/">
-            <h5><ruby>銀多伝<rt>ぎんたでん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby></h5>
+            <h5><ruby>銀多伝<rt>ぎんたでん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>🚧</h5>
             <script id="example11-kif" type="kif">
 上手：上手
 上手の持駒：歩
