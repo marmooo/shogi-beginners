@@ -45,8 +45,10 @@ Title: 二枚落ち実戦例11
   27 ８五金(84)
   28 ３八玉(48)
   29 ７六金(85)
+*<ruby>７六<rt>ななろく</rt></ruby><ruby>歩<rt>ふ</rt></ruby>はタダで<ruby>取<rt>と</rt></ruby>らせて<ruby>駒<rt>こま</rt></ruby><ruby>組<rt>ぐ</rt></ruby>みを<ruby>急<rt>いそ</rt><ruby>ぐのが<ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>指<rt>さ</rt></ruby>し<ruby>方<rt>かた</rt></ruby>です。
   30 ７八金(69)
   31 ７五金(76)
+*<ruby>上手<rt>うわて</rt></ruby>は<ruby>攻<rt>せ</rt></ruby>めようとしてもうまくいかなかったので、<ruby>今度<rt>こんど</rt></ruby>は<ruby>守<rt>まも</rt></ruby>ってみます。
   32 ５五歩(56)
   33 同　歩(54)
   34 同　飛(58)
