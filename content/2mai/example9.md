@@ -92,7 +92,7 @@ Title: 二枚落ち実戦例10
 *<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
 *<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   62 ９五歩(96)
-*いろいろな<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt></ruby>がありますが、<ruby>危険<rt>きけん</rt></ruby>を<ruby>冒<rt>おか</rt></ruby>さない<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt></ruby>をおすすめします。<ruby>端<rt>はし</rt></ruby><ruby>攻<rt>ぜ</rt></ruby>めは<ruby>上手<rt>うわて</rt></ruby>からの<ruby>反撃<rt>はんげき</rt></ruby>がないので、<ruby>一番<rt>いちばん</rt></ruby><ruby>確実<rt>かくじつ</rt></ruby>です。<ruby>下手<rt>したて</rt></ruby>に３<ruby>筋<rt>すじ</rt></ruby>や４<ruby>筋<rt>すじ</rt></ruby>などから<ruby>攻<rt>せ</rt></ruby>めないほうがいいです。
+*いろいろな<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt></ruby>がありますが、<ruby>危険<rt>きけん</rt></ruby>を<ruby>冒<rt>おか</rt></ruby>さない<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt></ruby>をおすすめします。<ruby>端<rt>はし</rt></ruby><ruby>攻<rt>ぜ</rt></ruby>めは<ruby>上手<rt>うわて</rt></ruby>からの<ruby>反撃<rt>はんげき</rt></ruby>がないので、<ruby>一番<rt>いちばん</rt></ruby><ruby>確実<rt>かくじつ</rt></ruby>です。３<ruby>筋<rt>すじ</rt></ruby>や４<ruby>筋<rt>すじ</rt></ruby>などから<ruby>攻<rt>せ</rt></ruby>めないほうがいいです。
   63 同　歩(94)
   64 同　香(99)
   65 ９四歩打
