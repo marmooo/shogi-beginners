@@ -122,7 +122,7 @@ Title: 二枚落ち実戦例8
   84 ２四飛(29)
   85 ２三銀(14)
   86 ２九飛(24)
-*<ruby>歩<rt>ふ</rt></ruby><ruby>切<rt>ぎ</rt></ruby>れの<ruby>上手<rt>うわて</rt></ruby>は<ruby>次<rt>つぎ</rt></ruby>の☗<ruby>４三<rt>よんさん</rt></ruby><ruby>歩成<rt>ふなり</rt></ruby>や☗<ruby>３一<rt>さんいち</rt></ruby><ruby>飛<rt>ひ</rt></ruby>が<ruby>受<rt>う</rt></ruby>かりません。
+*<ruby>歩<rt>ふ</rt></ruby><ruby>切<rt>ぎ</rt></ruby>れの<ruby>上手<rt>うわて</rt></ruby>は<ruby>次<rt>つぎ</rt></ruby>の☗<ruby>４三<rt>よんさん</rt></ruby><ruby>歩成<rt>ふなり</rt></ruby>や☗<ruby>３一<rt>さんいち</rt>とが<ruby>受<rt>う</rt></ruby>かりません。
   87 ２四桂打
   88 ４三歩成(44)
   89 同　金(32)
