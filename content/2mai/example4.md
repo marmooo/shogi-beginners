@@ -98,7 +98,7 @@ Title: 二枚落ち実戦例4
   65 ２二玉(31)
   66 ５二と(62)
   67 ５七桂(65)
-*<ruby>下手<rt>したて</rt></ruby>はと<ruby>金<rt>きん</rt></ruby>を<ruby>寄<rt>よ</rt></ruby>っていくだけで<ruby>勝<rt>か</rt></ruby>てます。<ruby>手<rt>て</rt></ruby>のない上手は暴れてきますが、ていねいに<ruby>応<rt>おう</rt></ruby>じていきましょう。
+*<ruby>下手<rt>したて</rt></ruby>はと<ruby>金<rt>きん</rt></ruby>を<ruby>寄<rt>よ</rt></ruby>っていくだけで<ruby>勝<rt>か</rt></ruby>てます。<ruby>手<rt>て</rt></ruby>のない<ruby>上手<rt>うわて</rt></ruby>は<ruby>暴<rt>あば</rt></ruby>れてきますが、ていねいに<ruby>応<rt>おう</rt></ruby>じていきましょう。
   68 同　角(66)
   69 ９六歩打
   70 ８五桂(97)
