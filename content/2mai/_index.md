@@ -8,43 +8,44 @@ Title: 二枚落ち
 <div class="row pt-3">
   <div class="col-lg-6">
     <h3 class="pt-4"><ruby>二枚<rt>にまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちのポイント</h3>
-    <p><ruby>上手陣<rt>うわてじん</rt></ruby>には<ruby>大<rt>おお</rt></ruby
-    >きな<ruby>弱点<rt>じゃくてん</rt></ruby>がなく、<ruby>上手<rt>うわて</rt></ruby
-    >の<ruby>変化球<rt>へんかきゅう</rt></ruby>も<ruby>多<rt>おお</rt></ruby
-    >いです。<ruby>攻<rt>せ</rt></ruby>めと<ruby>受<rt>う</rt></ruby
-    >けの<ruby>総合的<rt>そうごうてき</rt></ruby>な<ruby>力<rt>ちから</rt></ruby
-    >が<ruby>必要<rt>ひつよう</rt></ruby>となります。プロ<ruby>相手<rt>あいて</rt></ruby
-    >に<ruby>二枚<rt>にまい</rt></ruby><ruby>落<rt>お</rt></ruby
-    >ちで<ruby>勝<rt>か</rt></ruby>てれば<ruby>初段<rt>しょだん</rt></ruby>はあります。
+    <p><ruby>上手陣<rt>うわてじん</rt></ruby>には<ruby>大<rt>おお</rt>
+      </ruby>きな<ruby>弱点<rt>じゃくてん</rt></ruby>がなく、<ruby>上手<rt>うわて</rt>
+      </ruby>の<ruby>変化球<rt>へんかきゅう</rt></ruby>も<ruby>多<rt>おお</rt>
+      </ruby>いです。<ruby>攻<rt>せ</rt></ruby>めと<ruby>受<rt>う</rt>
+      </ruby>けの<ruby>総合的<rt>そうごうてき</rt></ruby>な<ruby>力<rt>ちから</rt>
+      </ruby>が<ruby>必要<rt>ひつよう</rt></ruby>となります。プロ<ruby>相手<rt>あいて</rt>
+      </ruby>に<ruby>二枚<rt>にまい</rt></ruby><ruby>落<rt>お</rt>
+      </ruby>ちで<ruby>勝<rt>か</rt></ruby>てれば<ruby>初段<rt>しょだん</rt></ruby>はあります。
     </p>
-    <p>どのような<ruby>変化<rt>へんか</rt></ruby>になっても<ruby>大切<rt>たいせつ</rt></ruby
-    >なことは、<ruby>飛車<rt>ひしゃ</rt></ruby><ruby>角<rt>かく</rt></ruby
-    >の<ruby>利<rt>き</rt></ruby>きをいかして<ruby>上手<rt>うわて</rt></ruby
-    >の<ruby>金銀桂<rt>きんぎんけい</rt></ruby>を<ruby>釘<rt>くぎ</rt></ruby
-    ><ruby>付<rt>づ</rt></ruby>けにすることです。そして<ruby>残<rt>のこ</rt></ruby
-    >りの<ruby>駒<rt>こま</rt></ruby>だけを<ruby>相手<rt>あいて</rt></ruby
-    >にするように<ruby>心<rt>こころ</rt></ruby><ruby>掛<rt>が</rt></ruby
-    >けてください。<ruby>金銀桂<rt>きんぎんけい</rt></ruby>を<ruby>釘<rt>くぎ</rt></ruby
-    ><ruby>付<rt>づ</rt></ruby>けにされた<ruby>上手<rt>うわて</rt></ruby
-    >の<ruby>攻<rt>せ</rt></ruby>めは<ruby>弱<rt>よわ</rt></ruby
-    >いので、ていねいに<ruby>受<rt>う</rt></ruby>ければ<ruby>有利<rt>ゆうり</rt></ruby
-    >を<ruby>拡大<rt>かくだい</rt></ruby>できます。
+    <p>どのような<ruby>変化<rt>へんか</rt></ruby>になっても<ruby>大切<rt>たいせつ</rt>
+      </ruby>なことは、<ruby>飛車<rt>ひしゃ</rt></ruby><ruby>角<rt>かく</rt>
+      </ruby>の<ruby>利<rt>き</rt></ruby>きをいかして<ruby>上手<rt>うわて</rt>
+      </ruby>の<ruby>金銀桂<rt>きんぎんけい</rt></ruby>を<ruby>釘<rt>くぎ</rt>
+      </ruby><ruby>付<rt>づ</rt></ruby>けにすることです。そして<ruby>残<rt>のこ</rt>
+      </ruby>りの<ruby>駒<rt>こま</rt></ruby>だけを<ruby>相手<rt>あいて</rt>
+      </ruby>にするように<ruby>心<rt>こころ</rt></ruby><ruby>掛<rt>が</rt>
+      </ruby>けてください。<ruby>金銀桂<rt>きんぎんけい</rt></ruby>を<ruby>釘<rt>くぎ</rt>
+      </ruby><ruby>付<rt>づ</rt></ruby>けにされた<ruby>上手<rt>うわて</rt>
+      </ruby>の<ruby>攻<rt>せ</rt></ruby>めは<ruby>弱<rt>よわ</rt>
+      </ruby>いので、ていねいに<ruby>受<rt>う</rt></ruby>ければ<ruby>有利<rt>ゆうり</rt>
+      </ruby>を<ruby>拡大<rt>かくだい</rt></ruby>できます。
     </p>
-    <p><ruby>金銀桂<rt>きんぎんけい</rt></ruby>を<ruby>釘<rt>くぎ</rt></ruby
-    ><ruby>付<rt>づ</rt></ruby>けにするわかりやすい<ruby>指<rt>さ</rt></ruby
-    >し<ruby>方<rt>かた</rt></ruby>として、<ruby>銀多伝<rt>ぎんたでん</rt></ruby
-    ><ruby>定跡<rt>じょうせき</rt></ruby> (<ruby>左図<rt>ひだりず</rt></ruby
-    >) 、<ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby
-    >き<ruby>定跡<rt>じょうせき</rt></ruby> (<ruby>右図<rt>みぎず</rt></ruby
-    >) があります。これら2つの<ruby>形<rt>かたち</rt></ruby
-    >をイメージしながら<ruby>指<rt>さ</rt></ruby
-    >しましょう。<ruby>攻<rt>せ</rt></ruby>めるときはどちらも<ruby>５五<rt>ごーごー</rt></ruby
-    >や<ruby>４四<rt>よんよん</rt></ruby>の<ruby>守<rt>まも</rt></ruby>りが<ruby>薄<rt>うす</rt></ruby
-    >いことに<ruby>注目<rt>ちゅうもく</rt></ruby>し、<ruby>守<rt>まも</rt></ruby
-    >りの<ruby>薄<rt>うす</rt></ruby>い<ruby>部分<rt>ぶぶん</rt></ruby>をうまく<ruby>攻<rt>せ</rt></ruby
-    >める<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えましょう。
-    7<ruby>手詰<rt>てづみ</rt></ruby>ができるようになっていると<ruby>勝<rt>か</rt></ruby
-    >ちやすいです。
+    <p><ruby>金銀桂<rt>きんぎんけい</rt></ruby>を<ruby>釘<rt>くぎ</rt>
+      </ruby><ruby>付<rt>づ</rt></ruby>けにするわかりやすい<ruby>指<rt>さ</rt>
+      </ruby>し<ruby>方<rt>かた</rt></ruby>として、<ruby>銀多伝<rt>ぎんたでん</rt>
+      </ruby><ruby>定跡<rt>じょうせき</rt></ruby> (<ruby>左図<rt>ひだりず</rt>
+      </ruby>) 、<ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt>
+      </ruby>き<ruby>定跡<rt>じょうせき</rt></ruby> (<ruby>右図<rt>みぎず</rt>
+      </ruby>) があります。これら2つの<ruby>形<rt>かたち</rt>
+      </ruby>をイメージしながら<ruby>指<rt>さ</rt>
+      </ruby>しましょう。<ruby>攻<rt>せ</rt></ruby>めるときはどちらも<ruby>５五<rt>ごーごー</rt>
+      </ruby>や<ruby>４四<rt>よんよん</rt></ruby>の<ruby>守<rt>まも</rt>
+      </ruby>りが<ruby>薄<rt>うす</rt></ruby>いことに<ruby>注目<rt>ちゅうもく</rt>
+      </ruby>し、<ruby>守<rt>まも</rt></ruby>りの<ruby>薄<rt>うす</rt>
+      </ruby>い<ruby>部分<rt>ぶぶん</rt></ruby>をうまく<ruby>攻<rt>せ</rt>
+      </ruby>める<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えましょう。
+      7<ruby>手詰<rt>てづみ</rt></ruby>ができるようになっていると<ruby>勝<rt>か</rt>
+      </ruby>ちやすいです。
     </p>
   </div>
   <div class="col">

@@ -10,31 +10,33 @@ Title: ミニ将棋
 <div class="row pt-3">
   <div class="col-lg-6">
     <h3>ミニ<ruby>将棋<rt>しょうぎ</rt></ruby>のポイント</h3>
-    <p><ruby>将棋<rt>しょうぎ</rt></ruby>のルールをおぼえた<ruby>後<rt>あと</rt></ruby
-      >、<ruby>裸玉<rt>らぎょく</rt></ruby> (<ruby>左図<rt>ひだりず</rt></ruby
-      >) をする<ruby>人<rt>ひと</rt></ruby>は<ruby>多<rt>おお</rt></ruby
-      >いのですが、<ruby>時間<rt>じかん</rt></ruby
-      >をかけてもポイントをつかめないことが<ruby>多<rt>おお</rt></ruby>いです。
-      <ruby>著者<rt>ちょしゃ</rt></ruby>が<ruby>将棋<rt>しょうぎ</rt></ruby
-      >を<ruby>教<rt>おし</rt></ruby>える<ruby>時<rt>とき</rt></ruby
-      >には、<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby
-      >でポイントをつかんでもらうことを<ruby>重視<rt>じゅうし</rt></ruby
-      >しており、そのツールとして<ruby>様々<rt>さまざま</rt></ruby
-      >なミニ<ruby>将棋<rt>しょうぎ</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>しています。
+    <p><ruby>将棋<rt>しょうぎ</rt></ruby>のルールをおぼえた<ruby>後<rt>あと</rt>
+      </ruby>、<ruby>裸玉<rt>らぎょく</rt></ruby> (<ruby>左図<rt>ひだりず</rt>
+      </ruby>) をする<ruby>人<rt>ひと</rt></ruby>は<ruby>多<rt>おお</rt>
+      </ruby>いのですが、<ruby>時間<rt>じかん</rt>
+      </ruby>をかけてもポイントをつかめないことが<ruby>多<rt>おお</rt></ruby>いです。
+      <ruby>著者<rt>ちょしゃ</rt></ruby>が<ruby>将棋<rt>しょうぎ</rt>
+      </ruby>を<ruby>教<rt>おし</rt></ruby>える<ruby>時<rt>とき</rt>
+      </ruby>には、<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt>
+      </ruby>でポイントをつかんでもらうことを<ruby>重視<rt>じゅうし</rt>
+      </ruby>しており、そのツールとして<ruby>様々<rt>さまざま</rt>
+      </ruby>なミニ<ruby>将棋<rt>しょうぎ</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>しています。
     </p>
-    <p>ミニ<ruby>将棋<rt>しょうぎ</rt></ruby>としては<ruby>右図<rt>みぎず</rt></ruby
-    >が<ruby>最<rt>もっと</rt></ruby>も<ruby>有名<rt>ゆうめい</rt></ruby
-    >で、5x5 の<ruby>空間<rt>くうかん</rt></ruby>で<ruby>金銀<rt>きんぎん</rt></ruby
-    >だけを<ruby>使<rt>つか</rt></ruby>って<ruby>対局<rt>たいきょく</rt></ruby>するものがあります。
-    このミニ<ruby>将棋<rt>しょうぎ</rt></ruby>は 22<ruby>級<rt>きゅう</rt></ruby
-    >の<ruby>子<rt>こ</rt></ruby>によく<ruby>利用<rt>りよう</rt></ruby
-    >するのですが、ルールをおぼえたばかりの<ruby>子<rt>こ</rt></ruby
-    >にはまだまだハードルが<ruby>高<rt>たか</rt></ruby>いことが<ruby>多<rt>おお</rt></ruby>いです。
-    そのような<ruby>時<rt>とき</rt></ruby>にどのように<ruby>教<rt>おし</rt></ruby
-    >えれば<ruby>良<rt>よ</rt></ruby>いか。
-    <ruby>効果<rt>こうか</rt></ruby>の<ruby>高<rt>たか</rt></ruby
-    >いミニ<ruby>将棋<rt>しょうぎ</rt></ruby>を<ruby>少<rt>すこ</rt></ruby
-    >しだけ<ruby>紹介<rt>しょうかい</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>います。
+    <p>ミニ<ruby>将棋<rt>しょうぎ</rt></ruby>としては<ruby>右図<rt>みぎず</rt>
+      </ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>有名<rt>ゆうめい</rt>
+      </ruby>で、5x5 の<ruby>空間<rt>くうかん</rt></ruby>で<ruby>金銀<rt>きんぎん</rt>
+      </ruby>だけを<ruby>使<rt>つか</rt></ruby>って<ruby>対局<rt>たいきょく</rt>
+      </ruby>するものがあります。
+      このミニ<ruby>将棋<rt>しょうぎ</rt></ruby>は 22<ruby>級<rt>きゅう</rt>
+      </ruby>の<ruby>子<rt>こ</rt></ruby>によく<ruby>利用<rt>りよう</rt>
+      </ruby>するのですが、ルールをおぼえたばかりの<ruby>子<rt>こ</rt>
+      </ruby>にはまだまだハードルが<ruby>高<rt>たか</rt></ruby>いことが<ruby>多<rt>おお</rt>
+      </ruby>いです。
+      そのような<ruby>時<rt>とき</rt></ruby>にどのように<ruby>教<rt>おし</rt>
+      </ruby>えれば<ruby>良<rt>よ</rt></ruby>いか。
+      <ruby>効果<rt>こうか</rt></ruby>の<ruby>高<rt>たか</rt>
+      </ruby>いミニ<ruby>将棋<rt>しょうぎ</rt></ruby>を<ruby>少<rt>すこ</rt>
+      </ruby>しだけ<ruby>紹介<rt>しょうかい</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>います。
     </p>
   </div>
   <div class="col p-1">
@@ -91,12 +93,13 @@ Title: ミニ将棋
       <div class="row">
         <div class="col pb-3" tabindex="-1">
           <h4>30級</h4>
-          <p>ルールをおえた<ruby>直後<rt>ちょくご</rt></ruby>に<ruby>指<rt>さ</rt></ruby
-            >すミニ<ruby>将棋<rt>しょうぎ</rt></ruby>です。
-            <ruby>駒<rt>こま</rt></ruby>を<ruby>成<rt>な</rt></ruby
-            >ること、<ruby>王<rt>おう</rt></ruby>を<ruby>逃<rt>に</rt></ruby
-            >がさない<ruby>指<rt>さ</rt></ruby>し<ruby>方<rt>かた</rt></ruby
-            >を<ruby>学<rt>まな</rt></ruby>びます。</p>
+          <p>ルールをおえた<ruby>直後<rt>ちょくご</rt></ruby>に<ruby>指<rt>さ</rt>
+            </ruby>すミニ<ruby>将棋<rt>しょうぎ</rt></ruby>です。
+            <ruby>駒<rt>こま</rt></ruby>を<ruby>成<rt>な</rt>
+            </ruby>ること、<ruby>王<rt>おう</rt></ruby>を<ruby>逃<rt>に</rt>
+            </ruby>がさない<ruby>指<rt>さ</rt></ruby>し<ruby>方<rt>かた</rt>
+            </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
+          </p>
           <script id="30kyu-kif" type="kif">
 上手：上手
 下手：下手
@@ -119,12 +122,13 @@ Title: ミニ将棋
         </div>
         <div class="col pb-3" tabindex="-1">
           <h4>27級</h4>
-          <p><ruby>手<rt>て</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby
-            >すぎると<ruby>迷<rt>まよ</rt></ruby>ってしまう<ruby>子<rt>こ</rt></ruby
-            >は<ruby>多<rt>おお</rt></ruby>いです。
-            なるべく<ruby>早<rt>はや</rt></ruby>く<ruby>王<rt>おう</rt></ruby
-            >をつかまえる<ruby>方法<rt>ほうほう</rt></ruby
-            >を<ruby>学<rt>まな</rt></ruby>びます。</p>
+          <p><ruby>手<rt>て</rt></ruby>が<ruby>広<rt>ひろ</rt>
+            </ruby>すぎると<ruby>迷<rt>まよ</rt></ruby>ってしまう<ruby>子<rt>こ</rt>
+            </ruby>は<ruby>多<rt>おお</rt></ruby>いです。
+            なるべく<ruby>早<rt>はや</rt></ruby>く<ruby>王<rt>おう</rt>
+            </ruby>をつかまえる<ruby>方法<rt>ほうほう</rt>
+            </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
+          </p>
           <script id="27kyu-kif" type="kif">
 上手：上手
 下手：下手
@@ -151,11 +155,12 @@ Title: ミニ将棋
     <div class="row">
       <div class="col pb-3" tabindex="-1">
         <h4>19級</h4>
-        <p>ていねいな<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt></ruby
-          >を<ruby>学<rt>まな</rt></ruby>びます。
-          <ruby>裸玉<rt>らぎょく</rt></ruby> (16<ruby>級<rt>きゅう</rt></ruby
-          >) を<ruby>指<rt>さ</rt></ruby>す<ruby>前<rt>まえ</rt></ruby
-          >に<ruby>知<rt>し</rt></ruby>っておくとクリアが<ruby>早<rt>はや</rt></ruby>くなります。</p>
+        <p>ていねいな<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt>
+          </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
+          <ruby>裸玉<rt>らぎょく</rt></ruby> (16<ruby>級<rt>きゅう</rt>
+          </ruby>) を<ruby>指<rt>さ</rt></ruby>す<ruby>前<rt>まえ</rt>
+          </ruby>に<ruby>知<rt>し</rt></ruby>っておくとクリアが<ruby>早<rt>はや</rt></ruby>くなります。
+        </p>
         <script id="19kyu-kif" type="kif">
 上手：上手
 下手：下手
@@ -178,14 +183,15 @@ Title: ミニ将棋
       </div>
       <div class="col pb-3" tabindex="-1">
         <h4>14級</h4>
-        <p><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt></ruby
-          >ち (12<ruby>級<rt>きゅう</rt></ruby>) <ruby>以上<rt>いじょう</rt></ruby
-          >の<ruby>駒<rt>こま</rt></ruby><ruby>落<rt>お</rt></ruby
-          >ちは<ruby>受<rt>う</rt></ruby>けの<ruby>勉強<rt>べんきょう</rt></ruby
-          >が<ruby>多<rt>おお</rt></ruby>くありません。
-          <ruby>早<rt>はや</rt></ruby>めに<ruby>歩<rt>ふ</rt></ruby
-          >の<ruby>受<rt>う</rt></ruby>け<ruby>方<rt>かた</rt></ruby
-          >を<ruby>学<rt>まな</rt></ruby>びます。</p>
+        <p><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt>
+          </ruby>ち (12<ruby>級<rt>きゅう</rt></ruby>) <ruby>以上<rt>いじょう</rt>
+          </ruby>の<ruby>駒<rt>こま</rt></ruby><ruby>落<rt>お</rt>
+          </ruby>ちは<ruby>受<rt>う</rt></ruby>けの<ruby>勉強<rt>べんきょう</rt>
+          </ruby>が<ruby>多<rt>おお</rt></ruby>くありません。
+          <ruby>早<rt>はや</rt></ruby>めに<ruby>歩<rt>ふ</rt>
+          </ruby>の<ruby>受<rt>う</rt></ruby>け<ruby>方<rt>かた</rt>
+          </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
+        </p>
         <script id="14kyu-kif" type="kif">
 上手：上手
 下手：下手

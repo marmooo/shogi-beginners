@@ -8,33 +8,36 @@ Title: 六枚落ち
 <div class="row pt-3">
   <div class="col-lg-6">
     <h3><ruby>六枚<rt>ろくまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちのポイント</h3>
-    <p><ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt></ruby
-      >ちのように<ruby>棒銀<rt>ぼうぎん</rt></ruby>で<ruby>崩<rt>くず</rt></ruby
-      >すことは<ruby>難<rt>むずか</rt></ruby>しくなります。
-      しかし<ruby>上手<rt>うわて</rt></ruby><ruby>陣<rt>じん</rt></ruby
-      >は<ruby>両端<rt>りょうはし</rt></ruby>の<ruby>守<rt>まも</rt></ruby
-      >り<ruby>駒<rt>こま</rt></ruby>が<ruby>少<rt>すく</rt></ruby
-      >ないので、<ruby>左右<rt>さゆう</rt></ruby>どちらかの<ruby>端<rt>はし</rt></ruby
-      ><ruby>攻<rt>せ</rt></ruby>めで<ruby>崩<rt>くず</rt></ruby>せます (<ruby>左右図<rt>さゆうず</rt></ruby>)。
-      <ruby>端<rt>はし</rt></ruby>から<ruby>優勢<rt>ゆうせい</rt></ruby
-      >を<ruby>作<rt>つく</rt></ruby>り、<ruby>勝<rt>か</rt></ruby
-      >ちにつなげる<ruby>力<rt>ちから</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。
-      <ruby>成<rt>な</rt></ruby>り<ruby>駒<rt>こま</rt></ruby
-      >を<ruby>作<rt>つく</rt></ruby>っても<ruby>勝<rt>か</rt></ruby
-      >つまでは<ruby>長<rt>なが</rt></ruby>いので、ていねいに<ruby>攻<rt>せ</rt></ruby
-      >める<ruby>力<rt>ちから</rt></ruby>、そして<ruby>自陣<rt>じじん</rt></ruby
-      >を<ruby>守<rt>まも</rt></ruby>りきる<ruby>力<rt>ちから</rt></ruby
-      >が<ruby>必要<rt>ひつよう</rt></ruby>になります。
+    <p><ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt>
+      </ruby>ちのように<ruby>棒銀<rt>ぼうぎん</rt></ruby>で<ruby>崩<rt>くず</rt>
+      </ruby>すことは<ruby>難<rt>むずか</rt></ruby>しくなります。
+      しかし<ruby>上手<rt>うわて</rt></ruby><ruby>陣<rt>じん</rt>
+      </ruby>は<ruby>両端<rt>りょうはし</rt></ruby>の<ruby>守<rt>まも</rt>
+      </ruby>り<ruby>駒<rt>こま</rt></ruby>が<ruby>少<rt>すく</rt>
+      </ruby>ないので、<ruby>左右<rt>さゆう</rt></ruby>どちらかの<ruby>端<rt>はし</rt>
+      </ruby><ruby>攻<rt>せ</rt></ruby>めで<ruby>崩<rt>くず</rt>
+      </ruby>せます (<ruby>左右図<rt>さゆうず</rt></ruby>)。
+      <ruby>端<rt>はし</rt></ruby>から<ruby>優勢<rt>ゆうせい</rt>
+      </ruby>を<ruby>作<rt>つく</rt></ruby>り、<ruby>勝<rt>か</rt>
+      </ruby>ちにつなげる<ruby>力<rt>ちから</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。
+      <ruby>成<rt>な</rt></ruby>り<ruby>駒<rt>こま</rt>
+      </ruby>を<ruby>作<rt>つく</rt></ruby>っても<ruby>勝<rt>か</rt>
+      </ruby>つまでは<ruby>長<rt>なが</rt></ruby>いので、ていねいに<ruby>攻<rt>せ</rt>
+      </ruby>める<ruby>力<rt>ちから</rt></ruby>、そして<ruby>自陣<rt>じじん</rt>
+      </ruby>を<ruby>守<rt>まも</rt></ruby>りきる<ruby>力<rt>ちから</rt>
+      </ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。
     </p>
-    <p><ruby>上手<rt>うわて</rt></ruby>にはいくつかの<ruby>指<rt>さ</rt></ruby
-      >し<ruby>方<rt>かた</rt></ruby>があるため、<ruby>対応<rt>たいおう</rt></ruby
-      >できる<ruby>柔軟力<rt>じゅうなんりょく</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められます。
-      <ruby>様々<rt>さまざま</rt></ruby>な<ruby>形<rt>かたち</rt></ruby
-      >に<ruby>対応<rt>たいおう</rt></ruby>できるように、<ruby>棋譜<rt>きふ</rt></ruby
-      ><ruby>並<rt>なら</rt></ruby>べの<ruby>学習<rt>がくしゅう</rt></ruby
-      >が<ruby>重要<rt>じゅうよう</rt></ruby>と<ruby>考<rt>かんが</rt></ruby>えています。
-      3<ruby>手詰<rt>てづめ</rt></ruby>がスムーズに<ruby>解<rt>と</rt></ruby
-      >けるようになっていると<ruby>勝<rt>か</rt></ruby>ちやすいです。</p>
+    <p><ruby>上手<rt>うわて</rt></ruby>にはいくつかの<ruby>指<rt>さ</rt>
+      </ruby>し<ruby>方<rt>かた</rt></ruby>があるため、<ruby>対応<rt>たいおう</rt>
+      </ruby>できる<ruby>柔軟力<rt>じゅうなんりょく</rt>
+      </ruby>が<ruby>求<rt>もと</rt></ruby>められます。
+      <ruby>様々<rt>さまざま</rt></ruby>な<ruby>形<rt>かたち</rt>
+      </ruby>に<ruby>対応<rt>たいおう</rt></ruby>できるように、<ruby>棋譜<rt>きふ</rt>
+      </ruby><ruby>並<rt>なら</rt></ruby>べの<ruby>学習<rt>がくしゅう</rt>
+      </ruby>が<ruby>重要<rt>じゅうよう</rt></ruby>と<ruby>考<rt>かんが</rt></ruby>えています。
+      3<ruby>手詰<rt>てづめ</rt></ruby>がスムーズに<ruby>解<rt>と</rt>
+      </ruby>けるようになっていると<ruby>勝<rt>か</rt></ruby>ちやすいです。
+    </p>
   </div>
   <div class="col p-1">
     <div class="col" tabindex="-1">
@@ -313,8 +316,9 @@ Title: 六枚落ち
 <div class="pt-4">
   <h3><ruby>詰将棋<rt>つめしょうぎ</rt></ruby>のおすすめ<ruby>書籍<rt>しょせき</rt></ruby></h3>
   <p>3<ruby>手詰<rt>てづめ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をおすすめします。
-    <ruby>数秒<rt>すうびょう</rt></ruby>で<ruby>解<rt>と</rt></ruby
-    >けるように<ruby>量<rt>りょう</rt></ruby>をこなすとよいです。</p>
+    <ruby>数秒<rt>すうびょう</rt></ruby>で<ruby>解<rt>と</rt>
+    </ruby>けるように<ruby>量<rt>りょう</rt></ruby>をこなすとよいです。
+  </p>
   <div class="text-center pt-3">
     <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839971382&linkId=8cb544aaa21b185260e5fe8432359977&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
     <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370329&linkId=6bae5edf8fa339f4999b0324e530832b&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>

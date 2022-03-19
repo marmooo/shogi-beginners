@@ -8,27 +8,28 @@ Title: 十枚落ち
 <div class="row pt-3">
   <div class="col-lg-6">
     <h3><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちのポイント</h3>
-    <p><ruby>上手<rt>うわて</rt></ruby><ruby>陣<rt>じん</rt></ruby
-      >は<ruby>弱点<rt>じゃくてん</rt></ruby>だらけです。
-      ☗<ruby>７七歩<rt>ななななふ</rt></ruby>〜☗<ruby>６六角<rt>ろくろくかく</rt></ruby>とすれば<ruby>左右<rt>さゆう</rt></ruby
-      >どちらかに<ruby>馬<rt>うま</rt></ruby>を<ruby>作<rt>つく</rt></ruby
-      >ることができます (<ruby>左図<rt>ひだりず</rt></ruby>)。
-      <ruby>駒<rt>こま</rt></ruby>もたくさん<ruby>手<rt>て</rt></ruby
-      >に<ruby>入<rt>はい</rt></ruby>りますが、そこからの<ruby>勝<rt>か</rt></ruby
-      >ち<ruby>方<rt>かた</rt></ruby>が<ruby>重要<rt>じゅうよう</rt></ruby>です。
-      </p>
-      <p><ruby>勝<rt>か</rt></ruby>つためには<ruby>詰将棋<rt>つめしょうぎ</rt></ruby
-      >のように<ruby>王<rt>おう</rt></ruby>を<ruby>詰<rt>つ</rt></ruby
-      >ます<ruby>必要<rt>ひつよう</rt></ruby>があります。
-      つまり<ruby>馬<rt>うま</rt></ruby>のほかに<ruby>味方<rt>みかた</rt></ruby
-      >がもう<ruby>少<rt>すこ</rt></ruby>し<ruby>必要<rt>ひつよう</rt></ruby>です。
-      <ruby>味方<rt>みかた</rt></ruby>を<ruby>増<rt>ふ</rt></ruby
-      >やす<ruby>構想力<rt>こうそうりょく</rt></ruby
-      >、そしてその<ruby>間<rt>あいだ</rt></ruby>に<ruby>上手<rt>うわて</rt></ruby
-      >の<ruby>攻<rt>せ</rt></ruby>めを<ruby>受<rt>う</rt></ruby
-      >ける<ruby>力<rt>ちから</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。
-      たとえば<ruby>右図<rt>みぎず</rt></ruby>ではどのように<ruby>攻<rt>せ</rt></ruby
-      >めるのがいいでしょうか。</p>
+    <p><ruby>上手<rt>うわて</rt></ruby><ruby>陣<rt>じん</rt>
+      </ruby>は<ruby>弱点<rt>じゃくてん</rt></ruby>だらけです。
+      ☗<ruby>７七歩<rt>ななななふ</rt></ruby>〜☗<ruby>６六角<rt>ろくろくかく</rt>
+      </ruby>とすれば<ruby>左右<rt>さゆう</rt></ruby>どちらかに<ruby>馬<rt>うま</rt>
+      </ruby>を<ruby>作<rt>つく</rt></ruby>ることができます (<ruby>左図<rt>ひだりず</rt></ruby>)。
+      <ruby>駒<rt>こま</rt></ruby>もたくさん<ruby>手<rt>て</rt>
+      </ruby>に<ruby>入<rt>はい</rt></ruby>りますが、そこからの<ruby>勝<rt>か</rt>
+      </ruby>ち<ruby>方<rt>かた</rt></ruby>が<ruby>重要<rt>じゅうよう</rt></ruby>です。
+    </p>
+    <p><ruby>勝<rt>か</rt></ruby>つためには<ruby>詰将棋<rt>つめしょうぎ</rt>
+      </ruby>のように<ruby>王<rt>おう</rt></ruby>を<ruby>詰<rt>つ</rt>
+      </ruby>ます<ruby>必要<rt>ひつよう</rt></ruby>があります。
+      つまり<ruby>馬<rt>うま</rt></ruby>のほかに<ruby>味方<rt>みかた</rt>
+      </ruby>がもう<ruby>少<rt>すこ</rt></ruby>し<ruby>必要<rt>ひつよう</rt></ruby>です。
+      <ruby>味方<rt>みかた</rt></ruby>を<ruby>増<rt>ふ</rt>
+      </ruby>やす<ruby>構想力<rt>こうそうりょく</rt>
+      </ruby>、そしてその<ruby>間<rt>あいだ</rt></ruby>に<ruby>上手<rt>うわて</rt>
+      </ruby>の<ruby>攻<rt>せ</rt></ruby>めを<ruby>受<rt>う</rt>
+      </ruby>ける<ruby>力<rt>ちから</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。
+      たとえば<ruby>右図<rt>みぎず</rt></ruby>ではどのように<ruby>攻<rt>せ</rt>
+      </ruby>めるのがいいでしょうか。
+    </p>
   </div>
   <div class="col">
     <div class="col p-1" tabindex="-1">
@@ -199,8 +200,9 @@ Title: 十枚落ち
 <div class="pt-4">
   <h3><ruby>詰将棋<rt>つめしょうぎ</rt></ruby>のおすすめ<ruby>書籍<rt>しょせき</rt></ruby></h3>
   <p>1<ruby>手詰<rt>てづめ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をおすすめします。
-    <ruby>数秒<rt>すうびょう</rt></ruby>で<ruby>解<rt>と</rt></ruby
-    >けるように<ruby>量<rt>りょう</rt></ruby>をこなすとよいです。</p>
+    <ruby>数秒<rt>すうびょう</rt></ruby>で<ruby>解<rt>と</rt>
+    </ruby>けるように<ruby>量<rt>りょう</rt></ruby>をこなすとよいです。
+  </p>
   <div class="row text-center">
     <div class="col-sm">
       <h4><ruby>最初<rt>さいしょ</rt></ruby>のつかみ</h4>

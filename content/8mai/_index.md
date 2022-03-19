@@ -8,36 +8,39 @@ Title: 八枚落ち
 <div class="row pt-3">
   <div class="col-lg-6">
     <h3><ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt></ruby>ちのポイント</h3>
-    <p><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt></ruby
-      >ちのようにすぐに<ruby>馬<rt>うま</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることはできません。
-      しかし<ruby>守<rt>まも</rt></ruby>り<ruby>駒<rt>こま</rt></ruby>は<ruby>少<rt>すく</rt></ruby
-      >ないので、<ruby>上手陣<rt>うわてじん</rt></ruby>を<ruby>攻略<rt>こうりゃく</rt></ruby
-      >するわかりやすい<ruby>方法<rt>ほうほう</rt></ruby>がいくつかあります。
-      まずは<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby
-      >め (<ruby>左図<rt>ひだりず</rt></ruby>)、<ruby>棒銀<rt>ぼうぎん</rt></ruby
-      > (<ruby>右図<rt>みぎず</rt></ruby>) をおぼえるのがわかりやすいです。</p>
-    <p><ruby>勝<rt>か</rt></ruby>つためには<ruby>詰将棋<rt>つめしょうぎ</rt></ruby
-      >のように<ruby>王<rt>おう</rt></ruby>を<ruby>詰<rt>つ</rt></ruby
-      >ます<ruby>必要<rt>ひつよう</rt></ruby>があります。
-      <ruby>成<rt>な</rt></ruby>った<ruby>駒<rt>こま</rt></ruby
-      >をいかしてゆっくり<ruby>攻<rt>せ</rt></ruby>める<ruby>技術<rt>ぎじゅつ</rt></ruby
-      >、<ruby>攻<rt>せ</rt></ruby>め<ruby>駒<rt>ごま</rt></ruby>を<ruby>増<rt>ふ</rt></ruby
-      >やす<ruby>技術<rt>ぎじゅつ</rt></ruby>、そしてその<ruby>間<rt>あいだ</rt></ruby
-      >に<ruby>上手<rt>うわて</rt></ruby>の<ruby>攻<rt>せ</rt></ruby
-      >めを<ruby>受<rt>う</rt></ruby>ける<ruby>力<rt>ちから</rt></ruby
-      >が<ruby>必要<rt>ひつよう</rt></ruby>になります。
-      3<ruby>手詰<rt>てづめ</rt></ruby>ができるようになっていると<ruby>勝<rt>か</rt></ruby>ちやすいです。</p>
-    <p>💡 <ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt></ruby
-      >ちはなんとなくで<ruby>上手<rt>うわて</rt></ruby>に<ruby>勝<rt>か</rt></ruby
-      >てることも<ruby>多<rt>おお</rt></ruby>いですが、<ruby>定跡<rt>じょうせき</rt></ruby
-      >をおぼえていなかったり、<ruby>数<rt>かず</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby
-      >ができていないと、<ruby>六枚<rt>ろくまい</rt></ruby><ruby>落<rt>お</rt></ruby
-      >ちで<ruby>苦労<rt>くろう</rt></ruby>することが<ruby>多<rt>おお</rt></ruby
-      >いです。そのためミニ<ruby>将棋<rt>しょうぎ</rt></ruby>などで<ruby>先<rt>さき</rt></ruby
-      >に<ruby>基礎<rt>きそ</rt></ruby>を<ruby>固<rt>かた</rt></ruby
-      >め、<ruby>棋譜<rt>きふ</rt></ruby><ruby>並<rt>なら</rt></ruby
-      >べの<ruby>習慣<rt>しゅうかん</rt></ruby>をつけておくことをおすすめします。
-      </p>
+    <p><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt>
+      </ruby>ちのようにすぐに<ruby>馬<rt>うま</rt></ruby>を<ruby>作<rt>つく</rt>
+      </ruby>ることはできません。
+      しかし<ruby>守<rt>まも</rt></ruby>り<ruby>駒<rt>こま</rt></ruby>は<ruby>少<rt>すく</rt>
+      </ruby>ないので、<ruby>上手陣<rt>うわてじん</rt></ruby>を<ruby>攻略<rt>こうりゃく</rt>
+      </ruby>するわかりやすい<ruby>方法<rt>ほうほう</rt></ruby>がいくつかあります。
+      まずは<ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt>
+      </ruby>め (<ruby>左図<rt>ひだりず</rt></ruby>)、<ruby>棒銀<rt>ぼうぎん</rt>
+      </ruby> (<ruby>右図<rt>みぎず</rt></ruby>) をおぼえるのがわかりやすいです。
+    </p>
+    <p><ruby>勝<rt>か</rt></ruby>つためには<ruby>詰将棋<rt>つめしょうぎ</rt>
+      </ruby>のように<ruby>王<rt>おう</rt></ruby>を<ruby>詰<rt>つ</rt>
+      </ruby>ます<ruby>必要<rt>ひつよう</rt></ruby>があります。
+      <ruby>成<rt>な</rt></ruby>った<ruby>駒<rt>こま</rt>
+      </ruby>をいかしてゆっくり<ruby>攻<rt>せ</rt></ruby>める<ruby>技術<rt>ぎじゅつ</rt>
+      </ruby>、<ruby>攻<rt>せ</rt></ruby>め<ruby>駒<rt>ごま</rt></ruby>を<ruby>増<rt>ふ</rt>
+      </ruby>やす<ruby>技術<rt>ぎじゅつ</rt></ruby>、そしてその<ruby>間<rt>あいだ</rt>
+      </ruby>に<ruby>上手<rt>うわて</rt></ruby>の<ruby>攻<rt>せ</rt>
+      </ruby>めを<ruby>受<rt>う</rt></ruby>ける<ruby>力<rt>ちから</rt>
+      </ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。
+      3<ruby>手詰<rt>てづめ</rt></ruby>ができるようになっていると<ruby>勝<rt>か</rt></ruby>ちやすいです。
+    </p>
+    <p>💡 <ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt>
+      </ruby>ちはなんとなくで<ruby>上手<rt>うわて</rt></ruby>に<ruby>勝<rt>か</rt>
+      </ruby>てることも<ruby>多<rt>おお</rt></ruby>いですが、<ruby>定跡<rt>じょうせき</rt>
+      </ruby>をおぼえていなかったり、<ruby>数<rt>かず</rt></ruby>の<ruby>計算<rt>けいさん</rt>
+      </ruby>ができていないと、<ruby>六枚<rt>ろくまい</rt></ruby><ruby>落<rt>お</rt>
+      </ruby>ちで<ruby>苦労<rt>くろう</rt></ruby>することが<ruby>多<rt>おお</rt>
+      </ruby>いです。そのためミニ<ruby>将棋<rt>しょうぎ</rt></ruby>などで<ruby>先<rt>さき</rt>
+      </ruby>に<ruby>基礎<rt>きそ</rt></ruby>を<ruby>固<rt>かた</rt>
+      </ruby>め、<ruby>棋譜<rt>きふ</rt></ruby><ruby>並<rt>なら</rt>
+      </ruby>べの<ruby>習慣<rt>しゅうかん</rt></ruby>をつけておくことをおすすめします。
+    </p>
   </div>
   <div class="col">
     <div class="col p-1" tabindex="-1">
@@ -292,11 +295,12 @@ Title: 八枚落ち
 <div class="pt-4">
   <h3><ruby>詰将棋<rt>つめしょうぎ</rt></ruby>のおすすめ<ruby>書籍<rt>しょせき</rt></ruby></h3>
   <p>3<ruby>手詰<rt>てづめ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をおすすめします。
-    1<ruby>手詰<rt>てづめ</rt></ruby>は<ruby>解<rt>と</rt></ruby
-    >けるのに3<ruby>手詰<rt>てづめ</rt></ruby>が<ruby>解<rt>と</rt></ruby
-    >けなくなる<ruby>子<rt>こ</rt></ruby>は、
+    1<ruby>手詰<rt>てづめ</rt></ruby>は<ruby>解<rt>と</rt>
+    </ruby>けるのに3<ruby>手詰<rt>てづめ</rt></ruby>が<ruby>解<rt>と</rt>
+    </ruby>けなくなる<ruby>子<rt>こ</rt></ruby>は、
     <a target="_blank" href="https://www.amazon.co.jp/gp/product/4839971382/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4839971382&linkCode=as2&tag=manbossocialt-22&linkId=4d574f3bcb2aad3a4422743fe932c5eb">2手詰  ~相手の手を読む新感覚トレーニング~ (マイナビ将棋文庫)</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=manbossocialt-22&l=am2&o=9&a=4839971382" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-    を<ruby>使<rt>つか</rt></ruby>った<ruby>練習<rt>れんしゅう</rt></ruby>をおすすめします。</p>
+    を<ruby>使<rt>つか</rt></ruby>った<ruby>練習<rt>れんしゅう</rt></ruby>をおすすめします。
+  </p>
   <div class="text-center pt-3">
     <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839971382&linkId=8cb544aaa21b185260e5fe8432359977&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
     <iframe loading="lazy" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=manbossocialt-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4861370329&linkId=6bae5edf8fa339f4999b0324e530832b&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
