@@ -41,7 +41,7 @@ Title: ミニ将棋
   </div>
   <div class="col p-1">
     <div class="col" tabindex="-1">
-      <script id="summary1-kif" type="kif">
+      <script id="summary1-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -64,7 +64,7 @@ Title: ミニ将棋
   </div>
   <div class="col p-1">
     <div class="col" tabindex="-1">
-      <script id="summary2-kif" type="kif">
+      <script id="summary2-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -100,7 +100,7 @@ Title: ミニ将棋
             </ruby>がさない<ruby>指<rt>さ</rt></ruby>し<ruby>方<rt>かた</rt>
             </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
           </p>
-          <script id="30kyu-kif" type="kif">
+          <script id="30kyu-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -129,7 +129,7 @@ Title: ミニ将棋
             </ruby>をつかまえる<ruby>方法<rt>ほうほう</rt>
             </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
           </p>
-          <script id="27kyu-kif" type="kif">
+          <script id="27kyu-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -161,7 +161,7 @@ Title: ミニ将棋
           </ruby>) を<ruby>指<rt>さ</rt></ruby>す<ruby>前<rt>まえ</rt>
           </ruby>に<ruby>知<rt>し</rt></ruby>っておくとクリアが<ruby>早<rt>はや</rt></ruby>くなります。
         </p>
-        <script id="19kyu-kif" type="kif">
+        <script id="19kyu-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -192,7 +192,7 @@ Title: ミニ将棋
           </ruby>の<ruby>受<rt>う</rt></ruby>け<ruby>方<rt>かた</rt>
           </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
         </p>
-        <script id="14kyu-kif" type="kif">
+        <script id="14kyu-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：歩九　
@@ -217,10 +217,11 @@ Title: ミニ将棋
 </div>
 <div class="pt-4">
   <h3><ruby>詰将棋<rt>つめしょうぎ</rt></ruby>のおすすめ<ruby>書籍<rt>しょせき</rt></ruby></h3>
-  <p><ruby>王<rt>おう</rt></ruby>のつかまえ<ruby>方<rt>かた</rt></ruby
-    >を<ruby>知<rt>し</rt></ruby>るために、<ruby>早<rt>はや</rt></ruby
-    >い<ruby>段階<rt>だんかい</rt></ruby>から1<ruby>手詰<rt>てづめ</rt></ruby
-    >の<ruby>練習<rt>れんしゅう</rt></ruby>をおすすめします。</p>
+  <p><ruby>王<rt>おう</rt></ruby>のつかまえ<ruby>方<rt>かた</rt>
+    </ruby>を<ruby>知<rt>し</rt></ruby>るために、<ruby>早<rt>はや</rt>
+    </ruby>い<ruby>段階<rt>だんかい</rt></ruby>から1<ruby>手詰<rt>てづめ</rt>
+    </ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をおすすめします。
+  </p>
   <div class="row text-center">
     <div class="col-sm">
       <h4><ruby>最初<rt>さいしょ</rt></ruby>のつかみ</h4>

@@ -9,7 +9,7 @@ Title: 二枚落ち実戦例6
 <div class="row pt-3">
   <div class="col-lg-1"></div>
   <div class="col-sm" tabindex="-1">
-    <script id="example-kif" type="kif">
+    <script id="example-kif" type="text/plain">
 手合割：二枚落ち
 下手：下手
 上手：上手

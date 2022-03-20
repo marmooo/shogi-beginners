@@ -41,7 +41,7 @@ Title: 六枚落ち
   </div>
   <div class="col p-1">
     <div class="col" tabindex="-1">
-      <script id="summary1-kif" type="kif">
+      <script id="summary1-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -65,7 +65,7 @@ Title: 六枚落ち
   </div>
   <div class="col p-1">
     <div class="col" tabindex="-1">
-      <script id="summary2-kif" type="kif">
+      <script id="summary2-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -96,7 +96,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example1/">
             <h5><ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example1-kif" type="kif">
+            <script id="example1-kif" type="text/plain">
 上手：上手
 上手の持駒：歩　
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -121,7 +121,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example2/">
             <h5><ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example2-kif" type="kif">
+            <script id="example2-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -150,7 +150,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example3/">
             <h5><ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example3-kif" type="kif">
+            <script id="example3-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -175,7 +175,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example4/">
             <h5><ruby>左端<rt>ひだりはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example4-kif" type="kif">
+            <script id="example4-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -208,7 +208,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example5/">
             <h5><ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example5-kif" type="kif">
+            <script id="example5-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -233,7 +233,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example6/">
             <h5><ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example6-kif" type="kif">
+            <script id="example6-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -262,7 +262,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example7/">
             <h5><ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example7-kif" type="kif">
+            <script id="example7-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -287,7 +287,7 @@ Title: 六枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/6mai/example8/">
             <h5><ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め</h5>
-            <script id="example8-kif" type="kif">
+            <script id="example8-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １

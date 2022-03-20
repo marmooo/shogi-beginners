@@ -33,7 +33,7 @@ Title: 十枚落ち
   </div>
   <div class="col">
     <div class="col p-1" tabindex="-1">
-      <script id="summary1-kif" type="kif">
+      <script id="summary1-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -51,15 +51,13 @@ Title: 十枚落ち
 下手：下手
 下手の持駒：なし
 手数＝4  ▲６六角  まで
-
-上手番
       </script>
       <svg id="summary1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
   </div>
   <div class="col">
     <div class="col p-1" tabindex="-1">
-      <script id="summary2-kif" type="kif">
+      <script id="summary2-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -77,8 +75,6 @@ Title: 十枚落ち
 下手：下手
 下手の持駒：歩二　
 手数＝11  △４四歩  まで
-
-下手番
       </script>
       <svg id="summary2" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
@@ -92,7 +88,7 @@ Title: 十枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/10mai/example1/">
             <h5>☗<ruby>６六角型<rt>ろくろくかくがた</rt></ruby></h5>
-            <script id="example1-kif" type="kif">
+            <script id="example1-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -117,7 +113,7 @@ Title: 十枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/10mai/example2/">
             <h5>☗<ruby>２五歩型<rt>にーごーふがた</rt></ruby></h5>
-            <script id="example2-kif" type="kif">
+            <script id="example2-kif" type="text/plain">
 上手：上手
 上手の持駒：歩　
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -146,7 +142,7 @@ Title: 十枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/10mai/example3/">
             <h5>☗<ruby>６六角型<rt>ろくろくかくがた</rt></ruby></h5>
-            <script id="example3-kif" type="kif">
+            <script id="example3-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -171,7 +167,7 @@ Title: 十枚落ち
         <div class="col pb-3">
           <a href="/shogi-beginners/10mai/example4/">
             <h5>☗<ruby>２五歩型<rt>にーごーふがた</rt></ruby></h5>
-            <script id="example4-kif" type="kif">
+            <script id="example4-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
