@@ -13,6 +13,9 @@
   <body>
     {{ partial "navbar.html" }}
     <main class="container">
+      <noscript>
+        <div class="alert alert-warning">JavaScript を ON にしてください</div>
+      </noscript>
       {{ .Content }}
     </main>
     <footer class="pt-4 alert text-center">
