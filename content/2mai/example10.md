@@ -4,7 +4,7 @@ Title: 二枚落ち実戦例9
 {{< breadcrumb >}}
   <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
   <li class="breadcrumb-item"><a href="/shogi-beginners/2mai/">二枚落ち</a></li>
-  <li class="breadcrumb-item active" aria-current="page">実戦例9 (銀多伝の変化)</li>
+  <li class="breadcrumb-item active" aria-current="page">実戦例10 (銀多伝の変化)</li>
 {{</ breadcrumb >}}
 <div class="row pt-3">
   <div class="col-lg-1"></div>
