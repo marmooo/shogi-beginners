@@ -55,12 +55,15 @@ Title: 二枚落ち実戦例11
   35 ５四歩打
   36 ５九飛(55)
   37 ６五歩(64)
+*<ruby>上手<rt>うわて</rt></ruby>は<ruby>８筋<rt>はちすじ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>では、<ruby>６筋<rt>ろくすじ</rt></ruby>の<ruby>歩<rt>ふ</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばすくらいです。<ruby>下手<rt>したて</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>に<ruby>出<rt>で</rt></ruby>てきた<ruby>駒<rt>こま</rt></ruby>を<ruby>目標<rt>もくひょう</rt></ruby>にするとわかりやすいです。
   38 ９六歩(97)
   39 ３一銀(22)
   40 ７七桂(89)
   41 ４二金(32)
   42 ５六飛(59)
+*<ruby>次<rt>つぎ</rt></ruby>の☗<ruby>７六歩<rt>ななろくふ</rt></ruby>が<ruby>受<rt>う</rt></ruby>けにくいです。<ruby>低<rt>ひく</rt></ruby>く<ruby>構<rt>かま</rt></ruby>えた<ruby>陣形<rt>じんけい</rt></ruby>は<ruby>咎<rt>とが</rt></ruby>めにくいですが、<ruby>高<rt>たか</rt></ruby>く<ruby>構<rt>かま</rt></ruby>えた<ruby>陣形<rt>じんけい</rt></ruby>は<ruby>駒数<rt>こまかず</rt></ruby>の<ruby>差<rt>さ</rt></ruby>で<ruby>崩<rt>くず</rt></ruby>しやすいです。
   43 ６六歩(65)
+*<ruby>上手<rt>うわて</rt></ruby>は<ruby>金<rt>きん</rt></ruby>が<ruby>死<rt>し</rt></ruby>んでは<ruby>困<rt>こま</rt></ruby>るので、<ruby>暴<rt>あば</rt></ruby>れるしかありません。
   44 ９七角(88)
   45 ４四歩(43)
   46 ３七桂(29)
@@ -74,20 +77,29 @@ Title: 二枚落ち実戦例11
   54 ４五桂(37)
   55 ６四銀(53)
   56 ６六歩(67)
+*<ruby>上手<rt>うわて</rt></ruby>は<ruby>暴<rt>あば</rt></ruby>れてきますが、<ruby>陣形<rt>じんけい</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>えながらていねいに<ruby>応<rt>おう</rt></ruby>じましょう。
   57 ７五歩(74)
+*<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   58 ６五歩(66)
+*☗<ruby>７四歩<rt>ななよんふ</rt></ruby>もありますが、<ruby>上手<rt>うわて</rt></ruby>の<ruby>王<rt>おう</rt></ruby>が<ruby>不安定<rt>ふあんてい</rt></ruby>なので、<ruby>一気<rt>いっき</rt></ruby>に<ruby>攻<rt>せ</rt></ruby>める<ruby>手<rt>て</rt></ruby>を<ruby>狙<rt>ねら</rt></ruby>ってみたいところです。
   59 ３七歩打
   60 同　玉(38)
   61 ６五桂(73)
+*<ruby>問題<rt>もんだい</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみましょう。
+*<div><img class="img-fluid" src="/shogi-beginners/img/cat2.webp"></div>
   62 ７六飛(56)
+*<ruby>大駒<rt>おおごま</rt></ruby>を<ruby>切<rt>き</rt></ruby>って<ruby>攻<rt>せ</rt></ruby>めるのは<ruby>勇気<rt>ゆうき</rt></ruby>がいりますが、<ruby>攻<rt>せ</rt></ruby>めが<ruby>切<rt>き</rt></ruby>れないとわかっていれば<ruby>好手<rt>こうしゅ</rt></ruby>になることが多いです。
   63 同　歩(75)
   64 ６五桂(77)
   65 ３五歩打
   66 同　銀(36)
   67 ３九飛打
   68 ３八歩打
+*これで<ruby>上手<rt>うわて</rt></ruby>の<ruby>攻<rt>せ</rt></ruby>めはまったく<ruby>怖<rt>こわ</rt></ruby>くありません。
   69 ６五銀(64)
   70 ６四金打
+*あとは<ruby>自然<rt>しぜん</rt></ruby>に<ruby>攻<rt>せ</rt></ruby>めるだけです。
   71 ６二玉(63)
   72 ５三桂成(45)
   73 ７二玉(62)
