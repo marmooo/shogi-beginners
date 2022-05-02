@@ -241,25 +241,25 @@ Title: 二枚落ち
         </div>
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example6/">
-            <h5><ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がり🚧</h5>
+            <h5>☖<ruby>５五<rt>ごーごー</rt></ruby><ruby>歩型<rt>ふがた</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>🚧</h5>
             <script id="example6-kif" type="text/plain">
 上手：上手
 上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
 +---------------------------+
-|v香v桂 ・ ・ ・ ・ ・v桂v香|一
-| ・ ・ ・v金v玉 ・v金 ・ ・|二
-| ・v歩 ・v銀v歩v歩v歩v銀 ・|三
-|v歩 ・v歩v歩 ・ ・ ・v歩 ・|四
-| ・ ・ ・ ・ ・ 歩 歩 ・v歩|五
-| 歩 ・ 歩 ・ 歩 銀 ・ ・ ・|六
-| ・ 歩 ・ 歩 ・ 銀 ・ 歩 歩|七
-| ・ 角 飛 ・ ・ 金 玉 ・ ・|八
-| 香 桂 ・ 金 ・ ・ ・ 桂 香|九
+|v香 ・ ・ ・ ・ ・ ・v桂v香|一
+| ・ ・ ・ ・ ・ ・v金v銀 ・|二
+| ・ ・v桂v玉v銀v歩v歩v歩v歩|三
+|v歩 ・v歩v金 ・ ・ ・ ・ ・|四
+| ・v歩 ・v歩v歩 歩 銀 ・ ・|五
+| 歩 ・ 歩 ・ ・ ・ 飛 ・ ・|六
+| ・ 歩 ・ 歩 歩 ・ 桂 歩 歩|七
+| ・ 角 金 銀 金 ・ ・ ・ ・|八
+| 香 桂 ・ 玉 ・ ・ ・ ・ 香|九
 +---------------------------+
+下手の持駒：歩　
 下手：下手
-下手の持駒：なし
-手数＝32  ▲４八金  まで
+手数＝39  △５五歩  まで
             </script>
             <svg id="example6" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
@@ -270,50 +270,50 @@ Title: 二枚落ち
       <div class="row">
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example7/">
-            <h5><ruby>右端<rt>みぎはし</rt></ruby><ruby>攻<rt>せ</rt></ruby>め🚧</h5>
+            <h5>☗<ruby>５五<rt>ごーごー</rt></ruby><ruby>歩型<rt>ふがた</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>🚧</h5>
             <script id="example7-kif" type="text/plain">
 上手：上手
-上手の持駒：歩　
+上手の持駒：なし
   ９ ８ ７ ６ ５ ４ ３ ２ １
 +---------------------------+
-| ・v桂 ・ ・ ・ ・ ・v桂 ・|一
-| ・ ・ ・ ・v金v玉v金v銀 ・|二
-|v歩 ・ ・v歩 ・v歩v歩 ・v歩|三
-| ・v歩v歩v銀v歩 ・ ・ ・ ・|四
-| ・ ・ ・ ・ ・ ・ ・ ・ 歩|五
-| ・ ・ 歩 ・ ・ ・ 銀 ・ ・|六
-| 歩 歩 ・ 歩 歩 歩 歩 ・ ・|七
-| ・ 角 ・ ・ ・ ・ ・ 飛 ・|八
-| 香 桂 銀 金 玉 金 ・ 桂 香|九
+|v香 ・ ・ ・ ・ ・ ・v桂v香|一
+| ・ ・ ・ ・ ・ ・v金v銀 ・|二
+| ・ ・v桂v玉v銀v歩v歩v歩v歩|三
+|v歩 ・ ・v金v歩 ・ ・ ・ ・|四
+| ・v歩v歩v歩 ・ 歩 ・ ・ ・|五
+| 歩 ・ 歩 ・ 歩 銀 飛 ・ ・|六
+| ・ 歩 ・ 歩 ・ ・ 桂 歩 歩|七
+| ・ 角 金 銀 金 ・ ・ ・ ・|八
+| 香 桂 ・ 玉 ・ ・ ・ ・ 香|九
 +---------------------------+
-下手：下手
 下手の持駒：歩　
-手数＝23  △５二金  まで
+下手：下手
+手数＝39  △７五歩  まで
             </script>
             <svg id="example7" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example8/">
-            <h5>☗<ruby>７八<rt>ななはち</rt></ruby><ruby>飛型<rt>ひがた</rt></ruby>🚧</h5>
+            <h5>☖<ruby>６六<rt>ろくろく</rt></ruby><ruby>歩型<rt>ふがた</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>🚧</h5>
             <script id="example8-kif" type="text/plain">
 上手：上手
-上手の持駒：なし
+上手の持駒：歩　
   ９ ８ ７ ６ ５ ４ ３ ２ １
 +---------------------------+
-|v香v桂 ・ ・ ・ ・ ・v桂v香|一
-| ・ ・ ・v金v玉 ・v金 ・ ・|二
-| ・v歩 ・v銀v歩v歩v歩v銀 ・|三
-|v歩 ・v歩v歩 ・ ・ ・v歩 ・|四
-| ・ ・ ・ ・ ・ 歩 歩 ・v歩|五
-| 歩 ・ 歩 ・ 歩 銀 ・ ・ ・|六
-| ・ 歩 ・ 歩 ・ 銀 ・ 歩 歩|七
-| ・ 角 飛 ・ ・ 金 玉 ・ ・|八
-| 香 桂 ・ 金 ・ ・ ・ 桂 香|九
+|v香 ・ ・ ・ ・ ・ ・v桂v香|一
+| ・ ・ ・ ・ ・ ・v金v銀 ・|二
+| ・ ・v桂v玉v銀v歩v歩v歩v歩|三
+|v歩v歩 ・ ・v歩 ・ ・ ・ ・|四
+| ・ ・v金 ・ ・ 歩 銀 ・ ・|五
+| 歩 ・ ・v歩 ・ ・ 飛 ・ ・|六
+| ・ 歩 ・ 歩 歩 ・ 桂 歩 歩|七
+| ・ 角 金 銀 金 ・ ・ ・ ・|八
+| 香 桂 ・ 玉 ・ ・ ・ ・ 香|九
 +---------------------------+
+下手の持駒：歩二　
 下手：下手
-下手の持駒：なし
-手数＝32  ▲４八金  まで
+手数＝41  △６六歩  まで
             </script>
             <svg id="example8" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
@@ -382,7 +382,7 @@ Title: 二枚落ち
       <div class="row">
         <div class="col pb-3">
           <a href="/shogi-beginners/2mai/example11/">
-            <h5><ruby>銀多伝<rt>ぎんたでん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>🚧</h5>
+            <h5><ruby>銀多伝<rt>ぎんたでん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby></h5>
             <script id="example11-kif" type="text/plain">
 上手：上手
 上手の持駒：歩
