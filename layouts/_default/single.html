@@ -1,7 +1,16 @@
 <!doctype html>
 <html lang="ja">
-  <head>
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ .Title }}: 将棋びぎなーず">
     <title>{{ .Title }}: 将棋びぎなーず</title>
+    <meta property="og:title" content="{{ .Title }}: 将棋びぎなーず">
+    <meta property="og:site_name" content="将棋びぎなーず">
+    <meta property="og:description" content="{{ .Title }}: 将棋びぎなーず">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://marmooo.github.io/shogi-beginners/">
+    <meta property="og:image" content="https://marmooo.github.io/shogi-beginners/favicon/apple-touch-icon.png">
     {{ partial "head.html" }}
     <style>
       button { touch-action: manipulation; }
