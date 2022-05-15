@@ -1,12 +1,10 @@
 ---
 Title: ミニ将棋
 ---
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb bg-light rounded shadow p-3">
-    <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">ミニ将棋</li>
-  </ol>
-</nav>
+{{< breadcrumb >}}
+  <li class="breadcrumb-item"><a href="/shogi-beginners/">Home</a></li>
+  <li class="breadcrumb-item active" aria-current="page">ミニ将棋</li>
+{{</ breadcrumb >}}
 <div class="row pt-3">
   <div class="col-lg-6">
     <h3>ミニ<ruby>将棋<rt>しょうぎ</rt></ruby>のポイント</h3>
