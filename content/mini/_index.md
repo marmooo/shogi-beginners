@@ -149,18 +149,17 @@ Title: ミニ将棋
         </div>
       </div>
     </div>
-  </div>
-  <div class="col-md">
-    <div class="row">
-      <div class="col pb-3" tabindex="-1">
-        <h4>19級</h4>
-        <p>ていねいな<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt>
+    <div class="col-md">
+      <div class="row">
+        <div class="col pb-3" tabindex="-1">
+          <h4>19級</h4>
+          <p>ていねいな<ruby>攻<rt>せ</rt></ruby>め<ruby>方<rt>かた</rt>
           </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
           <ruby>裸玉<rt>らぎょく</rt></ruby> (16<ruby>級<rt>きゅう</rt>
           </ruby>) を<ruby>指<rt>さ</rt></ruby>す<ruby>前<rt>まえ</rt>
           </ruby>に<ruby>知<rt>し</rt></ruby>っておくとクリアが<ruby>早<rt>はや</rt></ruby>くなります。
-        </p>
-        <script id="19kyu-kif" type="text/plain">
+          </p>
+          <script id="19kyu-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -177,12 +176,12 @@ Title: ミニ将棋
 | ・ ・ ・ 銀 玉 銀 ・ ・ ・|九
 +---------------------------+
 下手の持駒：なし
-        </script>
-        <svg id="19kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
-      </div>
-      <div class="col pb-3" tabindex="-1">
-        <h4>14級</h4>
-        <p><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt>
+          </script>
+          <svg id="19kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+        </div>
+        <div class="col pb-3" tabindex="-1">
+          <h4>14級</h4>
+          <p><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt>
           </ruby>ち (12<ruby>級<rt>きゅう</rt></ruby>) <ruby>以上<rt>いじょう</rt>
           </ruby>の<ruby>駒<rt>こま</rt></ruby><ruby>落<rt>お</rt>
           </ruby>ちは<ruby>受<rt>う</rt></ruby>けの<ruby>勉強<rt>べんきょう</rt>
@@ -190,8 +189,8 @@ Title: ミニ将棋
           <ruby>早<rt>はや</rt></ruby>めに<ruby>歩<rt>ふ</rt>
           </ruby>の<ruby>受<rt>う</rt></ruby>け<ruby>方<rt>かた</rt>
           </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
-        </p>
-        <script id="14kyu-kif" type="text/plain">
+          </p>
+          <script id="14kyu-kif" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：歩九　
@@ -208,8 +207,9 @@ Title: ミニ将棋
 | 香 桂 銀 金 玉 金 銀 桂 香|九
 +---------------------------+
 下手の持駒：なし
-        </script>
-        <svg id="14kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          </script>
+          <svg id="14kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+        </div>
       </div>
     </div>
   </div>
