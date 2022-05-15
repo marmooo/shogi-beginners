@@ -149,6 +149,7 @@ Title: ミニ将棋
         </div>
       </div>
     </div>
+  </div>
   <div class="col-md">
     <div class="row">
       <div class="col pb-3" tabindex="-1">
