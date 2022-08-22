@@ -24,7 +24,7 @@
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/mini/">
           <h4 class="pt-4">ミニ<ruby>将棋<rt>しょうぎ</rt></ruby></h4>
-          <script id="mini-kif" type="kif">
+          <script id="kif-mini" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -42,13 +42,13 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="mini" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-mini" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/10mai/">
           <h4 class="pt-4"><ruby>十枚<rt>じゅうまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち</h4>
-          <script id="10mai-kif" type="kif">
+          <script id="kif-10mai" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -66,7 +66,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="10mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-10mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
     </div>
@@ -76,7 +76,7 @@
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/8mai/">
           <h4 class="pt-4"><ruby>八枚<rt>はちまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち</h4>
-          <script id="8mai-kif" type="kif">
+          <script id="kif-8mai" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -94,13 +94,13 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="8mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-8mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/6mai/">
           <h4 class="pt-4"><ruby>六枚<rt>ろくまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち</h4>
-          <script id="6mai-kif" type="kif">
+          <script id="kif-6mai" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -118,7 +118,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="6mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-6mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
     </div>
@@ -130,7 +130,7 @@
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/4mai/">
           <h4 class="pt-4"><ruby>四枚<rt>よんまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち</h4>
-          <script id="4mai-kif" type="kif">
+          <script id="kif-4mai" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -148,13 +148,13 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="4mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-4mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
       <div class="col" tabindex="-1">
         <a href="/shogi-beginners/2mai/">
           <h4 class="pt-4"><ruby>二枚<rt>にまい</rt></ruby><ruby>落<rt>お</rt></ruby>ち 🚧</h4>
-          <script id="2mai-kif" type="kif">
+          <script id="kif-2mai" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -172,7 +172,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="2mai" xmlns="http://www.w3.org/2000/svg" viewbox="0,0,400,540"></svg>
+          <svg id="ban-2mai" xmlns="http://www.w3.org/2000/svg" viewbox="0,0,400,540"></svg>
         </a>
       </div>
     </div>
@@ -181,7 +181,7 @@
     <div class="row">
       <div class="col" tabindex="-1">
         <h4 class="pt-4"><ruby>平手<rt>ひらて</rt></ruby> 🚧</h4>
-        <script id="hirate-kif" type="kif">
+        <script id="kif-hirate" type="text/plain">
 手合割：平手
 後手の持駒：歩二
   ９ ８ ７ ６ ５ ４ ３ ２ １
@@ -198,7 +198,7 @@
 +---------------------------+
 先手の持駒：歩三
         </script>
-        <svg id="hirate" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+        <svg id="ban-hirate" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
       </div>
       <div class="col m-auto">
         <img class="img-fluid" src="/shogi-beginners/img/cat1.webp" alt="">
@@ -287,9 +287,9 @@
 </div>
 <script src="/shogi-beginners/kifu-viewer.js"></script>
 {{< script >}}
-  ['mini', '10mai', '8mai', '6mai', '4mai', '2mai', 'hirate'].forEach(id => {
-    new KifuViewer(document.getElementById(id), { buttons: 'none' })
-      .loadString(document.getElementById(id + '-kif').textContent);
+  ["mini", "10mai", "8mai", "6mai", "4mai", "2mai", "hirate"].forEach(id => {
+    new KifuViewer(document.getElementById("ban-" + id), { buttons: "none" })
+      .loadString(document.getElementById("kif-" + id).textContent);
   });
 {{< /script >}}
 

@@ -38,12 +38,12 @@
     <script src="/shogi-beginners/kifu-viewer.min.js"></script>
     <script src="/shogi-beginners/index.min.js"></script>
     <script>
-      ['example'].forEach(komawari => {
+      ["example"].forEach(komawari => {
         new KifuViewer(document.getElementById(komawari), {
           keybinds: window,
-          comment: document.getElementById('comment'),
+          comment: document.getElementById("comment"),
           onMove: () => {
-            if (localStorage.getItem('voice') == 1) {
+            if (localStorage.getItem("voice") == 1) {
               speak();
             }
           },
@@ -51,9 +51,9 @@
       });
 
       function speak() {
-        const text = getText(document.getElementById('comment'));
+        const text = getText(document.getElementById("comment"));
         let msg = new SpeechSynthesisUtterance(text);
-        msg.lang = 'ja-JP';
+        msg.lang = "ja-JP";
         msg.voice = japaneseVoices[Math.floor(Math.random() * japaneseVoices.length)];
         speechSynthesis.cancel();
         speechSynthesis.speak(msg);

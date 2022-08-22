@@ -39,7 +39,7 @@ Title: ミニ将棋
   </div>
   <div class="col p-1">
     <div class="col" tabindex="-1">
-      <script id="summary1-kif" type="text/plain">
+      <script id="kif-summary1" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -57,12 +57,12 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
       </script>
-      <svg id="summary1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+      <svg id="ban-summary1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
   </div>
   <div class="col p-1">
     <div class="col" tabindex="-1">
-      <script id="summary2-kif" type="text/plain">
+      <script id="kif-summary2" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -80,7 +80,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
       </script>
-      <svg id="summary2" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+      <svg id="ban-summary2" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
   </div>
 </div>
@@ -98,7 +98,7 @@ Title: ミニ将棋
             </ruby>がさない<ruby>指<rt>さ</rt></ruby>し<ruby>方<rt>かた</rt>
             </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
           </p>
-          <script id="30kyu-kif" type="text/plain">
+          <script id="kif-30kyu" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -116,7 +116,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="30kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-30kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
         <div class="col pb-3" tabindex="-1">
           <h4>27級</h4>
@@ -127,7 +127,7 @@ Title: ミニ将棋
             </ruby>をつかまえる<ruby>方法<rt>ほうほう</rt>
             </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
           </p>
-          <script id="27kyu-kif" type="text/plain">
+          <script id="kif-27kyu" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -145,7 +145,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="27kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-27kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
       </div>
     </div>
@@ -159,7 +159,7 @@ Title: ミニ将棋
           </ruby>) を<ruby>指<rt>さ</rt></ruby>す<ruby>前<rt>まえ</rt>
           </ruby>に<ruby>知<rt>し</rt></ruby>っておくとクリアが<ruby>早<rt>はや</rt></ruby>くなります。
           </p>
-          <script id="19kyu-kif" type="text/plain">
+          <script id="kif-19kyu" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：なし
@@ -177,7 +177,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="19kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-19kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
         <div class="col pb-3" tabindex="-1">
           <h4>14級</h4>
@@ -190,7 +190,7 @@ Title: ミニ将棋
           </ruby>の<ruby>受<rt>う</rt></ruby>け<ruby>方<rt>かた</rt>
           </ruby>を<ruby>学<rt>まな</rt></ruby>びます。
           </p>
-          <script id="14kyu-kif" type="text/plain">
+          <script id="kif-14kyu" type="text/plain">
 上手：上手
 下手：下手
 上手の持駒：歩九　
@@ -208,7 +208,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="14kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-14kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
       </div>
     </div>
@@ -246,9 +246,9 @@ Title: ミニ将棋
 </div>
 <script src="/shogi-beginners/kifu-viewer.js"></script>
 {{< script >}}
-  ['summary1', 'summary2', '30kyu', '27kyu', '19kyu', '14kyu'].forEach(id => {
-    new KifuViewer(document.getElementById(id), { buttons: 'none' })
-      .loadString(document.getElementById(id + '-kif').textContent);
+  ["summary1", "summary2", "30kyu", "27kyu", "19kyu", "14kyu"].forEach(id => {
+    new KifuViewer(document.getElementById("ban-" + id), { buttons: "none" })
+      .loadString(document.getElementById("kif-" + id).textContent);
   });
 {{< /script >}}
 
