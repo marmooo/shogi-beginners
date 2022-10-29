@@ -73,5 +73,5 @@ function getText(obj) {
   return text;
 }
 
-document.getElementById("toggleDarkMode") = toggleDarkMode;
-document.getElementById("toggleVoice") = toggleVoice;
+document.getElementById("toggleDarkMode").onclick = toggleDarkMode;
+document.getElementById("toggleVoice").onclick = toggleVoice;
