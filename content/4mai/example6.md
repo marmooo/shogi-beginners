@@ -31,7 +31,7 @@ Title: 四枚落ち実戦例6
   12 ２八飛(24)
   13 ５二玉(51)
   14 １六歩(17)
-*<ruby>上手<rt>うわて</rt></ruby>はすぐに☖<ruby>２三<rt>にいさん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>としないこともあります。そんな<ruby>時<rt>とき</rt></ruby>、<ruby>下手<rt>したて</rt></ruby>はあわてず☗<ruby>３八銀<rt>さんはちぎん</rt></ruby>から棒銀をすれば、<ruby>結局<rt>けっきょく</rt></ruby>は☖<ruby>２三<rt>にいさん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>と<ruby>打<rt>う</rt></ruby>たないといけないことが<ruby>多<rt>おお</rt></ruby>いです (<a href="/shogi-beginners/4mai/example7/"><ruby>実戦例<rt>じっせんれい</rt></ruby>7</a>)。
+*<ruby>上手<rt>うわて</rt></ruby>はすぐに☖<ruby>２三<rt>にいさん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>としないこともあります。そんな<ruby>時<rt>とき</rt></ruby>、<ruby>下手<rt>したて</rt></ruby>はあわてず☗<ruby>３八銀<rt>さんはちぎん</rt></ruby>から<ruby>棒銀<rt>ぼうぎん</rt></ruby>をすれば、<ruby>結局<rt>けっきょく</rt></ruby>は☖<ruby>２三<rt>にいさん</rt></ruby><ruby>歩<rt>ふ</rt></ruby>と<ruby>打<rt>う</rt></ruby>たないといけないことが<ruby>多<rt>おお</rt></ruby>いです (<a href="/shogi-beginners/4mai/example7/"><ruby>実戦例<rt>じっせんれい</rt></ruby>7</a>)。
   15 ６四銀(73)
   16 １五歩(16)
   17 ４二玉(52)

@@ -70,7 +70,7 @@ Title: 四枚落ち実戦例1
   40 １四香(19)
 *<ruby>上手<rt>うわて</rt></ruby>はこれでしびれています。
   41 ６五金(64)
-*宿題: ☗<ruby>２四<rt>にーよん</rt></ruby><ruby>銀打<rt>ぎんうち</rt></ruby>と<ruby>受<rt>う</rt></ruby>けた<ruby>変化<rt>へんか</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみてください。
+*<ruby>宿題<rt>しゅくだい</rt></ruby>: ☗<ruby>２四<rt>にーよん</rt></ruby><ruby>銀打<rt>ぎんうち</rt></ruby>と<ruby>受<rt>う</rt></ruby>けた<ruby>変化<rt>へんか</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてみてください。
   42 ２一と(31)
 *またしても、と<ruby>金<rt>きん</rt></ruby><ruby>捨<rt>す</rt></ruby>てが<ruby>好手<rt>こうしゅ</rt></ruby>です。
   43 ３二金(22)
