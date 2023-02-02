@@ -151,7 +151,7 @@ Title: 二枚落ち実戦例2
  105 同　角(71)
  106 同　と(73)
  107 投了
-*<a href="/shogi-beginners/4mai/example2/">
+*<a href="/shogi-beginners/4mai/example3/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
 *<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで106手で下手の勝ち

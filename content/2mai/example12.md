@@ -173,8 +173,8 @@ Title: 二枚落ち実戦例8
  133 ７五玉(84)
  134 ６六金打
  135 投了
-*<a href="/shogi-beginners/2mai/example9/">
-*<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
+*<a href="/shogi-beginners/2mai/">
+*<ruby>復習<rt>ふくしゅう</rt></ruby>しよう！
 *<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで134手で下手の勝ち
     </script>

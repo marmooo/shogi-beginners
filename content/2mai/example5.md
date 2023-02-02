@@ -99,7 +99,7 @@ Title: 二枚落ち実戦例5
   81 ９二玉(93)
   82 ９三歩成(94)
   83 投了
-*<a href="/shogi-beginners/2mai/example4/">
+*<a href="/shogi-beginners/2mai/example6/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
 *<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで120手で下手の勝ち

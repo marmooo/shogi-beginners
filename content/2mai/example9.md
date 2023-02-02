@@ -175,7 +175,7 @@ Title: 二枚落ち実戦例9
  137 同　金(31)
  138 同　と(43)
  139 投了
-*<a href="/shogi-beginners/2mai/example9/">
+*<a href="/shogi-beginners/2mai/example10/">
 *<ruby>次<rt>つぎ</rt></ruby>の<ruby>棋譜<rt>きふ</rt></ruby>を<ruby>見<rt>み</rt></ruby>よう！
 *<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで138手で下手の勝ち
