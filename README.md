@@ -3,6 +3,6 @@
 
 ## Build
 ```
-hugo --minify
+bash build.sh
 ```
 
