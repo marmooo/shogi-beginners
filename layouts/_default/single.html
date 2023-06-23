@@ -65,7 +65,7 @@
     <script src="/shogi-beginners/kifu-viewer.min.js"></script>
     <script src="/shogi-beginners/index.min.js"></script>
     <script>
-      const templateButtons = document.getElementById("buttons").content.firstChild;
+      const templateButtons = document.getElementById("buttons").content.firstElementChild;
       ["example"].forEach(komawari => {
         const buttons = templateButtons.cloneNode(true);
         document.getElementById(komawari).parentNode.appendChild(buttons);
