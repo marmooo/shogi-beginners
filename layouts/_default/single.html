@@ -35,12 +35,43 @@
       </div>
       <div class="text-muted">&copy; <a href="https://github.com/marmooo">marmooo</a></div>
     </footer>
+    <div class="drop-inline-css btn btn-lg btn-outline-secondary d-none"></div>
+    <svg class="d-none"><!-- Material Icons -->
+      <symbol id="kv-first" width="24" height="24" viewBox="0 -960 960 960"><path d="M240-240v-480h60v480h-60Zm447-3L453-477l234-234 43 43-191 191 191 191-43 43Z"/></symbol>
+      <symbol id="kv-prev" width="24" height="24" viewBox="0 -960 960 960"><path d="M561-240 320-481l241-241 43 43-198 198 198 198-43 43Z"/></symbol>
+      <symbol id="kv-next" width="24" height="24" viewBox="0 -960 960 960"><path d="m375-240-43-43 198-198-198-198 43-43 241 241-241 241Z"/></symbol>
+      <symbol id="kv-last" width="24" height="24" viewBox="0 -960 960 960"><path d="m272-245-43-43 192-192-192-192 43-43 235 235-235 235Zm388 5v-480h60v480h-60Z"/></symbol>
+      <symbol id="kv-reverse" width="24" height="24" viewBox="0 -960 960 960"><path d="M196-331q-20-36-28-72.5t-8-74.5q0-131 94.5-225.5T480-798h43l-80-80 39-39 149 149-149 149-40-40 79-79h-41q-107 0-183.5 76.5T220-478q0 29 5.5 55t13.5 49l-43 43ZM476-40 327-189l149-149 39 39-80 80h45q107 0 183.5-76.5T740-479q0-29-5-55t-15-49l43-43q20 36 28.5 72.5T800-479q0 131-94.5 225.5T480-159h-45l80 80-39 39Z"/></symbol>
+    </svg>
+    <template id="buttons">
+      <div class='kifu-viewer-buttons mb-2' style='text-align:center;'>
+        <button class="kifu-viewer-first btn btn-lg btn-outline-secondary">
+          <svg widht="24" height="24" viewBox="0 0 24 24" fill="currentColor"><use href="#kv-first"/></svg>
+        </button>
+        <button class="kifu-viewer-prev btn btn-lg btn-outline-secondary">
+          <svg widht="24" height="24" viewBox="0 0 24 24" fill="currentColor"><use href="#kv-prev"/></svg>
+        </button>
+        <button class="kifu-viewer-next btn btn-lg btn-outline-secondary">
+          <svg widht="24" height="24" viewBox="0 0 24 24" fill="currentColor"><use href="#kv-next"/></svg>
+        </button>
+        <button class="kifu-viewer-last btn btn-lg btn-outline-secondary">
+          <svg widht="24" height="24" viewBox="0 0 24 24" fill="currentColor"><use href="#kv-last"/></svg>
+        </button>
+        <button class="kifu-viewer-reverse btn btn-lg btn-outline-secondary">
+          <svg widht="24" height="24" viewBox="0 0 24 24" fill="currentColor"><use href="#kv-reverse"/></svg>
+        </button>
+      </div>
+    </template>
     <script src="/shogi-beginners/kifu-viewer.min.js"></script>
     <script src="/shogi-beginners/index.min.js"></script>
     <script>
+      const templateButtons = document.getElementById("buttons").content.firstChild;
       ["example"].forEach(komawari => {
+        const buttons = templateButtons.cloneNode(true);
+        document.getElementById(komawari).parentNode.appendChild(buttons);
         new KifuViewer(document.getElementById(komawari), {
           keybinds: window,
+          buttons: buttons,
           comment: document.getElementById("comment"),
           onMove: () => {
             if (localStorage.getItem("voice") == 1) {
