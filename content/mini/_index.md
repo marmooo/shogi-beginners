@@ -57,7 +57,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
       </script>
-      <svg id="ban-summary1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+      <svg id="ban-summary1" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
   </div>
   <div class="col p-1">
@@ -80,7 +80,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
       </script>
-      <svg id="ban-summary2" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+      <svg id="ban-summary2" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
   </div>
 </div>
@@ -116,7 +116,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-30kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-30kyu" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
         <div class="col pb-3" tabindex="-1">
           <h4>27級</h4>
@@ -145,7 +145,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-27kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-27kyu" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
       </div>
     </div>
@@ -177,7 +177,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-19kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-19kyu" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
         <div class="col pb-3" tabindex="-1">
           <h4>14級</h4>
@@ -208,7 +208,7 @@ Title: ミニ将棋
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-14kyu" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-14kyu" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </div>
       </div>
     </div>

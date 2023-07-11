@@ -42,7 +42,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-mini" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-mini" class="board" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
       <div class="col" tabindex="-1">
@@ -66,7 +66,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-10mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-10mai" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
     </div>
@@ -94,7 +94,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-8mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-8mai" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
       <div class="col" tabindex="-1">
@@ -118,7 +118,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-6mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-6mai" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
     </div>
@@ -148,7 +148,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-4mai" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+          <svg id="ban-4mai" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
         </a>
       </div>
       <div class="col" tabindex="-1">
@@ -172,7 +172,7 @@
 +---------------------------+
 下手の持駒：なし
           </script>
-          <svg id="ban-2mai" xmlns="http://www.w3.org/2000/svg" viewbox="0,0,400,540"></svg>
+          <svg id="ban-2mai" class="board" xmlns="http://www.w3.org/2000/svg" viewbox="0,0,400,540"></svg>
         </a>
       </div>
     </div>
@@ -198,7 +198,7 @@
 +---------------------------+
 先手の持駒：歩三
         </script>
-        <svg id="ban-hirate" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+        <svg id="ban-hirate" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
       </div>
       <div class="col m-auto">
         <img class="img-fluid" src="/shogi-beginners/img/cat1.webp" alt="">

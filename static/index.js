@@ -4,11 +4,21 @@ loadVoices();
 
 function loadConfig() {
   if (localStorage.getItem("darkMode") == 1) {
-    document.documentElement.dataset.theme = "dark";
+    document.documentElement.setAttribute("data-bs-theme", "dark");
   }
   if (localStorage.getItem("voice") != 1) {
     document.getElementById("voiceOn").classList.add("d-none");
     document.getElementById("voiceOff").classList.remove("d-none");
+  }
+}
+
+function toggleDarkMode() {
+  if (localStorage.getItem("darkMode") == 1) {
+    localStorage.setItem("darkMode", 0);
+    document.documentElement.setAttribute("data-bs-theme", "light");
+  } else {
+    localStorage.setItem("darkMode", 1);
+    document.documentElement.setAttribute("data-bs-theme", "dark");
   }
 }
 
@@ -28,16 +38,6 @@ function toggleVoice() {
       japaneseVoices[Math.floor(Math.random() * japaneseVoices.length)];
     speechSynthesis.speak(msg);
     return msg
-  }
-}
-
-function toggleDarkMode() {
-  if (localStorage.getItem("darkMode") == 1) {
-    localStorage.setItem("darkMode", 0);
-    delete document.documentElement.dataset.theme;
-  } else {
-    localStorage.setItem("darkMode", 1);
-    document.documentElement.dataset.theme = "dark";
   }
 }
 

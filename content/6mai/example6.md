@@ -88,7 +88,7 @@ Title: 六枚落ち実戦例6
 *<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat1.webp"></div></a>
 まで46手で下手の勝ち
     </script>
-    <svg id="example" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+    <svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
   </div>
   <div class="col-sm">
     <h4 class="pt-3">コメント</h4>

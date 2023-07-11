@@ -59,7 +59,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝24  ▲２五銀  まで
       </script>
-      <svg id="summary1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+      <svg id="summary1" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
   </div>
   <div class="col">
@@ -83,7 +83,7 @@ Title: 四枚落ち
 下手の持駒：なし
 手数＝16  ▲３八飛  まで
       </script>
-      <svg id="summary2" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+      <svg id="summary2" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
     </div>
   </div>
 </div>
@@ -114,7 +114,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝24  ▲２五銀  まで
             </script>
-            <svg id="example1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example1" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
         <div class="col pb-3">
@@ -139,7 +139,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝25  △４二金右  まで
             </script>
-            <svg id="example2" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example2" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
       </div>
@@ -168,7 +168,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝16  ▲９五歩  まで
             </script>
-            <svg id="example3" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example3" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
         <div class="col pb-3">
@@ -193,7 +193,7 @@ Title: 四枚落ち
 下手の持駒：なし
 手数＝16  ▲３八飛  まで
             </script>
-            <svg id="example4" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example4" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
       </div>
@@ -226,7 +226,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝23  △３三桂  まで
             </script>
-            <svg id="example5" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example5" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
         <div class="col pb-3">
@@ -251,7 +251,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝27  △３一玉  まで
             </script>
-            <svg id="example6" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example6" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
       </div>
@@ -280,7 +280,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝23  △５二金  まで
             </script>
-            <svg id="example7" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example7" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
         <div class="col pb-3">
@@ -305,7 +305,7 @@ Title: 四枚落ち
 下手の持駒：歩　
 手数＝33  △９四歩  まで
             </script>
-            <svg id="example8" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
+            <svg id="example8" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540"></svg>
           </a>
         </div>
       </div>
