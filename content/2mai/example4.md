@@ -15,7 +15,7 @@ Title: 二枚落ち実戦例4
 上手：上手
 手数----指手---------消費時間--
 *<ruby>二歩<rt>にふ</rt></ruby><ruby>突<rt>つ</rt></ruby>き<ruby>定跡<rt>じょうせき</rt></ruby>の<ruby>勝<rt>か</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>をおぼえましょう。
-*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat32.webp"></div>
+*<div class="text-center"><img class="img-fluid pt-3 w-50" src="/shogi-beginners/img/cat34.webp"></div>
    1 ２二銀(31)
    2 ７六歩(77)
    3 ７二銀(71)
