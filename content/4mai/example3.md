@@ -81,7 +81,7 @@ Title: 四枚落ち実戦例3
   44 ７二飛成(74)
 *ノータイムで☗<ruby>５四<rt>ごーよん</rt></ruby><ruby>飛<rt>ひ</rt></ruby>は、☖<ruby>４二<rt>よんにい</rt></ruby><ruby>玉<rt>ぎょく</rt></ruby>☗<ruby>５七<rt>ごーなな</rt></ruby><ruby>飛<rt>ひ</rt></ruby>☖<ruby>６六角<rt>ろくろくかく</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>です。またどこかで☖<ruby>３三<rt>さんさん</rt></ruby><ruby>玉<rt>ぎょく</rt></ruby>とされると、<ruby>上手<rt>うわて</rt></ruby><ruby>玉<rt>ぎょく</rt></ruby>がつかまりません。<ruby>逃<rt>に</rt></ruby>げ<ruby>道<rt>みち</rt></ruby>をふさぐ☗<ruby>７二<rt>ななにい</rt></ruby><ruby>飛成<rt>ひなり</rt></ruby>が<ruby>絶妙手<rt>ぜつみょうしゅ</rt></ruby>です。
   45 ５二銀打
-*☖<ruby>４二金<rt>よんにいきん</rt></ruby>は☗<ruby>５五金<rt>ごーごーきん</rt></ruby>で<ruby>受<rt>う</rt></ruby>けなしなので、これしか<ruby>手<rt>て</rt></ruby>がありません。
+*☖<ruby>４二金<rt>よんにいきん</rt></ruby>は☗<ruby>６五金<rt>ろくごーきん</rt></ruby>で<ruby>受<rt>う</rt></ruby>けなしなので、これしか<ruby>手<rt>て</rt></ruby>がありません。
   46 ５四銀(45)
   47 同　玉(53)
   48 ５二龍(72)
