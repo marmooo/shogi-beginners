@@ -7,7 +7,6 @@ Title: 六枚落ち実戦例3
   <li class="breadcrumb-item active" aria-current="page">実戦例3 (左端攻め)</li>
 {{</ breadcrumb >}}
 <div class="row">
-  <div class="col-lg-1"></div>
   <div class="col-sm" tabindex="-1">
     <script id="example-kif" type="text/plain">
 手合割：六枚落ち
@@ -87,5 +86,4 @@ Title: 六枚落ち実戦例3
     <h4 class="pt-3">コメント</h4>
     <div id="comment"></div>
   </div>
-  <div class="col-lg-1"></div>
 </div>

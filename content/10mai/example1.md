@@ -7,7 +7,6 @@ Title: 十枚落ち実戦例1
   <li class="breadcrumb-item active" aria-current="page">実戦例1 (☗６六角型)</li>
 {{</ breadcrumb >}}
 <div class="row pt-3">
-  <div class="col-lg-1"></div>
   <div class="col-sm" tabindex="-1">
     <script id="example-kif" type="text/plain">
 手合割：十枚落ち
@@ -80,6 +79,5 @@ Title: 十枚落ち実戦例1
     <h4 class="pt-3">コメント</h4>
     <div id="comment"></div>
   </div>
-  <div class="col-lg-1"></div>
 </div>
 
