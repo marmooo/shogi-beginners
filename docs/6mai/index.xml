@@ -1,67 +1,865 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>六枚落ち on 将棋びぎなーず</title>
-    <link>http://localhost:1313/shogi-beginners/6mai/</link>
-    <description>Recent content in 六枚落ち on 将棋びぎなーず</description>
-    <generator>Hugo</generator>
-    <language>ja-jp</language>
-    <atom:link href="http://localhost:1313/shogi-beginners/6mai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>六枚落ち実戦例1</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example1/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例1 (左端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row pt-3&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;左端&lt;rt&gt;ひだり端&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat14.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ３二金(41)&#xA;   2 ７六歩(77)&#xA;   3 ７二金(61)&#xA;   4 ６六角(88)&#xA;   5 ８二銀(71)&#xA;   6 ９六歩(97)&#xA;   7 ７四歩(73)&#xA;   8 ９五歩(96)&#xA;*&lt;ruby&gt;八枚&lt;rt&gt;はちまい&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;落&lt;rt&gt;お&lt;/rt&gt;&lt;/ruby&gt;ちと&lt;ruby&gt;同&lt;rt&gt;おな&lt;/rt&gt;&lt;/ruby&gt;じ&lt;ruby&gt;形&lt;rt&gt;かたち&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めが&lt;ruby&gt;使&lt;rt&gt;つか&lt;/rt&gt;&lt;/ruby&gt;えます。&#xA;   9 ６四歩(63)&#xA;  10 ５六歩(57)&#xA;*&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;利&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;きを９&lt;ruby&gt;筋&lt;rt&gt;すじ&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;残&lt;rt&gt;のこ&lt;/rt&gt;&lt;/ruby&gt;す&lt;ruby&gt;大事&lt;rt&gt;だいじ&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  11 ５二玉(51)&#xA;  12 ９四歩(95)&#xA;*この&lt;ruby&gt;形&lt;rt&gt;かたち&lt;/rt&gt;&lt;/ruby&gt;ができれば&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めは&lt;ruby&gt;成功&lt;rt&gt;せいこう&lt;/rt&gt;&lt;/ruby&gt;します。&#xA;  13 同　歩(93)&#xA;  14 同　香(99)&#xA;  15 ８四歩(83)&#xA;  16 ９二香成(94)&#xA;  17 ７三銀(82)&#xA;  18 ９八飛(28)&#xA;*&lt;ruby&gt;飛車&lt;rt&gt;ひしゃ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;活用&lt;rt&gt;かつよう&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;目指&lt;rt&gt;めざ&lt;/rt&gt;&lt;/ruby&gt;します。&#xA;  19 ４二銀(31)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  20 ８一成香(92)&#xA;*☗&lt;ruby&gt;９三&lt;rt&gt;きゅうさん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;飛成&lt;rt&gt;ひなり&lt;/rt&gt;&lt;/ruby&gt;では&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めがありません。&lt;ruby&gt;飛車&lt;rt&gt;ひしゃ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;成&lt;rt&gt;な&lt;/rt&gt;&lt;/ruby&gt;り&lt;ruby&gt;場所&lt;rt&gt;ばしょ&lt;/rt&gt;&lt;/ruby&gt;を変える☗&lt;ruby&gt;８一&lt;rt&gt;はちいち&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;成香&lt;rt&gt;なりきょう&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;正解&lt;rt&gt;せいかい&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  21 ５四歩(53)&#xA;  22 ９二飛成(98)&#xA;  23 ６三玉(52)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  24 ９四歩打&#xA;*と&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めを&lt;ruby&gt;目指&lt;rt&gt;めざ&lt;/rt&gt;&lt;/ruby&gt;す☗&lt;ruby&gt;９四&lt;rt&gt;きゅうよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;正解&lt;rt&gt;せいかい&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  25 ５三銀(42)&#xA;  26 ９三歩成(94)&#xA;  27 ６五歩(64)&#xA;  28 ５七角(66)&#xA;  29 ６二金(72)&#xA;  30 ８三と(93)&#xA;  31 ６四銀(73)&#xA;  32 ７一成香(81)&#xA;  33 ４二金(32)&#xA;  34 ７二成香(71)&#xA;  35 ５五歩(54)&#xA;  36 同　歩(56)&#xA;  37 同　銀(64)&#xA;  38 ６二成香(72)&#xA;  39 同　銀(53)&#xA;  40 ８四角(57)&#xA;  41 ５三銀(62)&#xA;  42 ７三角成(84)&#xA;  43 ５四玉(63)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  44 ５五馬(73)&#xA;*&lt;ruby&gt;時&lt;rt&gt;とき&lt;/rt&gt;&lt;/ruby&gt;には&lt;ruby&gt;馬&lt;rt&gt;うま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;捨&lt;rt&gt;す&lt;/rt&gt;&lt;/ruby&gt;てて&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めることも&lt;ruby&gt;大切&lt;rt&gt;たいせつ&lt;/rt&gt;&lt;/ruby&gt;です。&lt;ruby&gt;以下&lt;rt&gt;いか&lt;/rt&gt;&lt;/ruby&gt;、7&lt;ruby&gt;手詰&lt;rt&gt;てづめ&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  45 同　玉(54)&#xA;  46 ４六銀打&#xA;  47 ６四玉(55)&#xA;  48 ５五金打&#xA;  49 ６三玉(64)&#xA;  50 ７二龍(92)&#xA;  51 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/example2/&#34;&gt;&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;棋譜&lt;rt&gt;きふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;よう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat1.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで50手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>六枚落ち実戦例2</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example2/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例2 (左端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row pt-3&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;左端&lt;rt&gt;ひだりはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat15.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ３二金(41)&#xA;   2 ７六歩(77)&#xA;   3 ７二金(61)&#xA;   4 ６六角(88)&#xA;   5 ８二銀(71)&#xA;   6 ９六歩(97)&#xA;   7 ７四歩(73)&#xA;   8 ９五歩(96)&#xA;   9 ６四歩(63)&#xA;  10 ５六歩(57)&#xA;*&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;利&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;きを９&lt;ruby&gt;筋&lt;rt&gt;すじ&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;残&lt;rt&gt;のこ&lt;/rt&gt;&lt;/ruby&gt;す&lt;ruby&gt;大事&lt;rt&gt;だいじ&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  11 ７三金(72)&#xA;*☖&lt;ruby&gt;７三金&lt;rt&gt;ななさんきん&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;強&lt;rt&gt;つよ&lt;/rt&gt;&lt;/ruby&gt;く&lt;ruby&gt;受&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;ける&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;力&lt;rt&gt;ちから&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;押&lt;rt&gt;お&lt;/rt&gt;&lt;/ruby&gt;さえ&lt;ruby&gt;込&lt;rt&gt;こ&lt;/rt&gt;&lt;/ruby&gt;む&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;し&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  12 ９四歩(95)&#xA;  13 同　歩(93)&#xA;  14 同　香(99)&#xA;  15 ８四金(73)&#xA;  16 ９八飛(28)&#xA;  17 ９五歩打&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  18 ８四角(66)&#xA;*この&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;知&lt;rt&gt;し&lt;/rt&gt;&lt;/ruby&gt;っていないと&lt;ruby&gt;難&lt;rt&gt;むずか&lt;/rt&gt;&lt;/ruby&gt;しいかもしれません。☗&lt;ruby&gt;９二&lt;rt&gt;きゅうにー&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;香成&lt;rt&gt;きょうなり&lt;/rt&gt;&lt;/ruby&gt;は☖&lt;ruby&gt;７三銀&lt;rt&gt;ななさんぎん&lt;/rt&gt;&lt;/ruby&gt;でその&lt;ruby&gt;後&lt;rt&gt;あと&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めがありません。&#xA;  19 同　歩(83)&#xA;  20 ９五飛(98)&#xA;*&lt;ruby&gt;角金交換&lt;rt&gt;かくきんこうかん&lt;/rt&gt;&lt;/ruby&gt;でも&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めが&lt;ruby&gt;厳&lt;rt&gt;きび&lt;/rt&gt;&lt;/ruby&gt;しく&lt;ruby&gt;優勢&lt;rt&gt;ゆうせい&lt;/rt&gt;&lt;/ruby&gt;ですが、&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;渡&lt;rt&gt;わた&lt;/rt&gt;&lt;/ruby&gt;したのでするどく&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めないといけません。ここからの&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めをよくおぼえましょう。&#xA;  21 ４二玉(51)&#xA;  22 ９二香成(94)&#xA;  23 ７三銀(82)&#xA;  24 ９三飛成(95)&#xA;  25 ６二銀(73)&#xA;  26 ８二龍(93)&#xA;*&lt;ruby&gt;銀&lt;rt&gt;ぎん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;取&lt;rt&gt;と&lt;/rt&gt;&lt;/ruby&gt;りを見せながら&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めていきましょう。&#xA;  27 ５二玉(42)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  28 ７五歩(76)&#xA;*と&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;作&lt;rt&gt;つく&lt;/rt&gt;&lt;/ruby&gt;りにいくのが&lt;ruby&gt;手堅&lt;rt&gt;てがた&lt;/rt&gt;&lt;/ruby&gt;いです。ほかには☗&lt;ruby&gt;７三金打&lt;rt&gt;ななさんきんうち&lt;/rt&gt;&lt;/ruby&gt;もいい&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;ですが、なるべく&lt;ruby&gt;駒&lt;rt&gt;こま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;使&lt;rt&gt;つか&lt;/rt&gt;&lt;/ruby&gt;わずに&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めたいです。&#xA;  29 ４二銀(31)&#xA;  30 ７四歩(75)&#xA;  31 ４四歩(43)&#xA;  32 ７三歩成(74)&#xA;  33 ５一銀(42)&#xA;  34 ６二と(73)&#xA;  35 同　銀(51)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  36 ７四歩打&#xA;*ここでもと&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;作&lt;rt&gt;つく&lt;/rt&gt;&lt;/ruby&gt;りにいくのが&lt;ruby&gt;手堅&lt;rt&gt;てがた&lt;/rt&gt;&lt;/ruby&gt;いです。&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;受&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;けがありません。&#xA;  37 ７二歩打&#xA;  38 同　龍(82)&#xA;  39 ５四角打&#xA;  40 ８二龍(72)&#xA;  41 ８七角成(54)&#xA;  42 ７三歩成(74)&#xA;  43 ４三玉(52)&#xA;  44 ６二龍(82)&#xA;  45 ３四歩(33)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  46 ６三と(73)&#xA;*&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;める&lt;ruby&gt;時&lt;rt&gt;とき&lt;/rt&gt;&lt;/ruby&gt;はなるべくと&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;活用&lt;rt&gt;かつよう&lt;/rt&gt;&lt;/ruby&gt;しましょう。&#xA;  47 ３三玉(43)&#xA;  48 ７八銀(79)&#xA;  49 ７六馬(87)&#xA;  50 ５三龍(62)&#xA;  51 ４三馬(76)&#xA;  52 ５一龍(53)&#xA;*&lt;ruby&gt;龍&lt;rt&gt;りゅう&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;馬&lt;rt&gt;うま&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;交換&lt;rt&gt;こうかん&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;損&lt;rt&gt;そん&lt;/rt&gt;&lt;/ruby&gt;なので&lt;ruby&gt;逃&lt;rt&gt;に&lt;/rt&gt;&lt;/ruby&gt;げておきます。&#xA;  53 ４二馬(43)&#xA;  54 ６二龍(51)&#xA;  55 ３一馬(42)&#xA;  56 ５三と(63)&#xA;  57 ３五歩(34)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  58 ２五銀打&#xA;*&lt;ruby&gt;王&lt;rt&gt;おう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;逃&lt;rt&gt;に&lt;/rt&gt;&lt;/ruby&gt;げ&lt;ruby&gt;道&lt;rt&gt;みち&lt;/rt&gt;&lt;/ruby&gt;をふさぐように&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;していくと&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ちやすいです。&#xA;  59 ２二玉(33)&#xA;  60 ４三と(53)&#xA;  61 ５七歩打&#xA;  62 ３三金打&#xA;  63 １一玉(22)&#xA;  64 ３二と(43)&#xA;  65 同　馬(31)&#xA;  66 同　龍(62)&#xA;  67 ９八歩打&#xA;  68 １二金打&#xA;  69 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/example3/&#34;&gt;&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;棋譜&lt;rt&gt;きふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;よう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat1.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで68手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>六枚落ち実戦例3</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example3/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例3 (左端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;左端&lt;rt&gt;ひだりはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat16.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ３二金(41)&#xA;   2 ７六歩(77)&#xA;   3 ７二金(61)&#xA;   4 ６六角(88)&#xA;   5 ８二銀(71)&#xA;   6 ９六歩(97)&#xA;   7 ７四歩(73)&#xA;   8 ９五歩(96)&#xA;   9 ８四歩(83)&#xA;*&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;犠牲&lt;rt&gt;ぎせい&lt;/rt&gt;&lt;/ruby&gt;にした&lt;ruby&gt;受&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;けです。&#xA;  10 同　角(66)&#xA;*&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;利&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;きがないと&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めはつながりません。☗&lt;ruby&gt;同角&lt;rt&gt;どうかく&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  11 ５二玉(51)&#xA;  12 ６六角(84)&#xA;  13 ６四歩(63)&#xA;  14 ５六歩(57)&#xA;*&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;利&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;きを９&lt;ruby&gt;筋&lt;rt&gt;すじ&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;残&lt;rt&gt;のこ&lt;/rt&gt;&lt;/ruby&gt;す&lt;ruby&gt;大事&lt;rt&gt;だいじ&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  15 ８三金(72)&#xA;*&lt;ruby&gt;金銀&lt;rt&gt;きんぎん&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;強&lt;rt&gt;つよ&lt;/rt&gt;&lt;/ruby&gt;く&lt;ruby&gt;受&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;けています。それでも☗&lt;ruby&gt;９七&lt;rt&gt;きゅうなな&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;香&lt;rt&gt;きょう&lt;/rt&gt;&lt;/ruby&gt;〜☗&lt;ruby&gt;９八&lt;rt&gt;きゅうはち&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;飛&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;〜☗&lt;ruby&gt;９四&lt;rt&gt;きゅうよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;とすれば&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めは&lt;ruby&gt;成功&lt;rt&gt;せいこう&lt;/rt&gt;&lt;/ruby&gt;するのですが、ほかの&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;  16 ８六歩(87)&#xA;*&lt;ruby&gt;守&lt;rt&gt;まも&lt;/rt&gt;&lt;/ruby&gt;りの&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;がいなくなったのを&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;て８&lt;ruby&gt;筋&lt;rt&gt;すじ&lt;/rt&gt;&lt;/ruby&gt;から&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めるのがいい&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めは&lt;ruby&gt;香車&lt;rt&gt;きょうしゃ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;渡&lt;rt&gt;わた&lt;/rt&gt;&lt;/ruby&gt;してしまうぶん、やや&lt;ruby&gt;損&lt;rt&gt;そん&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  17 ４二銀(31)&#xA;  18 ８五歩(86)&#xA;  19 ７三銀(82)&#xA;  20 ８八飛(28)&#xA;  21 ５四歩(53)&#xA;  22 ８四歩(85)&#xA;  23 同　銀(73)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  24 同　角(66)&#xA;*&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;金銀&lt;rt&gt;きんぎん&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;交換&lt;rt&gt;こうかん&lt;/rt&gt;&lt;/ruby&gt;して&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めるのがいい&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&lt;ruby&gt;金銀&lt;rt&gt;きんぎん&lt;/rt&gt;&lt;/ruby&gt;2&lt;ruby&gt;枚&lt;rt&gt;まい&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;1&lt;ruby&gt;枚&lt;rt&gt;まい&lt;/rt&gt;&lt;/ruby&gt;よりすこし&lt;ruby&gt;得&lt;rt&gt;とく&lt;/rt&gt;&lt;/ruby&gt;とおぼえておきましょう。&#xA;  25 同　金(83)&#xA;  26 同　飛(88)&#xA;  27 ４四歩(43)&#xA;  28 ８二飛成(84)&#xA;  29 ４三玉(52)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&lt;ruby&gt;難問&lt;rt&gt;なんもん&lt;/rt&gt;&lt;/ruby&gt;。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  30 ３六歩(37)&#xA;*☗&lt;ruby&gt;５二銀&lt;rt&gt;ごーにーぎん&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;打&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;ちたくなるところですが、☖&lt;ruby&gt;３四&lt;rt&gt;さんよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;玉&lt;rt&gt;ぎょく&lt;/rt&gt;&lt;/ruby&gt;☗&lt;ruby&gt;３六&lt;rt&gt;さんろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;☖&lt;ruby&gt;２四&lt;rt&gt;にーよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;とされて&lt;ruby&gt;意外&lt;rt&gt;いがい&lt;/rt&gt;&lt;/ruby&gt;とつかまりません。&#xA;*先に☗&lt;ruby&gt;３六&lt;rt&gt;さんろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;として☖&lt;ruby&gt;２四&lt;rt&gt;にーよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;させないようにします。&#xA;  31 ３一金(32)&#xA;  32 ５二銀打&#xA;  33 ３二玉(43)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&lt;ruby&gt;難問&lt;rt&gt;なんもん&lt;/rt&gt;&lt;/ruby&gt;。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  34 ４一金打&#xA;*&lt;ruby&gt;決&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;め&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。☖&lt;ruby&gt;同金&lt;rt&gt;どうきん&lt;/rt&gt;&lt;/ruby&gt;は☗&lt;ruby&gt;同銀&lt;rt&gt;どうぎん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩成&lt;rt&gt;ふなり&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;決次&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;まっていることを&lt;ruby&gt;確認&lt;rt&gt;かくにん&lt;/rt&gt;&lt;/ruby&gt;してください。&#xA;  35 ３四歩(33)&#xA;  36 ３一金(41)&#xA;  37 同　銀(42)&#xA;  38 ４三金打&#xA;  39 ２一玉(32)&#xA;  40 ４一銀成(52)&#xA;  41 ５七金打&#xA;  42 ３一成銀(41)&#xA;  43 １一玉(21)&#xA;  44 １二銀打&#xA;  45 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/example4/&#34;&gt;&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;棋譜&lt;rt&gt;きふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;よう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat1.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで44手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>六枚落ち実戦例4</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example4/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例4 (左端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row pt-3&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;左端&lt;rt&gt;ひだりはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat17.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ４二玉(51)&#xA;*これまでは☖&lt;ruby&gt;３二金&lt;rt&gt;さんにーきん&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;壁&lt;rt&gt;かべ&lt;/rt&gt;&lt;/ruby&gt;になり&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;はすこし&lt;ruby&gt;損&lt;rt&gt;そん&lt;/rt&gt;&lt;/ruby&gt;をしていました。&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;完璧&lt;rt&gt;かんぺき&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;受&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;けをしてきた&lt;ruby&gt;場合&lt;rt&gt;ばあい&lt;/rt&gt;&lt;/ruby&gt;はどうなるでしょうか。&#xA;   2 ７六歩(77)&#xA;   3 ７二金(61)&#xA;   4 ６六角(88)&#xA;   5 ８二銀(71)&#xA;   6 ９六歩(97)&#xA;   7 ７四歩(73)&#xA;   8 ９五歩(96)&#xA;   9 ６四歩(63)&#xA;  10 ５六歩(57)&#xA;*&lt;ruby&gt;角&lt;rt&gt;かく&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;利&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;きを９&lt;ruby&gt;筋&lt;rt&gt;すじ&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;残&lt;rt&gt;のこ&lt;/rt&gt;&lt;/ruby&gt;す&lt;ruby&gt;大事&lt;rt&gt;だいじ&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  11 ７三金(72)&#xA;  12 ９四歩(95)&#xA;  13 同　歩(93)&#xA;  14 同　香(99)&#xA;  15 ８四金(73)&#xA;  16 ９八飛(28)&#xA;  17 ９五歩打&#xA;  18 ８四角(66)&#xA;  19 同　歩(83)&#xA;  20 ９五飛(98)&#xA;*ここまでは&lt;ruby&gt;下手&lt;rt&gt;したて&lt;/rt&gt;&lt;/ruby&gt;も&lt;ruby&gt;変化&lt;rt&gt;へんか&lt;/rt&gt;&lt;/ruby&gt;する&lt;ruby&gt;必要&lt;rt&gt;ひよう&lt;/rt&gt;&lt;/ruby&gt;はありません。&#xA;  21 ３四歩(33)&#xA;  22 ９三香成(94)&#xA;*&lt;ruby&gt;９三&lt;rt&gt;きゅうさん&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;成&lt;rt&gt;な&lt;/rt&gt;&lt;/ruby&gt;るのがよさそうです。&#xA;  23 ７一銀(82)&#xA;*&lt;ruby&gt;宿題&lt;rt&gt;しゅくだい&lt;/rt&gt;&lt;/ruby&gt;: ☖&lt;ruby&gt;同銀&lt;rt&gt;どうぎん&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;変化&lt;rt&gt;へんか&lt;/rt&gt;&lt;/ruby&gt;も&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみてください。&#xA;  24 ８三成香(93)&#xA;  25 ６二銀(71)&#xA;*&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;横&lt;rt&gt;よこ&lt;/rt&gt;&lt;/ruby&gt;からの&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めにすこし&lt;ruby&gt;強&lt;rt&gt;つよ&lt;/rt&gt;&lt;/ruby&gt;くなっています。&#xA;  26 ９二飛成(95)&#xA;  27 ５二金(41)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  28 ７五歩(76)&#xA;*やはりと&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めが&lt;ruby&gt;確実&lt;rt&gt;かくじつ&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  29 ５四角打&#xA;  30 ７四歩(75)&#xA;  31 ２七角成(54)&#xA;*&lt;ruby&gt;馬&lt;rt&gt;うま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;作&lt;rt&gt;つく&lt;/rt&gt;&lt;/ruby&gt;られたくらいではそれほど&lt;ruby&gt;怖&lt;rt&gt;こわ&lt;/rt&gt;&lt;/ruby&gt;くありません。&lt;ruby&gt;駒&lt;rt&gt;こま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;渡&lt;rt&gt;わた&lt;/rt&gt;&lt;/ruby&gt;さなければ&lt;ruby&gt;大丈夫&lt;rt&gt;だいじょうぶ&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  32 ７三歩成(74)&#xA;  33 ５一銀(62)&#xA;  34 ７二成香(83)&#xA;  35 ３三玉(42)&#xA;  36 ６二と(73)&#xA;  37 同　銀(51)&#xA;  38 同　成香(72)&#xA;  39 ４二金(52)&#xA;  40 ５二成香(62)&#xA;  41 ３二金(42)&#xA;  42 ４一成香(52)&#xA;*ここまで&lt;ruby&gt;進&lt;rt&gt;すす&lt;/rt&gt;&lt;/ruby&gt;めばあとすこしです。&#xA;  43 ５四馬(27)&#xA;  44 ３一成香(41)&#xA;  45 同　金(32)&#xA;  46 ４二銀打&#xA;*&lt;ruby&gt;決&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;め&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&lt;ruby&gt;下手&lt;rt&gt;したて&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;め&lt;ruby&gt;間違&lt;rt&gt;まちが&lt;/rt&gt;&lt;/ruby&gt;わなければ&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;てるので、もっとゆっくり&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めてもいいです。&#xA;  47 同　金(31)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&lt;ruby&gt;難問&lt;rt&gt;なんもん&lt;/rt&gt;&lt;/ruby&gt;。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  48 ２二銀打&#xA;*&lt;ruby&gt;詰将棋&lt;rt&gt;つめしょうぎ&lt;/rt&gt;&lt;/ruby&gt;でも&lt;ruby&gt;出&lt;rt&gt;で&lt;/rt&gt;&lt;/ruby&gt;てくる&lt;ruby&gt;手筋&lt;rt&gt;てすじ&lt;/rt&gt;&lt;/ruby&gt;です。&lt;ruby&gt;詰将棋&lt;rt&gt;つめしょうぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;練習&lt;rt&gt;れんしゅう&lt;/rt&gt;&lt;/ruby&gt;をすると、このような&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;えるようになってきます。&#xA;  49 ４四玉(33)&#xA;*&lt;ruby&gt;同玉&lt;rt&gt;どうぎょく&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;即&lt;rt&gt;そく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;詰&lt;rt&gt;つ&lt;/rt&gt;&lt;/ruby&gt;みなので&lt;ruby&gt;逃&lt;rt&gt;に&lt;/rt&gt;&lt;/ruby&gt;げる&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  50 ４二龍(92)&#xA;  51 ５七香打&#xA;  52 ６八玉(59)&#xA;  53 ６五馬(54)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&lt;ruby&gt;難問&lt;rt&gt;なんもん&lt;/rt&gt;&lt;/ruby&gt;。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  54 ５五金打&#xA;*ほかにも&lt;ruby&gt;正解&lt;rt&gt;せいかい&lt;/rt&gt;&lt;/ruby&gt;はありますが、☗&lt;ruby&gt;５五金打&lt;rt&gt;ごーごーきんうち&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;一番&lt;rt&gt;いちばん&lt;/rt&gt;&lt;/ruby&gt;わかりやすいです。&#xA;  55 同　馬(65)&#xA;  56 同　歩(56)&#xA;  57 ５六金打&#xA;  58 ３三角打&#xA;  59 ４五玉(44)&#xA;  60 ３六金打&#xA;  61 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/example5/&#34;&gt;&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;棋譜&lt;rt&gt;きふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;よう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat1.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで60手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>六枚落ち実戦例5</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example5/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例5 (右端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row pt-3&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat18.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ４二玉(51)&#xA;   2 ７六歩(77)&#xA;   3 ７二金(61)&#xA;   4 １六歩(17)&#xA;   5 ３二金(41)&#xA;   6 １五歩(16)&#xA;   7 ２二銀(31)&#xA;   8 １七香(19)&#xA;   9 ３一玉(42)&#xA;  10 １八飛(28)&#xA;*☗&lt;ruby&gt;１七&lt;rt&gt;いちなな&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;香&lt;rt&gt;きょう&lt;/rt&gt;&lt;/ruby&gt;〜☗&lt;ruby&gt;１八&lt;rt&gt;いちはち&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;飛&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;基本&lt;rt&gt;きほん&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  11 ２一玉(31)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: すぐに☗&lt;ruby&gt;１四&lt;rt&gt;いちよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;から&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;められるでしょうか？&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  12 ６六角(88)&#xA;*すぐに☗&lt;ruby&gt;１四&lt;rt&gt;いちよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;とは攻められません。☖&lt;ruby&gt;同歩&lt;rt&gt;どうふ&lt;/rt&gt;&lt;/ruby&gt;☗&lt;ruby&gt;同香&lt;rt&gt;どうきょう&lt;/rt&gt;&lt;/ruby&gt;☖&lt;ruby&gt;１三&lt;rt&gt;いちさん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;☗&lt;ruby&gt;同香&lt;rt&gt;どうきょう&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;成&lt;rt&gt;なり&lt;/rt&gt;&lt;/ruby&gt;☖&lt;ruby&gt;同銀&lt;rt&gt;どうぎん&lt;/rt&gt;&lt;/ruby&gt;☗&lt;ruby&gt;同飛車成&lt;rt&gt;どうひしゃなり&lt;/rt&gt;&lt;/ruby&gt;☖&lt;ruby&gt;１二&lt;rt&gt;いちにー&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;香&lt;rt&gt;きょう&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;飛車&lt;rt&gt;ひしゃ&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;死&lt;rt&gt;し&lt;/rt&gt;&lt;/ruby&gt;んでしまいます。&#xA;*そこで☗&lt;ruby&gt;６六角&lt;rt&gt;ろくろくかく&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;力&lt;rt&gt;ちから&lt;/rt&gt;&lt;/ruby&gt;をためます。&#xA;  13 ８二銀(71)&#xA;  14 ５六歩(57)&#xA;  15 ７四歩(73)&#xA;  16 ５七角(66)&#xA;*☗&lt;ruby&gt;５六&lt;rt&gt;ごーろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;〜☗&lt;ruby&gt;５七角&lt;rt&gt;ごーななかく&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;駒&lt;rt&gt;こま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;集&lt;rt&gt;あつ&lt;/rt&gt;&lt;/ruby&gt;めるいい&lt;ruby&gt;手順&lt;rt&gt;てじゅん&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  17 ３四歩(33)&#xA;  18 １四歩(15)&#xA;  19 同　歩(13)&#xA;  20 同　香(17)&#xA;  21 ３一玉(21)&#xA;*&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;受&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;からないので&lt;ruby&gt;早逃&lt;rt&gt;はやに&lt;/rt&gt;&lt;/ruby&gt;げします。&#xA;  22 １二香成(14)&#xA;  23 ３三銀(22)&#xA;  24 １三角成(57)&#xA;  25 ４二玉(31)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  26 ４六馬(13)&#xA;*&lt;ruby&gt;飛車&lt;rt&gt;ひしゃ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;成&lt;rt&gt;な&lt;/rt&gt;&lt;/ruby&gt;るために&lt;ruby&gt;馬&lt;rt&gt;うま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;引&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;くのがいい&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  27 ４四歩(43)&#xA;  28 ２一成香(12)&#xA;  29 ７三銀(82)&#xA;  30 １二飛成(18)&#xA;  31 ６四銀(73)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  32 １四歩打&#xA;*&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;める&lt;ruby&gt;時&lt;rt&gt;とき&lt;/rt&gt;&lt;/ruby&gt;はいつも、と&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めから&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えましょう。&#xA;  33 ４三玉(42)&#xA;  34 １三歩成(14)&#xA;  35 １一歩打&#xA;  36 同　成香(21)&#xA;  37 ６五銀(64)&#xA;  38 ２三と(13)&#xA;  39 同　金(32)&#xA;  40 同　龍(12)&#xA;  41 ２二歩打&#xA;  42 １三龍(23)&#xA;  43 ３二玉(43)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  44 ２四金打&#xA;*&lt;ruby&gt;馬&lt;rt&gt;うま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;活用&lt;rt&gt;かつよう&lt;/rt&gt;&lt;/ruby&gt;する☗&lt;ruby&gt;２四金打&lt;rt&gt;にーよんきんうち&lt;/rt&gt;&lt;/ruby&gt;がいい&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  45 ４二銀(33)&#xA;  46 ３四金(24)&#xA;  47 ４一玉(32)&#xA;  48 ２二龍(13)&#xA;  49 ７六銀(65)&#xA;  50 ２四馬(46)&#xA;  51 ３三歩打&#xA;  52 ７三歩打&#xA;*すぐに☗&lt;ruby&gt;３三金&lt;rt&gt;さんさんきん&lt;/rt&gt;&lt;/ruby&gt;でも&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ちですが、☗&lt;ruby&gt;７三&lt;rt&gt;ななさん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩打&lt;rt&gt;ふうち&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;王&lt;rt&gt;おう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;逃&lt;rt&gt;に&lt;/rt&gt;&lt;/ruby&gt;げ&lt;ruby&gt;道&lt;rt&gt;みち&lt;/rt&gt;&lt;/ruby&gt;をふさぐ&lt;ruby&gt;絶妙手&lt;rt&gt;ぜつみょうしゅ&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  53 同　金(72)&#xA;  54 ３三金(34)&#xA;  55 同　銀(42)&#xA;  56 同　馬(24)&#xA;  57 ６七銀成(76)&#xA;  58 ４二馬(33)&#xA;  59 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/example6/&#34;&gt;&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;棋譜&lt;rt&gt;きふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;よう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat1.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで58手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>六枚落ち実戦例6</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example6/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例6 (右端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row pt-3&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat19.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ４二玉(51)&#xA;   2 ７六歩(77)&#xA;   3 ７二金(61)&#xA;   4 １六歩(17)&#xA;   5 ３二金(41)&#xA;   6 １五歩(16)&#xA;   7 ２二銀(31)&#xA;   8 １七香(19)&#xA;   9 ２四歩(23)&#xA;*&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;変化球&lt;rt&gt;へんかきゅう&lt;/rt&gt;&lt;/ruby&gt;です。☗&lt;ruby&gt;１八&lt;rt&gt;いちはち&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;飛&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;は☖&lt;ruby&gt;２三金&lt;rt&gt;にーさんきん&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めがつながりません。ほかの&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めを&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;える&lt;ruby&gt;必要&lt;rt&gt;ひつよう&lt;/rt&gt;&lt;/ruby&gt;があります。&#xA;  10 ２六歩(27)&#xA;*&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;伸&lt;rt&gt;の&lt;/rt&gt;&lt;/ruby&gt;びて&lt;ruby&gt;争点&lt;rt&gt;そうてん&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;近&lt;rt&gt;ちか&lt;/rt&gt;&lt;/ruby&gt;づいたので、２&lt;ruby&gt;筋&lt;rt&gt;すじ&lt;/rt&gt;&lt;/ruby&gt;から&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めましょう。&#xA;  11 ２三金(32)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  12 ３八銀(39)&#xA;*すぐに☗&lt;ruby&gt;２五&lt;rt&gt;にーごー&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めるより&lt;ruby&gt;棒銀&lt;rt&gt;ぼうぎん&lt;/rt&gt;&lt;/ruby&gt;がわかりやすいです。&#xA;  13 ７四歩(73)&#xA;  14 ２七銀(38)&#xA;  15 ３二玉(42)&#xA;  16 ３六銀(27)&#xA;  17 ３四金(23)&#xA;  18 ２五歩(26)&#xA;  19 同　歩(24)&#xA;  20 同　銀(36)&#xA;  21 同　金(34)&#xA;  22 同　飛(28)&#xA;  23 ２三歩打&#xA;  24 ２八飛(25)&#xA;*&lt;ruby&gt;金銀交換&lt;rt&gt;きんぎんこうかん&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;満足&lt;rt&gt;まんぞく&lt;/rt&gt;&lt;/ruby&gt;して&lt;ruby&gt;飛車&lt;rt&gt;ひしゃ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;引&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;いておきます。&#xA;  25 ７三金(72)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  26 ２五金打&#xA;*☗&lt;ruby&gt;１四&lt;rt&gt;いちよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;からの&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めをねらった&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  27 ６四金(73)&#xA;*&lt;ruby&gt;宿題&lt;rt&gt;しゅくだい&lt;/rt&gt;&lt;/ruby&gt;: ☖&lt;ruby&gt;１二銀&lt;rt&gt;いちにーぎん&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;変化&lt;rt&gt;へんか&lt;/rt&gt;&lt;/ruby&gt;も&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみてください。&#xA;  28 １四歩(15)&#xA;  29 同　歩(13)&#xA;  30 １三歩打&#xA;*☗&lt;ruby&gt;同金&lt;rt&gt;どうきん&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めても&lt;ruby&gt;十分&lt;rt&gt;じゅうぶん&lt;/rt&gt;&lt;/ruby&gt;ですがより&lt;ruby&gt;駒得&lt;rt&gt;こまどく&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;目指&lt;rt&gt;めざ&lt;/rt&gt;&lt;/ruby&gt;します。☖&lt;ruby&gt;同銀&lt;rt&gt;どうぎん&lt;/rt&gt;&lt;/ruby&gt;には☗&lt;ruby&gt;１四&lt;rt&gt;いちよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;香&lt;rt&gt;きょう&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;厳&lt;rt&gt;きび&lt;/rt&gt;&lt;/ruby&gt;しいです。&#xA;  31 ２一銀打&#xA;  32 １四香(17)&#xA;  33 １一歩打&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  34 １八飛(28)&#xA;*これで&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;受&lt;rt&gt;う&lt;/rt&gt;&lt;/ruby&gt;かりません。&#xA;  35 ５四歩(53)&#xA;  36 １二歩成(13)&#xA;  37 同　歩(11)&#xA;  38 同　香成(14)&#xA;  39 同　銀(21)&#xA;  40 同　飛成(18)&#xA;  41 １一香打&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  42 ２一銀打&#xA;*&lt;ruby&gt;重要&lt;rt&gt;じゅうよう&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。ほかの&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;では&lt;ruby&gt;逆転&lt;rt&gt;ぎゃくてん&lt;/rt&gt;&lt;/ruby&gt;もありえます。&#xA;  43 ３一玉(32)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  44 ３三角成(88)&#xA;*&lt;ruby&gt;重要&lt;rt&gt;じゅうよう&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;一手&lt;rt&gt;いって&lt;/rt&gt;&lt;/ruby&gt;です。&lt;ruby&gt;形&lt;rt&gt;かたち&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;違&lt;rt&gt;ちが&lt;/rt&gt;&lt;/ruby&gt;うと&lt;ruby&gt;成立&lt;rt&gt;せいりつ&lt;/rt&gt;&lt;/ruby&gt;しないので&lt;ruby&gt;注意&lt;rt&gt;ちゅうい&lt;/rt&gt;&lt;/ruby&gt;してください。&#xA;  45 同　銀(22)&#xA;  46 ３二龍(12)&#xA;  47 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/example7/&#34;&gt;&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;棋譜&lt;rt&gt;きふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;よう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat1.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで46手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>六枚落ち実戦例7</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example7/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例7 (右端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row pt-3&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat20.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ２二銀(31)&#xA;*&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めは&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;変化球&lt;rt&gt;へんかきゅう&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;多&lt;rt&gt;おお&lt;/rt&gt;&lt;/ruby&gt;いので、&lt;ruby&gt;変化&lt;rt&gt;へんか&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;少&lt;rt&gt;すく&lt;/rt&gt;&lt;/ruby&gt;ない&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;し&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;紹介&lt;rt&gt;しょうかい&lt;/rt&gt;&lt;/ruby&gt;します。&#xA;   2 ７六歩(77)&#xA;   3 ３二金(41)&#xA;   4 １六歩(17)&#xA;   5 ８二銀(71)&#xA;   6 １五歩(16)&#xA;   7 ７四歩(73)&#xA;   8 １六香(19)&#xA;*&lt;ruby&gt;定跡&lt;rt&gt;じょうせき&lt;/rt&gt;&lt;/ruby&gt;にはない&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;ですが、わかりやすい&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めができます。&#xA;   9 ２四歩(23)&#xA;*☖&lt;ruby&gt;２四&lt;rt&gt;にーよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;以外&lt;rt&gt;いがい&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;は☗&lt;ruby&gt;１八&lt;rt&gt;いちはち&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;飛&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;優勢&lt;rt&gt;ゆうせい&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  10 ２六歩(27)&#xA;  11 ６四歩(63)&#xA;  12 １七桂(29)&#xA;*おぼえてほしい&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  13 ４四歩(43)&#xA;  14 ２五歩(26)&#xA;  15 同　歩(24)&#xA;  16 同　桂(17)&#xA;  17 ２三歩打&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  18 １三桂成(25)&#xA;*&lt;ruby&gt;桂馬&lt;rt&gt;けいま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;渡&lt;rt&gt;わた&lt;/rt&gt;&lt;/ruby&gt;しますが、これで&lt;ruby&gt;決&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;まっています。&#xA;  19 同　銀(22)&#xA;  20 １四歩(15)&#xA;  21 ２四銀(13)&#xA;  22 １三歩成(14)&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;に☗&lt;ruby&gt;１四&lt;rt&gt;いちよん&lt;/rt&gt;&lt;/ruby&gt;ととできれば&lt;ruby&gt;優勢&lt;rt&gt;ゆうせい&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  23 ２五桂打&#xA;*&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;紛&lt;rt&gt;まぎ&lt;/rt&gt;&lt;/ruby&gt;れを&lt;ruby&gt;求&lt;rt&gt;もと&lt;/rt&gt;&lt;/ruby&gt;めて&lt;ruby&gt;暴&lt;rt&gt;あば&lt;/rt&gt;&lt;/ruby&gt;れてきます。&#xA;  24 ２七飛(28)&#xA;*いつでも☗&lt;ruby&gt;１四&lt;rt&gt;いちよん&lt;/rt&gt;&lt;/ruby&gt;とは&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;せるのでしっかり受けます。&#xA;  25 ３四歩(33)&#xA;  26 １四と(13)&#xA;  27 ３七桂成(25)&#xA;  28 同　飛(27)&#xA;  29 ３五銀(24)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  30 ２七飛(37)&#xA;*２&lt;ruby&gt;筋&lt;rt&gt;すじ&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;突破&lt;rt&gt;とっぱ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;目指&lt;rt&gt;めざ&lt;/rt&gt;&lt;/ruby&gt;す☗&lt;ruby&gt;２七&lt;rt&gt;にーなな&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;飛&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;がわかりやすいです。&#xA;*ほかにも☗&lt;ruby&gt;２七&lt;rt&gt;にーなな&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩打&lt;rt&gt;ふうち&lt;/rt&gt;&lt;/ruby&gt;〜☗&lt;ruby&gt;３六&lt;rt&gt;さんろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩打&lt;rt&gt;ふうち&lt;/rt&gt;&lt;/ruby&gt;と&lt;ruby&gt;完封&lt;rt&gt;かんぷう&lt;/rt&gt;&lt;/ruby&gt;する&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;し&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;もありそうです。&#xA;  31 ６二玉(51)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  32 ２九飛(27)&#xA;*☗&lt;ruby&gt;２三&lt;rt&gt;にーさん&lt;/rt&gt;&lt;/ruby&gt;とは☖&lt;ruby&gt;２六&lt;rt&gt;にーろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;事件&lt;rt&gt;じけん&lt;/rt&gt;&lt;/ruby&gt;です。&lt;ruby&gt;飛車&lt;rt&gt;ひしゃ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;先&lt;rt&gt;さき&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;引&lt;rt&gt;ひ&lt;/rt&gt;&lt;/ruby&gt;いておく&lt;ruby&gt;余裕&lt;rt&gt;よゆう&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;必要&lt;rt&gt;ひつよう&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  33 ２四歩(23)&#xA;  34 同　と(14)&#xA;  35 ２七歩打&#xA;  36 同　飛(29)&#xA;  37 ３六銀(35)&#xA;  38 ２六飛(27)&#xA;  39 ４七銀成(36)&#xA;*&lt;ruby&gt;成銀&lt;rt&gt;なりぎん&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;王&lt;rt&gt;おう&lt;/rt&gt;&lt;/ruby&gt;に&lt;ruby&gt;近&lt;rt&gt;ちか&lt;/rt&gt;&lt;/ruby&gt;いので&lt;ruby&gt;気&lt;rt&gt;き&lt;/rt&gt;&lt;/ruby&gt;になるかもしれませんが、&lt;ruby&gt;駒&lt;rt&gt;こま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;渡&lt;rt&gt;わた&lt;/rt&gt;&lt;/ruby&gt;さないかぎり&lt;ruby&gt;怖&lt;rt&gt;こわ&lt;/rt&gt;&lt;/ruby&gt;くありません。&#xA;  40 ３四と(24)&#xA;  41 ４二金(32)&#xA;  42 ２二飛成(26)&#xA;  43 ５二金(61)&#xA;  44 ３三と(34)&#xA;*ここまでくれば、あとすこしです。&#xA;  45 ２一歩打&#xA;  46 ３一龍(22)&#xA;  47 ３三金(42)&#xA;  48 同　龍(31)&#xA;  49 ５七成銀(47)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  50 ４三歩打&#xA;*やはりと&lt;ruby&gt;金&lt;rt&gt;きん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めが&lt;ruby&gt;強力&lt;rt&gt;きょうりょく&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  51 ７二玉(62)&#xA;  52 ４二歩成(43)&#xA;  53 ６二金(52)&#xA;  54 ３二龍(33)&#xA;  55 ８四歩(83)&#xA;  56 ５二と(42)&#xA;  57 ７三金(62)&#xA;  58 ６二と(52)&#xA;  59 ８三玉(72)&#xA;*すぐに&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めてもいいですが、&lt;ruby&gt;守&lt;rt&gt;まも&lt;/rt&gt;&lt;/ruby&gt;りの&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;  60 ６八銀(79)&#xA;*&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;め&lt;ruby&gt;駒&lt;rt&gt;こま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;取&lt;rt&gt;と&lt;/rt&gt;&lt;/ruby&gt;りにいく&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;し&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;も、&lt;ruby&gt;心配&lt;rt&gt;しんぱい&lt;/rt&gt;&lt;/ruby&gt;がなくなり&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ちやすいです。&#xA;  61 ５六成銀(57)&#xA;  62 ３六龍(32)&#xA;*&lt;ruby&gt;銀&lt;rt&gt;ぎん&lt;/rt&gt;&lt;/ruby&gt;をつかまえることに&lt;ruby&gt;成功&lt;rt&gt;せいこう&lt;/rt&gt;&lt;/ruby&gt;しました。あとはゆっくり&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めるだけです。&#xA;  63 ８五歩(84)&#xA;  64 ５六龍(36)&#xA;  65 ５四歩(53)&#xA;  66 同　龍(56)&#xA;  67 ７五歩(74)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  68 同　歩(76)&#xA;*このような&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;はすべて☗&lt;ruby&gt;同歩&lt;rt&gt;どうふ&lt;/rt&gt;&lt;/ruby&gt;から&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えたいです。&#xA;  69 ８六歩(85)&#xA;  70 同　歩(87)&#xA;  71 ７一歩打&#xA;  72 ６三と(62)&#xA;  73 ５八歩打&#xA;  74 同　玉(59)&#xA;  75 ９四歩(93)&#xA;  76 ７三と(63)&#xA;  77 同　銀(82)&#xA;  78 ６三龍(54)&#xA;  79 ５七歩打&#xA;  80 同　銀(68)&#xA;  81 ２二歩(21)&#xA;  82 ７四金打&#xA;  83 ８二玉(83)&#xA;  84 ８三金打&#xA;  85 ８一玉(82)&#xA;  86 ９二銀打&#xA;  87 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/example8/&#34;&gt;&#xA;*&lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;棋譜&lt;rt&gt;きふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;見&lt;rt&gt;み&lt;/rt&gt;&lt;/ruby&gt;よう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat1.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで86手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>六枚落ち実戦例8</title>
-      <link>http://localhost:1313/shogi-beginners/6mai/example8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shogi-beginners/6mai/example8/</guid>
-      <description>&lt;nav aria-label=&#34;breadcrumb&#34;&gt;&#xA;  &lt;ol class=&#34;breadcrumb rounded shadow p-3&#34;&gt;&#xA;    &#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;六枚落ち&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;li class=&#34;breadcrumb-item active&#34; aria-current=&#34;page&#34;&gt;実戦例8 (右端攻め)&lt;/li&gt;&#xA;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&#xA;&lt;div class=&#34;row pt-3&#34;&gt;&#xA;  &lt;div class=&#34;col-sm&#34; tabindex=&#34;-1&#34;&gt;&#xA;    &lt;script id=&#34;example-kif&#34; type=&#34;text/plain&#34;&gt;&#xA;手合割：六枚落ち&#xA;下手：下手&#xA;上手：上手&#xA;手数----指手---------消費時間--&#xA;*&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めの&lt;ruby&gt;勝&lt;rt&gt;か&lt;/rt&gt;&lt;/ruby&gt;ち&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;をおぼえましょう。&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat21.webp&#34;&gt;&lt;/div&gt;&#xA;   1 ２二銀(31)&#xA;*&lt;ruby&gt;右端&lt;rt&gt;みぎはし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めは&lt;ruby&gt;上手&lt;rt&gt;うわて&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;変化球&lt;rt&gt;へんかきゅう&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;多&lt;rt&gt;おお&lt;/rt&gt;&lt;/ruby&gt;いので、&lt;ruby&gt;変化&lt;rt&gt;へんか&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;少&lt;rt&gt;すく&lt;/rt&gt;&lt;/ruby&gt;ない&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;し&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;紹介&lt;rt&gt;しょうかい&lt;/rt&gt;&lt;/ruby&gt;します。&#xA;   2 ２六歩(27)&#xA;   3 ３二金(41)&#xA;   4 ２五歩(26)&#xA;*☖&lt;ruby&gt;２四&lt;rt&gt;にーよん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;突&lt;rt&gt;つ&lt;/rt&gt;&lt;/ruby&gt;かせないために、☗&lt;ruby&gt;２五&lt;rt&gt;にーごー&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;突&lt;rt&gt;つ&lt;/rt&gt;&lt;/ruby&gt;いておく&lt;ruby&gt;指&lt;rt&gt;さ&lt;/rt&gt;&lt;/ruby&gt;し&lt;ruby&gt;方&lt;rt&gt;かた&lt;/rt&gt;&lt;/ruby&gt;もあります。&#xA;   5 ６二玉(51)&#xA;   6 １六歩(17)&#xA;   7 ７二銀(71)&#xA;   8 １五歩(16)&#xA;*ここまでくれば&lt;ruby&gt;端&lt;rt&gt;はし&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;めは&lt;ruby&gt;成功&lt;rt&gt;せいこう&lt;/rt&gt;&lt;/ruby&gt;します。&#xA;   9 ７四歩(73)&#xA;  10 ７六歩(77)&#xA;  11 ７三銀(72)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  12 １七香(19)&#xA;*いつも&lt;ruby&gt;通&lt;rt&gt;とお&lt;/rt&gt;&lt;/ruby&gt;り☗&lt;ruby&gt;１七&lt;rt&gt;いちなな&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;香&lt;rt&gt;きょう&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;正解&lt;rt&gt;せいかい&lt;/rt&gt;&lt;/ruby&gt;です。もちろん☗&lt;ruby&gt;１六&lt;rt&gt;いちろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;香&lt;rt&gt;きょう&lt;/rt&gt;&lt;/ruby&gt;でもいいです。&#xA;  13 ６四銀(73)&#xA;  14 １八飛(28)&#xA;*&lt;ruby&gt;王&lt;rt&gt;おう&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;２一&lt;rt&gt;にーいち&lt;/rt&gt;&lt;/ruby&gt;や&lt;ruby&gt;１二&lt;rt&gt;いちにー&lt;/rt&gt;&lt;/ruby&gt;にいるときは、☗&lt;ruby&gt;７六&lt;rt&gt;ななろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;〜☗&lt;ruby&gt;５六&lt;rt&gt;ごーろく&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby&gt;歩&lt;rt&gt;ふ&lt;/rt&gt;&lt;/ruby&gt;〜☗&lt;ruby&gt;５七角&lt;rt&gt;ごーななかく&lt;/rt&gt;&lt;/ruby&gt;で&lt;ruby&gt;攻&lt;rt&gt;せ&lt;/rt&gt;&lt;/ruby&gt;め&lt;ruby&gt;駒&lt;rt&gt;こま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;足&lt;rt&gt;た&lt;/rt&gt;&lt;/ruby&gt;しましょう。&#xA;  15 ７二金(61)&#xA;  16 １四歩(15)&#xA;  17 同　歩(13)&#xA;  18 同　香(17)&#xA;  19 ３四歩(33)&#xA;  20 １二香成(14)&#xA;  21 ３三銀(22)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  22 ２一成香(12)&#xA;*&lt;ruby&gt;飛車&lt;rt&gt;ひしゃ&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;成&lt;rt&gt;な&lt;/rt&gt;&lt;/ruby&gt;るために&lt;ruby&gt;重要&lt;rt&gt;じゅうよう&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;です。&#xA;  23 ４四歩(43)&#xA;  24 １二飛成(18)&#xA;  25 ４二金(32)&#xA;  26 ３一成香(21)&#xA;  27 ７三玉(62)&#xA;  28 ３二成香(31)&#xA;*&lt;ruby&gt;金銀&lt;rt&gt;きんぎん&lt;/rt&gt;&lt;/ruby&gt;のどちらかと&lt;ruby&gt;香車&lt;rt&gt;きょうしゃ&lt;/rt&gt;&lt;/ruby&gt;が&lt;ruby&gt;交換&lt;rt&gt;こうかん&lt;/rt&gt;&lt;/ruby&gt;できれば&lt;ruby&gt;勝利&lt;rt&gt;しょうり&lt;/rt&gt;&lt;/ruby&gt;は&lt;ruby&gt;近&lt;rt&gt;ちか&lt;/rt&gt;&lt;/ruby&gt;いです。&#xA;  29 １一歩打&#xA;  30 ２一龍(12)&#xA;  31 ７五歩(74)&#xA;  32 ４二成香(32)&#xA;  33 同　銀(33)&#xA;  34 ４一龍(21)&#xA;  35 ３三銀(42)&#xA;  36 ３二龍(41)&#xA;  37 ６五銀(64)&#xA;  38 ７五歩(76)&#xA;  39 ６四歩(63)&#xA;  40 ３三龍(32)&#xA;*&lt;ruby&gt;急&lt;rt&gt;いそ&lt;/rt&gt;&lt;/ruby&gt;ぐ&lt;ruby&gt;必要&lt;rt&gt;ひつよう&lt;/rt&gt;&lt;/ruby&gt;はないので、ゆっくり&lt;ruby&gt;重要&lt;rt&gt;じゅうよう&lt;/rt&gt;&lt;/ruby&gt;な&lt;ruby&gt;駒&lt;rt&gt;こま&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;取&lt;rt&gt;と&lt;/rt&gt;&lt;/ruby&gt;っていきましょう。&#xA;  41 ６三金(72)&#xA;  42 ４二龍(33)&#xA;  43 ８四玉(73)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  44 ８六金打&#xA;*&lt;ruby&gt;王&lt;rt&gt;おう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;逃&lt;rt&gt;に&lt;/rt&gt;&lt;/ruby&gt;げ&lt;ruby&gt;道&lt;rt&gt;みち&lt;/rt&gt;&lt;/ruby&gt;をふさぐ☗&lt;ruby&gt;８六金打&lt;rt&gt;はちろくきんうち&lt;/rt&gt;&lt;/ruby&gt;がわかりやすいです。&#xA;  45 ９四歩(93)&#xA;  46 ８五銀打&#xA;  47 ９三玉(84)&#xA;  48 ７二龍(42)&#xA;  49 ５四金(63)&#xA;*&lt;ruby&gt;問題&lt;rt&gt;もんだい&lt;/rt&gt;&lt;/ruby&gt;: &lt;ruby&gt;次&lt;rt&gt;つぎ&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;手&lt;rt&gt;て&lt;/rt&gt;&lt;/ruby&gt;を&lt;ruby&gt;考&lt;rt&gt;かんが&lt;/rt&gt;&lt;/ruby&gt;えてみましょう。&#xA;*&lt;div&gt;&lt;img class=&#34;img-fluid&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat2.webp&#34;&gt;&lt;/div&gt;&#xA;  50 ７四歩(75)&#xA;*&lt;ruby&gt;急&lt;rt&gt;いそ&lt;/rt&gt;&lt;/ruby&gt;ぐ&lt;ruby&gt;必要&lt;rt&gt;ひつよう&lt;/rt&gt;&lt;/ruby&gt;はありません。&#xA;  51 ５五香打&#xA;  52 ７三歩成(74)&#xA;  53 ５七香成(55)&#xA;  54 ８三と(73)&#xA;  55 投了&#xA;*&lt;a href=&#34;http://localhost:1313/shogi-beginners/6mai/&#34;&gt;&#xA;*&lt;ruby&gt;復習&lt;rt&gt;ふくしゅう&lt;/rt&gt;&lt;/ruby&gt;しよう！&#xA;*&lt;div class=&#34;text-center&#34;&gt;&lt;img class=&#34;img-fluid pt-3 w-50&#34; src=&#34;http://localhost:1313/shogi-beginners/img/cat0.webp&#34;&gt;&lt;/div&gt;&lt;/a&gt;&#xA;まで54手で下手の勝ち&#xA;    &lt;/script&gt;&#xA;    &lt;svg id=&#34;example&#34; class=&#34;board&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0,0,400,540&#34;&gt;&lt;/svg&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;col-sm&#34;&gt;&#xA;    &lt;h4 class=&#34;pt-3&#34;&gt;コメント&lt;/h4&gt;&#xA;    &lt;div id=&#34;comment&#34;&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>六枚落ち on 将棋びぎなーず</title><link>http://marmooo.github.io/shogi-beginners/6mai/</link><description>Recent content in 六枚落ち on 将棋びぎなーず</description><generator>Hugo</generator><language>ja-jp</language><atom:link href="http://marmooo.github.io/shogi-beginners/6mai/index.xml" rel="self" type="application/rss+xml"/><item><title>六枚落ち実戦例1</title><link>http://marmooo.github.io/shogi-beginners/6mai/example1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example1/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例1 (左端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row pt-3">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>左端&lt;rt>ひだり端&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat14.webp">&lt;/div>
+ 1 ３二金(41)
+ 2 ７六歩(77)
+ 3 ７二金(61)
+ 4 ６六角(88)
+ 5 ８二銀(71)
+ 6 ９六歩(97)
+ 7 ７四歩(73)
+ 8 ９五歩(96)
+*&lt;ruby>八枚&lt;rt>はちまい&lt;/rt>&lt;/ruby>&lt;ruby>落&lt;rt>お&lt;/rt>&lt;/ruby>ちと&lt;ruby>同&lt;rt>おな&lt;/rt>&lt;/ruby>じ&lt;ruby>形&lt;rt>かたち&lt;/rt>&lt;/ruby>の&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めが&lt;ruby>使&lt;rt>つか&lt;/rt>&lt;/ruby>えます。
+ 9 ６四歩(63)
+ 10 ５六歩(57)
+*&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>の&lt;ruby>利&lt;rt>き&lt;/rt>&lt;/ruby>きを９&lt;ruby>筋&lt;rt>すじ&lt;/rt>&lt;/ruby>に&lt;ruby>残&lt;rt>のこ&lt;/rt>&lt;/ruby>す&lt;ruby>大事&lt;rt>だいじ&lt;/rt>&lt;/ruby>な&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。
+ 11 ５二玉(51)
+ 12 ９四歩(95)
+*この&lt;ruby>形&lt;rt>かたち&lt;/rt>&lt;/ruby>ができれば&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めは&lt;ruby>成功&lt;rt>せいこう&lt;/rt>&lt;/ruby>します。
+ 13 同　歩(93)
+ 14 同　香(99)
+ 15 ８四歩(83)
+ 16 ９二香成(94)
+ 17 ７三銀(82)
+ 18 ９八飛(28)
+*&lt;ruby>飛車&lt;rt>ひしゃ&lt;/rt>&lt;/ruby>の&lt;ruby>活用&lt;rt>かつよう&lt;/rt>&lt;/ruby>を&lt;ruby>目指&lt;rt>めざ&lt;/rt>&lt;/ruby>します。
+ 19 ４二銀(31)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 20 ８一成香(92)
+*☗&lt;ruby>９三&lt;rt>きゅうさん&lt;/rt>&lt;/ruby>&lt;ruby>飛成&lt;rt>ひなり&lt;/rt>&lt;/ruby>では&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めがありません。&lt;ruby>飛車&lt;rt>ひしゃ&lt;/rt>&lt;/ruby>の&lt;ruby>成&lt;rt>な&lt;/rt>&lt;/ruby>り&lt;ruby>場所&lt;rt>ばしょ&lt;/rt>&lt;/ruby>を変える☗&lt;ruby>８一&lt;rt>はちいち&lt;/rt>&lt;/ruby>&lt;ruby>成香&lt;rt>なりきょう&lt;/rt>&lt;/ruby>が&lt;ruby>正解&lt;rt>せいかい&lt;/rt>&lt;/ruby>です。
+ 21 ５四歩(53)
+ 22 ９二飛成(98)
+ 23 ６三玉(52)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 24 ９四歩打
+*と&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めを&lt;ruby>目指&lt;rt>めざ&lt;/rt>&lt;/ruby>す☗&lt;ruby>９四&lt;rt>きゅうよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>が&lt;ruby>正解&lt;rt>せいかい&lt;/rt>&lt;/ruby>です。
+ 25 ５三銀(42)
+ 26 ９三歩成(94)
+ 27 ６五歩(64)
+ 28 ５七角(66)
+ 29 ６二金(72)
+ 30 ８三と(93)
+ 31 ６四銀(73)
+ 32 ７一成香(81)
+ 33 ４二金(32)
+ 34 ７二成香(71)
+ 35 ５五歩(54)
+ 36 同　歩(56)
+ 37 同　銀(64)
+ 38 ６二成香(72)
+ 39 同　銀(53)
+ 40 ８四角(57)
+ 41 ５三銀(62)
+ 42 ７三角成(84)
+ 43 ５四玉(63)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 44 ５五馬(73)
+*&lt;ruby>時&lt;rt>とき&lt;/rt>&lt;/ruby>には&lt;ruby>馬&lt;rt>うま&lt;/rt>&lt;/ruby>を&lt;ruby>捨&lt;rt>す&lt;/rt>&lt;/ruby>てて&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めることも&lt;ruby>大切&lt;rt>たいせつ&lt;/rt>&lt;/ruby>です。&lt;ruby>以下&lt;rt>いか&lt;/rt>&lt;/ruby>、7&lt;ruby>手詰&lt;rt>てづめ&lt;/rt>&lt;/ruby>です。
+ 45 同　玉(54)
+ 46 ４六銀打
+ 47 ６四玉(55)
+ 48 ５五金打
+ 49 ６三玉(64)
+ 50 ７二龍(92)
+ 51 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/example2/">
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>棋譜&lt;rt>きふ&lt;/rt>&lt;/ruby>を&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>よう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat1.webp">&lt;/div>&lt;/a>
+まで50手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item><item><title>六枚落ち実戦例2</title><link>http://marmooo.github.io/shogi-beginners/6mai/example2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example2/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例2 (左端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row pt-3">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>左端&lt;rt>ひだりはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat15.webp">&lt;/div>
+ 1 ３二金(41)
+ 2 ７六歩(77)
+ 3 ７二金(61)
+ 4 ６六角(88)
+ 5 ８二銀(71)
+ 6 ９六歩(97)
+ 7 ７四歩(73)
+ 8 ９五歩(96)
+ 9 ６四歩(63)
+ 10 ５六歩(57)
+*&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>の&lt;ruby>利&lt;rt>き&lt;/rt>&lt;/ruby>きを９&lt;ruby>筋&lt;rt>すじ&lt;/rt>&lt;/ruby>に&lt;ruby>残&lt;rt>のこ&lt;/rt>&lt;/ruby>す&lt;ruby>大事&lt;rt>だいじ&lt;/rt>&lt;/ruby>な&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。
+ 11 ７三金(72)
+*☖&lt;ruby>７三金&lt;rt>ななさんきん&lt;/rt>&lt;/ruby>と&lt;ruby>強&lt;rt>つよ&lt;/rt>&lt;/ruby>く&lt;ruby>受&lt;rt>う&lt;/rt>&lt;/ruby>ける&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>の&lt;ruby>力&lt;rt>ちから&lt;/rt>&lt;/ruby>で&lt;ruby>押&lt;rt>お&lt;/rt>&lt;/ruby>さえ&lt;ruby>込&lt;rt>こ&lt;/rt>&lt;/ruby>む&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>し&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>です。
+ 12 ９四歩(95)
+ 13 同　歩(93)
+ 14 同　香(99)
+ 15 ８四金(73)
+ 16 ９八飛(28)
+ 17 ９五歩打
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 18 ８四角(66)
+*この&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>は&lt;ruby>知&lt;rt>し&lt;/rt>&lt;/ruby>っていないと&lt;ruby>難&lt;rt>むずか&lt;/rt>&lt;/ruby>しいかもしれません。☗&lt;ruby>９二&lt;rt>きゅうにー&lt;/rt>&lt;/ruby>&lt;ruby>香成&lt;rt>きょうなり&lt;/rt>&lt;/ruby>は☖&lt;ruby>７三銀&lt;rt>ななさんぎん&lt;/rt>&lt;/ruby>でその&lt;ruby>後&lt;rt>あと&lt;/rt>&lt;/ruby>の&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めがありません。
+ 19 同　歩(83)
+ 20 ９五飛(98)
+*&lt;ruby>角金交換&lt;rt>かくきんこうかん&lt;/rt>&lt;/ruby>でも&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めが&lt;ruby>厳&lt;rt>きび&lt;/rt>&lt;/ruby>しく&lt;ruby>優勢&lt;rt>ゆうせい&lt;/rt>&lt;/ruby>ですが、&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>を&lt;ruby>渡&lt;rt>わた&lt;/rt>&lt;/ruby>したのでするどく&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めないといけません。ここからの&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めをよくおぼえましょう。
+ 21 ４二玉(51)
+ 22 ９二香成(94)
+ 23 ７三銀(82)
+ 24 ９三飛成(95)
+ 25 ６二銀(73)
+ 26 ８二龍(93)
+*&lt;ruby>銀&lt;rt>ぎん&lt;/rt>&lt;/ruby>&lt;ruby>取&lt;rt>と&lt;/rt>&lt;/ruby>りを見せながら&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めていきましょう。
+ 27 ５二玉(42)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 28 ７五歩(76)
+*と&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>を&lt;ruby>作&lt;rt>つく&lt;/rt>&lt;/ruby>りにいくのが&lt;ruby>手堅&lt;rt>てがた&lt;/rt>&lt;/ruby>いです。ほかには☗&lt;ruby>７三金打&lt;rt>ななさんきんうち&lt;/rt>&lt;/ruby>もいい&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>ですが、なるべく&lt;ruby>駒&lt;rt>こま&lt;/rt>&lt;/ruby>を&lt;ruby>使&lt;rt>つか&lt;/rt>&lt;/ruby>わずに&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めたいです。
+ 29 ４二銀(31)
+ 30 ７四歩(75)
+ 31 ４四歩(43)
+ 32 ７三歩成(74)
+ 33 ５一銀(42)
+ 34 ６二と(73)
+ 35 同　銀(51)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 36 ７四歩打
+*ここでもと&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>を&lt;ruby>作&lt;rt>つく&lt;/rt>&lt;/ruby>りにいくのが&lt;ruby>手堅&lt;rt>てがた&lt;/rt>&lt;/ruby>いです。&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>は&lt;ruby>受&lt;rt>う&lt;/rt>&lt;/ruby>けがありません。
+ 37 ７二歩打
+ 38 同　龍(82)
+ 39 ５四角打
+ 40 ８二龍(72)
+ 41 ８七角成(54)
+ 42 ７三歩成(74)
+ 43 ４三玉(52)
+ 44 ６二龍(82)
+ 45 ３四歩(33)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 46 ６三と(73)
+*&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>める&lt;ruby>時&lt;rt>とき&lt;/rt>&lt;/ruby>はなるべくと&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>を&lt;ruby>活用&lt;rt>かつよう&lt;/rt>&lt;/ruby>しましょう。
+ 47 ３三玉(43)
+ 48 ７八銀(79)
+ 49 ７六馬(87)
+ 50 ５三龍(62)
+ 51 ４三馬(76)
+ 52 ５一龍(53)
+*&lt;ruby>龍&lt;rt>りゅう&lt;/rt>&lt;/ruby>と&lt;ruby>馬&lt;rt>うま&lt;/rt>&lt;/ruby>の&lt;ruby>交換&lt;rt>こうかん&lt;/rt>&lt;/ruby>は&lt;ruby>損&lt;rt>そん&lt;/rt>&lt;/ruby>なので&lt;ruby>逃&lt;rt>に&lt;/rt>&lt;/ruby>げておきます。
+ 53 ４二馬(43)
+ 54 ６二龍(51)
+ 55 ３一馬(42)
+ 56 ５三と(63)
+ 57 ３五歩(34)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 58 ２五銀打
+*&lt;ruby>王&lt;rt>おう&lt;/rt>&lt;/ruby>の&lt;ruby>逃&lt;rt>に&lt;/rt>&lt;/ruby>げ&lt;ruby>道&lt;rt>みち&lt;/rt>&lt;/ruby>をふさぐように&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>していくと&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ちやすいです。
+ 59 ２二玉(33)
+ 60 ４三と(53)
+ 61 ５七歩打
+ 62 ３三金打
+ 63 １一玉(22)
+ 64 ３二と(43)
+ 65 同　馬(31)
+ 66 同　龍(62)
+ 67 ９八歩打
+ 68 １二金打
+ 69 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/example3/">
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>棋譜&lt;rt>きふ&lt;/rt>&lt;/ruby>を&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>よう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat1.webp">&lt;/div>&lt;/a>
+まで68手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item><item><title>六枚落ち実戦例3</title><link>http://marmooo.github.io/shogi-beginners/6mai/example3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example3/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例3 (左端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>左端&lt;rt>ひだりはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat16.webp">&lt;/div>
+ 1 ３二金(41)
+ 2 ７六歩(77)
+ 3 ７二金(61)
+ 4 ６六角(88)
+ 5 ８二銀(71)
+ 6 ９六歩(97)
+ 7 ７四歩(73)
+ 8 ９五歩(96)
+ 9 ８四歩(83)
+*&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>を&lt;ruby>犠牲&lt;rt>ぎせい&lt;/rt>&lt;/ruby>にした&lt;ruby>受&lt;rt>う&lt;/rt>&lt;/ruby>けです。
+ 10 同　角(66)
+*&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>の&lt;ruby>利&lt;rt>き&lt;/rt>&lt;/ruby>きがないと&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めはつながりません。☗&lt;ruby>同角&lt;rt>どうかく&lt;/rt>&lt;/ruby>の&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。
+ 11 ５二玉(51)
+ 12 ６六角(84)
+ 13 ６四歩(63)
+ 14 ５六歩(57)
+*&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>の&lt;ruby>利&lt;rt>き&lt;/rt>&lt;/ruby>きを９&lt;ruby>筋&lt;rt>すじ&lt;/rt>&lt;/ruby>に&lt;ruby>残&lt;rt>のこ&lt;/rt>&lt;/ruby>す&lt;ruby>大事&lt;rt>だいじ&lt;/rt>&lt;/ruby>な&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。
+ 15 ８三金(72)
+*&lt;ruby>金銀&lt;rt>きんぎん&lt;/rt>&lt;/ruby>で&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>を&lt;ruby>強&lt;rt>つよ&lt;/rt>&lt;/ruby>く&lt;ruby>受&lt;rt>う&lt;/rt>&lt;/ruby>けています。それでも☗&lt;ruby>９七&lt;rt>きゅうなな&lt;/rt>&lt;/ruby>&lt;ruby>香&lt;rt>きょう&lt;/rt>&lt;/ruby>〜☗&lt;ruby>９八&lt;rt>きゅうはち&lt;/rt>&lt;/ruby>&lt;ruby>飛&lt;rt>ひ&lt;/rt>&lt;/ruby>〜☗&lt;ruby>９四&lt;rt>きゅうよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>とすれば&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めは&lt;ruby>成功&lt;rt>せいこう&lt;/rt>&lt;/ruby>するのですが、ほかの&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+ 16 ８六歩(87)
+*&lt;ruby>守&lt;rt>まも&lt;/rt>&lt;/ruby>りの&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>がいなくなったのを&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>て８&lt;ruby>筋&lt;rt>すじ&lt;/rt>&lt;/ruby>から&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めるのがいい&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めは&lt;ruby>香車&lt;rt>きょうしゃ&lt;/rt>&lt;/ruby>を&lt;ruby>渡&lt;rt>わた&lt;/rt>&lt;/ruby>してしまうぶん、やや&lt;ruby>損&lt;rt>そん&lt;/rt>&lt;/ruby>です。
+ 17 ４二銀(31)
+ 18 ８五歩(86)
+ 19 ７三銀(82)
+ 20 ８八飛(28)
+ 21 ５四歩(53)
+ 22 ８四歩(85)
+ 23 同　銀(73)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 24 同　角(66)
+*&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>と&lt;ruby>金銀&lt;rt>きんぎん&lt;/rt>&lt;/ruby>を&lt;ruby>交換&lt;rt>こうかん&lt;/rt>&lt;/ruby>して&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めるのがいい&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。&lt;ruby>金銀&lt;rt>きんぎん&lt;/rt>&lt;/ruby>2&lt;ruby>枚&lt;rt>まい&lt;/rt>&lt;/ruby>は&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>1&lt;ruby>枚&lt;rt>まい&lt;/rt>&lt;/ruby>よりすこし&lt;ruby>得&lt;rt>とく&lt;/rt>&lt;/ruby>とおぼえておきましょう。
+ 25 同　金(83)
+ 26 同　飛(88)
+ 27 ４四歩(43)
+ 28 ８二飛成(84)
+ 29 ４三玉(52)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。&lt;ruby>難問&lt;rt>なんもん&lt;/rt>&lt;/ruby>。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 30 ３六歩(37)
+*☗&lt;ruby>５二銀&lt;rt>ごーにーぎん&lt;/rt>&lt;/ruby>と&lt;ruby>打&lt;rt>う&lt;/rt>&lt;/ruby>ちたくなるところですが、☖&lt;ruby>３四&lt;rt>さんよん&lt;/rt>&lt;/ruby>&lt;ruby>玉&lt;rt>ぎょく&lt;/rt>&lt;/ruby>☗&lt;ruby>３六&lt;rt>さんろく&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>☖&lt;ruby>２四&lt;rt>にーよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>とされて&lt;ruby>意外&lt;rt>いがい&lt;/rt>&lt;/ruby>とつかまりません。
+*先に☗&lt;ruby>３六&lt;rt>さんろく&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>として☖&lt;ruby>２四&lt;rt>にーよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>を&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>させないようにします。
+ 31 ３一金(32)
+ 32 ５二銀打
+ 33 ３二玉(43)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。&lt;ruby>難問&lt;rt>なんもん&lt;/rt>&lt;/ruby>。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 34 ４一金打
+*&lt;ruby>決&lt;rt>き&lt;/rt>&lt;/ruby>め&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。☖&lt;ruby>同金&lt;rt>どうきん&lt;/rt>&lt;/ruby>は☗&lt;ruby>同銀&lt;rt>どうぎん&lt;/rt>&lt;/ruby>&lt;ruby>歩成&lt;rt>ふなり&lt;/rt>&lt;/ruby>で&lt;ruby>決次&lt;rt>き&lt;/rt>&lt;/ruby>まっていることを&lt;ruby>確認&lt;rt>かくにん&lt;/rt>&lt;/ruby>してください。
+ 35 ３四歩(33)
+ 36 ３一金(41)
+ 37 同　銀(42)
+ 38 ４三金打
+ 39 ２一玉(32)
+ 40 ４一銀成(52)
+ 41 ５七金打
+ 42 ３一成銀(41)
+ 43 １一玉(21)
+ 44 １二銀打
+ 45 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/example4/">
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>棋譜&lt;rt>きふ&lt;/rt>&lt;/ruby>を&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>よう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat1.webp">&lt;/div>&lt;/a>
+まで44手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item><item><title>六枚落ち実戦例4</title><link>http://marmooo.github.io/shogi-beginners/6mai/example4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example4/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例4 (左端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row pt-3">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>左端&lt;rt>ひだりはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat17.webp">&lt;/div>
+ 1 ４二玉(51)
+*これまでは☖&lt;ruby>３二金&lt;rt>さんにーきん&lt;/rt>&lt;/ruby>が&lt;ruby>壁&lt;rt>かべ&lt;/rt>&lt;/ruby>になり&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>はすこし&lt;ruby>損&lt;rt>そん&lt;/rt>&lt;/ruby>をしていました。&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>が&lt;ruby>完璧&lt;rt>かんぺき&lt;/rt>&lt;/ruby>な&lt;ruby>受&lt;rt>う&lt;/rt>&lt;/ruby>けをしてきた&lt;ruby>場合&lt;rt>ばあい&lt;/rt>&lt;/ruby>はどうなるでしょうか。
+ 2 ７六歩(77)
+ 3 ７二金(61)
+ 4 ６六角(88)
+ 5 ８二銀(71)
+ 6 ９六歩(97)
+ 7 ７四歩(73)
+ 8 ９五歩(96)
+ 9 ６四歩(63)
+ 10 ５六歩(57)
+*&lt;ruby>角&lt;rt>かく&lt;/rt>&lt;/ruby>の&lt;ruby>利&lt;rt>き&lt;/rt>&lt;/ruby>きを９&lt;ruby>筋&lt;rt>すじ&lt;/rt>&lt;/ruby>に&lt;ruby>残&lt;rt>のこ&lt;/rt>&lt;/ruby>す&lt;ruby>大事&lt;rt>だいじ&lt;/rt>&lt;/ruby>な&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。
+ 11 ７三金(72)
+ 12 ９四歩(95)
+ 13 同　歩(93)
+ 14 同　香(99)
+ 15 ８四金(73)
+ 16 ９八飛(28)
+ 17 ９五歩打
+ 18 ８四角(66)
+ 19 同　歩(83)
+ 20 ９五飛(98)
+*ここまでは&lt;ruby>下手&lt;rt>したて&lt;/rt>&lt;/ruby>も&lt;ruby>変化&lt;rt>へんか&lt;/rt>&lt;/ruby>する&lt;ruby>必要&lt;rt>ひよう&lt;/rt>&lt;/ruby>はありません。
+ 21 ３四歩(33)
+ 22 ９三香成(94)
+*&lt;ruby>９三&lt;rt>きゅうさん&lt;/rt>&lt;/ruby>に&lt;ruby>成&lt;rt>な&lt;/rt>&lt;/ruby>るのがよさそうです。
+ 23 ７一銀(82)
+*&lt;ruby>宿題&lt;rt>しゅくだい&lt;/rt>&lt;/ruby>: ☖&lt;ruby>同銀&lt;rt>どうぎん&lt;/rt>&lt;/ruby>の&lt;ruby>変化&lt;rt>へんか&lt;/rt>&lt;/ruby>も&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみてください。
+ 24 ８三成香(93)
+ 25 ６二銀(71)
+*&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>は&lt;ruby>横&lt;rt>よこ&lt;/rt>&lt;/ruby>からの&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めにすこし&lt;ruby>強&lt;rt>つよ&lt;/rt>&lt;/ruby>くなっています。
+ 26 ９二飛成(95)
+ 27 ５二金(41)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 28 ７五歩(76)
+*やはりと&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めが&lt;ruby>確実&lt;rt>かくじつ&lt;/rt>&lt;/ruby>です。
+ 29 ５四角打
+ 30 ７四歩(75)
+ 31 ２七角成(54)
+*&lt;ruby>馬&lt;rt>うま&lt;/rt>&lt;/ruby>を&lt;ruby>作&lt;rt>つく&lt;/rt>&lt;/ruby>られたくらいではそれほど&lt;ruby>怖&lt;rt>こわ&lt;/rt>&lt;/ruby>くありません。&lt;ruby>駒&lt;rt>こま&lt;/rt>&lt;/ruby>を&lt;ruby>渡&lt;rt>わた&lt;/rt>&lt;/ruby>さなければ&lt;ruby>大丈夫&lt;rt>だいじょうぶ&lt;/rt>&lt;/ruby>です。
+ 32 ７三歩成(74)
+ 33 ５一銀(62)
+ 34 ７二成香(83)
+ 35 ３三玉(42)
+ 36 ６二と(73)
+ 37 同　銀(51)
+ 38 同　成香(72)
+ 39 ４二金(52)
+ 40 ５二成香(62)
+ 41 ３二金(42)
+ 42 ４一成香(52)
+*ここまで&lt;ruby>進&lt;rt>すす&lt;/rt>&lt;/ruby>めばあとすこしです。
+ 43 ５四馬(27)
+ 44 ３一成香(41)
+ 45 同　金(32)
+ 46 ４二銀打
+*&lt;ruby>決&lt;rt>き&lt;/rt>&lt;/ruby>め&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。&lt;ruby>下手&lt;rt>したて&lt;/rt>&lt;/ruby>は&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>め&lt;ruby>間違&lt;rt>まちが&lt;/rt>&lt;/ruby>わなければ&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>てるので、もっとゆっくり&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めてもいいです。
+ 47 同　金(31)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。&lt;ruby>難問&lt;rt>なんもん&lt;/rt>&lt;/ruby>。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 48 ２二銀打
+*&lt;ruby>詰将棋&lt;rt>つめしょうぎ&lt;/rt>&lt;/ruby>でも&lt;ruby>出&lt;rt>で&lt;/rt>&lt;/ruby>てくる&lt;ruby>手筋&lt;rt>てすじ&lt;/rt>&lt;/ruby>です。&lt;ruby>詰将棋&lt;rt>つめしょうぎ&lt;/rt>&lt;/ruby>の&lt;ruby>練習&lt;rt>れんしゅう&lt;/rt>&lt;/ruby>をすると、このような&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>が&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>えるようになってきます。
+ 49 ４四玉(33)
+*&lt;ruby>同玉&lt;rt>どうぎょく&lt;/rt>&lt;/ruby>は&lt;ruby>即&lt;rt>そく&lt;/rt>&lt;/ruby>&lt;ruby>詰&lt;rt>つ&lt;/rt>&lt;/ruby>みなので&lt;ruby>逃&lt;rt>に&lt;/rt>&lt;/ruby>げる&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。
+ 50 ４二龍(92)
+ 51 ５七香打
+ 52 ６八玉(59)
+ 53 ６五馬(54)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。&lt;ruby>難問&lt;rt>なんもん&lt;/rt>&lt;/ruby>。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 54 ５五金打
+*ほかにも&lt;ruby>正解&lt;rt>せいかい&lt;/rt>&lt;/ruby>はありますが、☗&lt;ruby>５五金打&lt;rt>ごーごーきんうち&lt;/rt>&lt;/ruby>が&lt;ruby>一番&lt;rt>いちばん&lt;/rt>&lt;/ruby>わかりやすいです。
+ 55 同　馬(65)
+ 56 同　歩(56)
+ 57 ５六金打
+ 58 ３三角打
+ 59 ４五玉(44)
+ 60 ３六金打
+ 61 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/example5/">
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>棋譜&lt;rt>きふ&lt;/rt>&lt;/ruby>を&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>よう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat1.webp">&lt;/div>&lt;/a>
+まで60手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item><item><title>六枚落ち実戦例5</title><link>http://marmooo.github.io/shogi-beginners/6mai/example5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example5/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例5 (右端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row pt-3">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat18.webp">&lt;/div>
+ 1 ４二玉(51)
+ 2 ７六歩(77)
+ 3 ７二金(61)
+ 4 １六歩(17)
+ 5 ３二金(41)
+ 6 １五歩(16)
+ 7 ２二銀(31)
+ 8 １七香(19)
+ 9 ３一玉(42)
+ 10 １八飛(28)
+*☗&lt;ruby>１七&lt;rt>いちなな&lt;/rt>&lt;/ruby>&lt;ruby>香&lt;rt>きょう&lt;/rt>&lt;/ruby>〜☗&lt;ruby>１八&lt;rt>いちはち&lt;/rt>&lt;/ruby>&lt;ruby>飛&lt;rt>ひ&lt;/rt>&lt;/ruby>が&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>基本&lt;rt>きほん&lt;/rt>&lt;/ruby>です。
+ 11 ２一玉(31)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: すぐに☗&lt;ruby>１四&lt;rt>いちよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>から&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>められるでしょうか？
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 12 ６六角(88)
+*すぐに☗&lt;ruby>１四&lt;rt>いちよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>とは攻められません。☖&lt;ruby>同歩&lt;rt>どうふ&lt;/rt>&lt;/ruby>☗&lt;ruby>同香&lt;rt>どうきょう&lt;/rt>&lt;/ruby>☖&lt;ruby>１三&lt;rt>いちさん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>☗&lt;ruby>同香&lt;rt>どうきょう&lt;/rt>&lt;/ruby>&lt;ruby>成&lt;rt>なり&lt;/rt>&lt;/ruby>☖&lt;ruby>同銀&lt;rt>どうぎん&lt;/rt>&lt;/ruby>☗&lt;ruby>同飛車成&lt;rt>どうひしゃなり&lt;/rt>&lt;/ruby>☖&lt;ruby>１二&lt;rt>いちにー&lt;/rt>&lt;/ruby>&lt;ruby>香&lt;rt>きょう&lt;/rt>&lt;/ruby>で&lt;ruby>飛車&lt;rt>ひしゃ&lt;/rt>&lt;/ruby>が&lt;ruby>死&lt;rt>し&lt;/rt>&lt;/ruby>んでしまいます。
+*そこで☗&lt;ruby>６六角&lt;rt>ろくろくかく&lt;/rt>&lt;/ruby>と&lt;ruby>力&lt;rt>ちから&lt;/rt>&lt;/ruby>をためます。
+ 13 ８二銀(71)
+ 14 ５六歩(57)
+ 15 ７四歩(73)
+ 16 ５七角(66)
+*☗&lt;ruby>５六&lt;rt>ごーろく&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>〜☗&lt;ruby>５七角&lt;rt>ごーななかく&lt;/rt>&lt;/ruby>が&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>に&lt;ruby>駒&lt;rt>こま&lt;/rt>&lt;/ruby>を&lt;ruby>集&lt;rt>あつ&lt;/rt>&lt;/ruby>めるいい&lt;ruby>手順&lt;rt>てじゅん&lt;/rt>&lt;/ruby>です。
+ 17 ３四歩(33)
+ 18 １四歩(15)
+ 19 同　歩(13)
+ 20 同　香(17)
+ 21 ３一玉(21)
+*&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>が&lt;ruby>受&lt;rt>う&lt;/rt>&lt;/ruby>からないので&lt;ruby>早逃&lt;rt>はやに&lt;/rt>&lt;/ruby>げします。
+ 22 １二香成(14)
+ 23 ３三銀(22)
+ 24 １三角成(57)
+ 25 ４二玉(31)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 26 ４六馬(13)
+*&lt;ruby>飛車&lt;rt>ひしゃ&lt;/rt>&lt;/ruby>を&lt;ruby>成&lt;rt>な&lt;/rt>&lt;/ruby>るために&lt;ruby>馬&lt;rt>うま&lt;/rt>&lt;/ruby>を&lt;ruby>引&lt;rt>ひ&lt;/rt>&lt;/ruby>くのがいい&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。
+ 27 ４四歩(43)
+ 28 ２一成香(12)
+ 29 ７三銀(82)
+ 30 １二飛成(18)
+ 31 ６四銀(73)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 32 １四歩打
+*&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>める&lt;ruby>時&lt;rt>とき&lt;/rt>&lt;/ruby>はいつも、と&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めから&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えましょう。
+ 33 ４三玉(42)
+ 34 １三歩成(14)
+ 35 １一歩打
+ 36 同　成香(21)
+ 37 ６五銀(64)
+ 38 ２三と(13)
+ 39 同　金(32)
+ 40 同　龍(12)
+ 41 ２二歩打
+ 42 １三龍(23)
+ 43 ３二玉(43)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 44 ２四金打
+*&lt;ruby>馬&lt;rt>うま&lt;/rt>&lt;/ruby>を&lt;ruby>活用&lt;rt>かつよう&lt;/rt>&lt;/ruby>する☗&lt;ruby>２四金打&lt;rt>にーよんきんうち&lt;/rt>&lt;/ruby>がいい&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。
+ 45 ４二銀(33)
+ 46 ３四金(24)
+ 47 ４一玉(32)
+ 48 ２二龍(13)
+ 49 ７六銀(65)
+ 50 ２四馬(46)
+ 51 ３三歩打
+ 52 ７三歩打
+*すぐに☗&lt;ruby>３三金&lt;rt>さんさんきん&lt;/rt>&lt;/ruby>でも&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ちですが、☗&lt;ruby>７三&lt;rt>ななさん&lt;/rt>&lt;/ruby>&lt;ruby>歩打&lt;rt>ふうち&lt;/rt>&lt;/ruby>が&lt;ruby>王&lt;rt>おう&lt;/rt>&lt;/ruby>の&lt;ruby>逃&lt;rt>に&lt;/rt>&lt;/ruby>げ&lt;ruby>道&lt;rt>みち&lt;/rt>&lt;/ruby>をふさぐ&lt;ruby>絶妙手&lt;rt>ぜつみょうしゅ&lt;/rt>&lt;/ruby>です。
+ 53 同　金(72)
+ 54 ３三金(34)
+ 55 同　銀(42)
+ 56 同　馬(24)
+ 57 ６七銀成(76)
+ 58 ４二馬(33)
+ 59 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/example6/">
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>棋譜&lt;rt>きふ&lt;/rt>&lt;/ruby>を&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>よう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat1.webp">&lt;/div>&lt;/a>
+まで58手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item><item><title>六枚落ち実戦例6</title><link>http://marmooo.github.io/shogi-beginners/6mai/example6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example6/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例6 (右端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row pt-3">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat19.webp">&lt;/div>
+ 1 ４二玉(51)
+ 2 ７六歩(77)
+ 3 ７二金(61)
+ 4 １六歩(17)
+ 5 ３二金(41)
+ 6 １五歩(16)
+ 7 ２二銀(31)
+ 8 １七香(19)
+ 9 ２四歩(23)
+*&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>の&lt;ruby>変化球&lt;rt>へんかきゅう&lt;/rt>&lt;/ruby>です。☗&lt;ruby>１八&lt;rt>いちはち&lt;/rt>&lt;/ruby>&lt;ruby>飛&lt;rt>ひ&lt;/rt>&lt;/ruby>は☖&lt;ruby>２三金&lt;rt>にーさんきん&lt;/rt>&lt;/ruby>で&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めがつながりません。ほかの&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めを&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>える&lt;ruby>必要&lt;rt>ひつよう&lt;/rt>&lt;/ruby>があります。
+ 10 ２六歩(27)
+*&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>が&lt;ruby>伸&lt;rt>の&lt;/rt>&lt;/ruby>びて&lt;ruby>争点&lt;rt>そうてん&lt;/rt>&lt;/ruby>が&lt;ruby>近&lt;rt>ちか&lt;/rt>&lt;/ruby>づいたので、２&lt;ruby>筋&lt;rt>すじ&lt;/rt>&lt;/ruby>から&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めましょう。
+ 11 ２三金(32)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 12 ３八銀(39)
+*すぐに☗&lt;ruby>２五&lt;rt>にーごー&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>と&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めるより&lt;ruby>棒銀&lt;rt>ぼうぎん&lt;/rt>&lt;/ruby>がわかりやすいです。
+ 13 ７四歩(73)
+ 14 ２七銀(38)
+ 15 ３二玉(42)
+ 16 ３六銀(27)
+ 17 ３四金(23)
+ 18 ２五歩(26)
+ 19 同　歩(24)
+ 20 同　銀(36)
+ 21 同　金(34)
+ 22 同　飛(28)
+ 23 ２三歩打
+ 24 ２八飛(25)
+*&lt;ruby>金銀交換&lt;rt>きんぎんこうかん&lt;/rt>&lt;/ruby>に&lt;ruby>満足&lt;rt>まんぞく&lt;/rt>&lt;/ruby>して&lt;ruby>飛車&lt;rt>ひしゃ&lt;/rt>&lt;/ruby>を&lt;ruby>引&lt;rt>ひ&lt;/rt>&lt;/ruby>いておきます。
+ 25 ７三金(72)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 26 ２五金打
+*☗&lt;ruby>１四&lt;rt>いちよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>からの&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めをねらった&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。
+ 27 ６四金(73)
+*&lt;ruby>宿題&lt;rt>しゅくだい&lt;/rt>&lt;/ruby>: ☖&lt;ruby>１二銀&lt;rt>いちにーぎん&lt;/rt>&lt;/ruby>の&lt;ruby>変化&lt;rt>へんか&lt;/rt>&lt;/ruby>も&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみてください。
+ 28 １四歩(15)
+ 29 同　歩(13)
+ 30 １三歩打
+*☗&lt;ruby>同金&lt;rt>どうきん&lt;/rt>&lt;/ruby>と&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めても&lt;ruby>十分&lt;rt>じゅうぶん&lt;/rt>&lt;/ruby>ですがより&lt;ruby>駒得&lt;rt>こまどく&lt;/rt>&lt;/ruby>を&lt;ruby>目指&lt;rt>めざ&lt;/rt>&lt;/ruby>します。☖&lt;ruby>同銀&lt;rt>どうぎん&lt;/rt>&lt;/ruby>には☗&lt;ruby>１四&lt;rt>いちよん&lt;/rt>&lt;/ruby>&lt;ruby>香&lt;rt>きょう&lt;/rt>&lt;/ruby>が&lt;ruby>厳&lt;rt>きび&lt;/rt>&lt;/ruby>しいです。
+ 31 ２一銀打
+ 32 １四香(17)
+ 33 １一歩打
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 34 １八飛(28)
+*これで&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>が&lt;ruby>受&lt;rt>う&lt;/rt>&lt;/ruby>かりません。
+ 35 ５四歩(53)
+ 36 １二歩成(13)
+ 37 同　歩(11)
+ 38 同　香成(14)
+ 39 同　銀(21)
+ 40 同　飛成(18)
+ 41 １一香打
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 42 ２一銀打
+*&lt;ruby>重要&lt;rt>じゅうよう&lt;/rt>&lt;/ruby>な&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。ほかの&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>では&lt;ruby>逆転&lt;rt>ぎゃくてん&lt;/rt>&lt;/ruby>もありえます。
+ 43 ３一玉(32)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 44 ３三角成(88)
+*&lt;ruby>重要&lt;rt>じゅうよう&lt;/rt>&lt;/ruby>な&lt;ruby>一手&lt;rt>いって&lt;/rt>&lt;/ruby>です。&lt;ruby>形&lt;rt>かたち&lt;/rt>&lt;/ruby>が&lt;ruby>違&lt;rt>ちが&lt;/rt>&lt;/ruby>うと&lt;ruby>成立&lt;rt>せいりつ&lt;/rt>&lt;/ruby>しないので&lt;ruby>注意&lt;rt>ちゅうい&lt;/rt>&lt;/ruby>してください。
+ 45 同　銀(22)
+ 46 ３二龍(12)
+ 47 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/example7/">
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>棋譜&lt;rt>きふ&lt;/rt>&lt;/ruby>を&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>よう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat1.webp">&lt;/div>&lt;/a>
+まで46手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item><item><title>六枚落ち実戦例7</title><link>http://marmooo.github.io/shogi-beginners/6mai/example7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example7/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例7 (右端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row pt-3">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat20.webp">&lt;/div>
+ 1 ２二銀(31)
+*&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めは&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>の&lt;ruby>変化球&lt;rt>へんかきゅう&lt;/rt>&lt;/ruby>が&lt;ruby>多&lt;rt>おお&lt;/rt>&lt;/ruby>いので、&lt;ruby>変化&lt;rt>へんか&lt;/rt>&lt;/ruby>の&lt;ruby>少&lt;rt>すく&lt;/rt>&lt;/ruby>ない&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>し&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>を&lt;ruby>紹介&lt;rt>しょうかい&lt;/rt>&lt;/ruby>します。
+ 2 ７六歩(77)
+ 3 ３二金(41)
+ 4 １六歩(17)
+ 5 ８二銀(71)
+ 6 １五歩(16)
+ 7 ７四歩(73)
+ 8 １六香(19)
+*&lt;ruby>定跡&lt;rt>じょうせき&lt;/rt>&lt;/ruby>にはない&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>ですが、わかりやすい&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めができます。
+ 9 ２四歩(23)
+*☖&lt;ruby>２四&lt;rt>にーよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>&lt;ruby>以外&lt;rt>いがい&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>は☗&lt;ruby>１八&lt;rt>いちはち&lt;/rt>&lt;/ruby>&lt;ruby>飛&lt;rt>ひ&lt;/rt>&lt;/ruby>で&lt;ruby>優勢&lt;rt>ゆうせい&lt;/rt>&lt;/ruby>です。
+ 10 ２六歩(27)
+ 11 ６四歩(63)
+ 12 １七桂(29)
+*おぼえてほしい&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。
+ 13 ４四歩(43)
+ 14 ２五歩(26)
+ 15 同　歩(24)
+ 16 同　桂(17)
+ 17 ２三歩打
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 18 １三桂成(25)
+*&lt;ruby>桂馬&lt;rt>けいま&lt;/rt>&lt;/ruby>を&lt;ruby>渡&lt;rt>わた&lt;/rt>&lt;/ruby>しますが、これで&lt;ruby>決&lt;rt>き&lt;/rt>&lt;/ruby>まっています。
+ 19 同　銀(22)
+ 20 １四歩(15)
+ 21 ２四銀(13)
+ 22 １三歩成(14)
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>に☗&lt;ruby>１四&lt;rt>いちよん&lt;/rt>&lt;/ruby>ととできれば&lt;ruby>優勢&lt;rt>ゆうせい&lt;/rt>&lt;/ruby>です。
+ 23 ２五桂打
+*&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>は&lt;ruby>紛&lt;rt>まぎ&lt;/rt>&lt;/ruby>れを&lt;ruby>求&lt;rt>もと&lt;/rt>&lt;/ruby>めて&lt;ruby>暴&lt;rt>あば&lt;/rt>&lt;/ruby>れてきます。
+ 24 ２七飛(28)
+*いつでも☗&lt;ruby>１四&lt;rt>いちよん&lt;/rt>&lt;/ruby>とは&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>せるのでしっかり受けます。
+ 25 ３四歩(33)
+ 26 １四と(13)
+ 27 ３七桂成(25)
+ 28 同　飛(27)
+ 29 ３五銀(24)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 30 ２七飛(37)
+*２&lt;ruby>筋&lt;rt>すじ&lt;/rt>&lt;/ruby>&lt;ruby>突破&lt;rt>とっぱ&lt;/rt>&lt;/ruby>を&lt;ruby>目指&lt;rt>めざ&lt;/rt>&lt;/ruby>す☗&lt;ruby>２七&lt;rt>にーなな&lt;/rt>&lt;/ruby>&lt;ruby>飛&lt;rt>ひ&lt;/rt>&lt;/ruby>がわかりやすいです。
+*ほかにも☗&lt;ruby>２七&lt;rt>にーなな&lt;/rt>&lt;/ruby>&lt;ruby>歩打&lt;rt>ふうち&lt;/rt>&lt;/ruby>〜☗&lt;ruby>３六&lt;rt>さんろく&lt;/rt>&lt;/ruby>&lt;ruby>歩打&lt;rt>ふうち&lt;/rt>&lt;/ruby>と&lt;ruby>完封&lt;rt>かんぷう&lt;/rt>&lt;/ruby>する&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>し&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>もありそうです。
+ 31 ６二玉(51)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 32 ２九飛(27)
+*☗&lt;ruby>２三&lt;rt>にーさん&lt;/rt>&lt;/ruby>とは☖&lt;ruby>２六&lt;rt>にーろく&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>で&lt;ruby>事件&lt;rt>じけん&lt;/rt>&lt;/ruby>です。&lt;ruby>飛車&lt;rt>ひしゃ&lt;/rt>&lt;/ruby>を&lt;ruby>先&lt;rt>さき&lt;/rt>&lt;/ruby>に&lt;ruby>引&lt;rt>ひ&lt;/rt>&lt;/ruby>いておく&lt;ruby>余裕&lt;rt>よゆう&lt;/rt>&lt;/ruby>が&lt;ruby>必要&lt;rt>ひつよう&lt;/rt>&lt;/ruby>です。
+ 33 ２四歩(23)
+ 34 同　と(14)
+ 35 ２七歩打
+ 36 同　飛(29)
+ 37 ３六銀(35)
+ 38 ２六飛(27)
+ 39 ４七銀成(36)
+*&lt;ruby>成銀&lt;rt>なりぎん&lt;/rt>&lt;/ruby>が&lt;ruby>王&lt;rt>おう&lt;/rt>&lt;/ruby>に&lt;ruby>近&lt;rt>ちか&lt;/rt>&lt;/ruby>いので&lt;ruby>気&lt;rt>き&lt;/rt>&lt;/ruby>になるかもしれませんが、&lt;ruby>駒&lt;rt>こま&lt;/rt>&lt;/ruby>を&lt;ruby>渡&lt;rt>わた&lt;/rt>&lt;/ruby>さないかぎり&lt;ruby>怖&lt;rt>こわ&lt;/rt>&lt;/ruby>くありません。
+ 40 ３四と(24)
+ 41 ４二金(32)
+ 42 ２二飛成(26)
+ 43 ５二金(61)
+ 44 ３三と(34)
+*ここまでくれば、あとすこしです。
+ 45 ２一歩打
+ 46 ３一龍(22)
+ 47 ３三金(42)
+ 48 同　龍(31)
+ 49 ５七成銀(47)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 50 ４三歩打
+*やはりと&lt;ruby>金&lt;rt>きん&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めが&lt;ruby>強力&lt;rt>きょうりょく&lt;/rt>&lt;/ruby>です。
+ 51 ７二玉(62)
+ 52 ４二歩成(43)
+ 53 ６二金(52)
+ 54 ３二龍(33)
+ 55 ８四歩(83)
+ 56 ５二と(42)
+ 57 ７三金(62)
+ 58 ６二と(52)
+ 59 ８三玉(72)
+*すぐに&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めてもいいですが、&lt;ruby>守&lt;rt>まも&lt;/rt>&lt;/ruby>りの&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+ 60 ６八銀(79)
+*&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>の&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>め&lt;ruby>駒&lt;rt>こま&lt;/rt>&lt;/ruby>を&lt;ruby>取&lt;rt>と&lt;/rt>&lt;/ruby>りにいく&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>し&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>も、&lt;ruby>心配&lt;rt>しんぱい&lt;/rt>&lt;/ruby>がなくなり&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ちやすいです。
+ 61 ５六成銀(57)
+ 62 ３六龍(32)
+*&lt;ruby>銀&lt;rt>ぎん&lt;/rt>&lt;/ruby>をつかまえることに&lt;ruby>成功&lt;rt>せいこう&lt;/rt>&lt;/ruby>しました。あとはゆっくり&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めるだけです。
+ 63 ８五歩(84)
+ 64 ５六龍(36)
+ 65 ５四歩(53)
+ 66 同　龍(56)
+ 67 ７五歩(74)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 68 同　歩(76)
+*このような&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>はすべて☗&lt;ruby>同歩&lt;rt>どうふ&lt;/rt>&lt;/ruby>から&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えたいです。
+ 69 ８六歩(85)
+ 70 同　歩(87)
+ 71 ７一歩打
+ 72 ６三と(62)
+ 73 ５八歩打
+ 74 同　玉(59)
+ 75 ９四歩(93)
+ 76 ７三と(63)
+ 77 同　銀(82)
+ 78 ６三龍(54)
+ 79 ５七歩打
+ 80 同　銀(68)
+ 81 ２二歩(21)
+ 82 ７四金打
+ 83 ８二玉(83)
+ 84 ８三金打
+ 85 ８一玉(82)
+ 86 ９二銀打
+ 87 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/example8/">
+*&lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>棋譜&lt;rt>きふ&lt;/rt>&lt;/ruby>を&lt;ruby>見&lt;rt>み&lt;/rt>&lt;/ruby>よう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat1.webp">&lt;/div>&lt;/a>
+まで86手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item><item><title>六枚落ち実戦例8</title><link>http://marmooo.github.io/shogi-beginners/6mai/example8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://marmooo.github.io/shogi-beginners/6mai/example8/</guid><description>&lt;nav aria-label="breadcrumb">
+ &lt;ol class="breadcrumb rounded shadow p-3">
+ 
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/">Home&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item">&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">六枚落ち&lt;/a>&lt;/li>
+ &lt;li class="breadcrumb-item active" aria-current="page">実戦例8 (右端攻め)&lt;/li>
+
+ &lt;/ol>
+&lt;/nav>
+
+&lt;div class="row pt-3">
+ &lt;div class="col-sm" tabindex="-1">
+ &lt;script id="example-kif" type="text/plain">
+手合割：六枚落ち
+下手：下手
+上手：上手
+手数----指手---------消費時間--
+*&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めの&lt;ruby>勝&lt;rt>か&lt;/rt>&lt;/ruby>ち&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>をおぼえましょう。
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat21.webp">&lt;/div>
+ 1 ２二銀(31)
+*&lt;ruby>右端&lt;rt>みぎはし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めは&lt;ruby>上手&lt;rt>うわて&lt;/rt>&lt;/ruby>の&lt;ruby>変化球&lt;rt>へんかきゅう&lt;/rt>&lt;/ruby>が&lt;ruby>多&lt;rt>おお&lt;/rt>&lt;/ruby>いので、&lt;ruby>変化&lt;rt>へんか&lt;/rt>&lt;/ruby>の&lt;ruby>少&lt;rt>すく&lt;/rt>&lt;/ruby>ない&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>し&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>を&lt;ruby>紹介&lt;rt>しょうかい&lt;/rt>&lt;/ruby>します。
+ 2 ２六歩(27)
+ 3 ３二金(41)
+ 4 ２五歩(26)
+*☖&lt;ruby>２四&lt;rt>にーよん&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>を&lt;ruby>突&lt;rt>つ&lt;/rt>&lt;/ruby>かせないために、☗&lt;ruby>２五&lt;rt>にーごー&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>を&lt;ruby>突&lt;rt>つ&lt;/rt>&lt;/ruby>いておく&lt;ruby>指&lt;rt>さ&lt;/rt>&lt;/ruby>し&lt;ruby>方&lt;rt>かた&lt;/rt>&lt;/ruby>もあります。
+ 5 ６二玉(51)
+ 6 １六歩(17)
+ 7 ７二銀(71)
+ 8 １五歩(16)
+*ここまでくれば&lt;ruby>端&lt;rt>はし&lt;/rt>&lt;/ruby>&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>めは&lt;ruby>成功&lt;rt>せいこう&lt;/rt>&lt;/ruby>します。
+ 9 ７四歩(73)
+ 10 ７六歩(77)
+ 11 ７三銀(72)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 12 １七香(19)
+*いつも&lt;ruby>通&lt;rt>とお&lt;/rt>&lt;/ruby>り☗&lt;ruby>１七&lt;rt>いちなな&lt;/rt>&lt;/ruby>&lt;ruby>香&lt;rt>きょう&lt;/rt>&lt;/ruby>が&lt;ruby>正解&lt;rt>せいかい&lt;/rt>&lt;/ruby>です。もちろん☗&lt;ruby>１六&lt;rt>いちろく&lt;/rt>&lt;/ruby>&lt;ruby>香&lt;rt>きょう&lt;/rt>&lt;/ruby>でもいいです。
+ 13 ６四銀(73)
+ 14 １八飛(28)
+*&lt;ruby>王&lt;rt>おう&lt;/rt>&lt;/ruby>が&lt;ruby>２一&lt;rt>にーいち&lt;/rt>&lt;/ruby>や&lt;ruby>１二&lt;rt>いちにー&lt;/rt>&lt;/ruby>にいるときは、☗&lt;ruby>７六&lt;rt>ななろく&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>〜☗&lt;ruby>５六&lt;rt>ごーろく&lt;/rt>&lt;/ruby>&lt;ruby>歩&lt;rt>ふ&lt;/rt>&lt;/ruby>〜☗&lt;ruby>５七角&lt;rt>ごーななかく&lt;/rt>&lt;/ruby>で&lt;ruby>攻&lt;rt>せ&lt;/rt>&lt;/ruby>め&lt;ruby>駒&lt;rt>こま&lt;/rt>&lt;/ruby>を&lt;ruby>足&lt;rt>た&lt;/rt>&lt;/ruby>しましょう。
+ 15 ７二金(61)
+ 16 １四歩(15)
+ 17 同　歩(13)
+ 18 同　香(17)
+ 19 ３四歩(33)
+ 20 １二香成(14)
+ 21 ３三銀(22)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 22 ２一成香(12)
+*&lt;ruby>飛車&lt;rt>ひしゃ&lt;/rt>&lt;/ruby>を&lt;ruby>成&lt;rt>な&lt;/rt>&lt;/ruby>るために&lt;ruby>重要&lt;rt>じゅうよう&lt;/rt>&lt;/ruby>な&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>です。
+ 23 ４四歩(43)
+ 24 １二飛成(18)
+ 25 ４二金(32)
+ 26 ３一成香(21)
+ 27 ７三玉(62)
+ 28 ３二成香(31)
+*&lt;ruby>金銀&lt;rt>きんぎん&lt;/rt>&lt;/ruby>のどちらかと&lt;ruby>香車&lt;rt>きょうしゃ&lt;/rt>&lt;/ruby>が&lt;ruby>交換&lt;rt>こうかん&lt;/rt>&lt;/ruby>できれば&lt;ruby>勝利&lt;rt>しょうり&lt;/rt>&lt;/ruby>は&lt;ruby>近&lt;rt>ちか&lt;/rt>&lt;/ruby>いです。
+ 29 １一歩打
+ 30 ２一龍(12)
+ 31 ７五歩(74)
+ 32 ４二成香(32)
+ 33 同　銀(33)
+ 34 ４一龍(21)
+ 35 ３三銀(42)
+ 36 ３二龍(41)
+ 37 ６五銀(64)
+ 38 ７五歩(76)
+ 39 ６四歩(63)
+ 40 ３三龍(32)
+*&lt;ruby>急&lt;rt>いそ&lt;/rt>&lt;/ruby>ぐ&lt;ruby>必要&lt;rt>ひつよう&lt;/rt>&lt;/ruby>はないので、ゆっくり&lt;ruby>重要&lt;rt>じゅうよう&lt;/rt>&lt;/ruby>な&lt;ruby>駒&lt;rt>こま&lt;/rt>&lt;/ruby>を&lt;ruby>取&lt;rt>と&lt;/rt>&lt;/ruby>っていきましょう。
+ 41 ６三金(72)
+ 42 ４二龍(33)
+ 43 ８四玉(73)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 44 ８六金打
+*&lt;ruby>王&lt;rt>おう&lt;/rt>&lt;/ruby>の&lt;ruby>逃&lt;rt>に&lt;/rt>&lt;/ruby>げ&lt;ruby>道&lt;rt>みち&lt;/rt>&lt;/ruby>をふさぐ☗&lt;ruby>８六金打&lt;rt>はちろくきんうち&lt;/rt>&lt;/ruby>がわかりやすいです。
+ 45 ９四歩(93)
+ 46 ８五銀打
+ 47 ９三玉(84)
+ 48 ７二龍(42)
+ 49 ５四金(63)
+*&lt;ruby>問題&lt;rt>もんだい&lt;/rt>&lt;/ruby>: &lt;ruby>次&lt;rt>つぎ&lt;/rt>&lt;/ruby>の&lt;ruby>手&lt;rt>て&lt;/rt>&lt;/ruby>を&lt;ruby>考&lt;rt>かんが&lt;/rt>&lt;/ruby>えてみましょう。
+*&lt;div>&lt;img class="img-fluid" src="http://marmooo.github.io/shogi-beginners/img/cat2.webp">&lt;/div>
+ 50 ７四歩(75)
+*&lt;ruby>急&lt;rt>いそ&lt;/rt>&lt;/ruby>ぐ&lt;ruby>必要&lt;rt>ひつよう&lt;/rt>&lt;/ruby>はありません。
+ 51 ５五香打
+ 52 ７三歩成(74)
+ 53 ５七香成(55)
+ 54 ８三と(73)
+ 55 投了
+*&lt;a href="http://marmooo.github.io/shogi-beginners/6mai/">
+*&lt;ruby>復習&lt;rt>ふくしゅう&lt;/rt>&lt;/ruby>しよう！
+*&lt;div class="text-center">&lt;img class="img-fluid pt-3 w-50" src="http://marmooo.github.io/shogi-beginners/img/cat0.webp">&lt;/div>&lt;/a>
+まで54手で下手の勝ち
+ &lt;/script>
+ &lt;svg id="example" class="board" xmlns="http://www.w3.org/2000/svg" viewBox="0,0,400,540">&lt;/svg>
+ &lt;/div>
+ &lt;div class="col-sm">
+ &lt;h4 class="pt-3">コメント&lt;/h4>
+ &lt;div id="comment">&lt;/div>
+ &lt;/div>
+&lt;/div></description></item></channel></rss>
