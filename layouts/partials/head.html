@@ -1,3 +1,11 @@
+<script>
+  (function() {
+    const saved = localStorage.getItem("darkMode");
+    const prefersDark = globalThis.matchMedia("(prefers-color-scheme: dark)").matches;
+    const theme = saved || (prefersDark ? "dark" : "light");
+    document.documentElement.setAttribute("data-bs-theme", theme);
+  })();
+</script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-F2179JXDYY"></script>
 <script>
